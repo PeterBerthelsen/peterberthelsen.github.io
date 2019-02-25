@@ -32,7 +32,7 @@
 										</div>
 										<nav>
 											<p><br /></p>
-											<a href="#recipe" class="button primary">Get Recipe</a>
+											<a href="#recipe" id="getRecipe" class="button primary">Get Recipe</a>
 											<p><br /></p>
 										</nav>		
 						</div>
@@ -44,17 +44,18 @@
 							</ul>
 						</nav>
 					</header>
-				<!-- Recpie -->
 
 				<!-- Main -->
 					<div id="main">
+						
 						<!-- Recipe -->
 							<article id="recipe">
 								<h2 class="major" id="recpieHeader">Recipe</h2>
 								<div id="recipeBody">
 									<!-- Text is entered here -->
+									<div id="loadWheel" class="fa fa-spinner fa-pulse fa-3x fa-fw margin-bottom"></div>
 								</div>
-								<div id="loadWheel" class="fa fa-spinner fa-pulse fa-3x fa-fw margin-bottom">
+								
 							</article>
 
 						<!-- About -->
@@ -78,7 +79,8 @@
 									have to! Just copy/paste a recipe URL and smash the 	
 									Get Recipe button. We'll scour the website and do	
 									our best to cut through the ads, backstory, unnecessary 	
-									commentary and deliver to you just the dang recipe.	</p>
+									commentary and deliver to you exactly what our name 
+									suggests: just the dang recipe.	</p>
 								
 							</article>
 
@@ -133,6 +135,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/parse.js"></script>
 
 	</body>
 </html>
