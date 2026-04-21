@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Patristic Nectar Synaxarion</title>
+    <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
+    <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Apr 2026 17:16:32 +0000</lastBuildDate>
+    <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Patristic Nectar Publications</itunes:author>
+    <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-apr-holy-hieromartyr-januarius-and-company.jpg" />
+    <image>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/21-apr-holy-hieromartyr-januarius-and-company.jpg</url>
+      <title>Patristic Nectar Synaxarion</title>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
+    </image>
+    <item>
+      <title>Holy Hieromartyr Januarius and Those with Him</title>
+      <guid isPermaLink="false">patristic-nectar:3484</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-21&amp;episode=holy-hieromartyr-januarius-and-those-with-him</link>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Januarius and Those with Him</description>
+      <itunes:summary>Holy Hieromartyr Januarius and Those with Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-apr-holy-hieromartyr-januarius-and-company.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-januarius-and-those-with-him.mp3" length="8459493" type="audio/mpeg" />
+      <itunes:duration>00:03:31</itunes:duration>
+    </item>
+    <item>
+      <title>Venerable and God-Bearing Father Anastasius the Sinaite</title>
+      <guid isPermaLink="false">patristic-nectar:3485</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-21&amp;episode=venerable-and-god-bearing-father-anastasius-the-sinaite</link>
+      <pubDate>Tue, 21 Apr 2026 06:01:00 +0000</pubDate>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-apr-saint-anastasius-the-sinaite.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-anastasius-the-sinaite.mp3" length="9411395" type="audio/mpeg" />
+      <itunes:duration>00:03:55</itunes:duration>
+    </item>
+  </channel>
+</rss>
