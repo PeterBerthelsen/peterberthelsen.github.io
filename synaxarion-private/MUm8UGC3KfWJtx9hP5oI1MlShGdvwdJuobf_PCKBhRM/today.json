@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 37232848,
       "duration_seconds": 0,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-22-righteous-father-theodore-of-sykeon.mp3?token=fPQMPb-gfTnQwdW_VCowcPxOG3v79EY-60KqYG0EXqA&expires=1776838202"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-theodore-of-sykeon.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "righteous-father-theodore-of-sykeon.vtt",
+      "transcript_text_file_name": "righteous-father-theodore-of-sykeon.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-22-righteous-father-theodore-of-sykeon.mp3?token=rElGSu1GGL7EuczE7PQkrxVPzCvQ7_ghcvpoH6bsMbc&expires=1776855631"
     }
   ]
 }
