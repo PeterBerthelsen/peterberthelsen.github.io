@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 22283493,
       "duration_seconds": 557,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-23-holy-and-glorious-great-martyr-george-the-trophy-bearer.mp3?token=EuGU8Hnvt-TlurKJjFqDDE2l1EycGys6nrgYUDdOiLg&expires=1776924604"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy042301.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "sy042301.vtt",
+      "transcript_text_file_name": "sy042301.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-23-holy-and-glorious-great-martyr-george-the-trophy-bearer.mp3?token=pMTZWzWKnwLt1khhovvK97nbKKD3PtY6DIEHWB86DBA&expires=1776942086"
     }
   ]
 }
