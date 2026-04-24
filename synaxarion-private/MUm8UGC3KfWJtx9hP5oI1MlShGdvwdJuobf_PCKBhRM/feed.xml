@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:04:12 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-elizabeth-the-wonderworker.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-elizabeth-the-wonderworker.mp3" length="11040391" type="audio/mpeg" />
       <itunes:duration>00:04:36</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-elizabeth-the-wonderworker.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Father Wilfrid, Bishop of York</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-wilfrid-bishop-of-york.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-wilfrid-bishop-of-york.mp3" length="24452701" type="audio/mpeg" />
       <itunes:duration>00:10:11</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-wilfrid-bishop-of-york.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

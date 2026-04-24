@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 11040391,
       "duration_seconds": 276,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-24-righteous-mother-elizabeth-the-wonderworker.mp3?token=wFqgCiGkMt3RihvPa5HmVwbiL39gm23CllWCSoHp2IA&expires=1777011002"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-elizabeth-the-wonderworker.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "righteous-mother-elizabeth-the-wonderworker.vtt",
+      "transcript_text_file_name": "righteous-mother-elizabeth-the-wonderworker.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-24-righteous-mother-elizabeth-the-wonderworker.mp3?token=_OLAlaFGJAUj-T4Ht43xlA_yaxgHvjVe0tCbwqfQGso&expires=1777028463"
     },
     {
       "date": "2026-04-24",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 24452701,
       "duration_seconds": 611,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-24-holy-father-wilfrid-bishop-of-york.mp3?token=lMIDDef0m_LkoliluT3LPVDAYq-L9xzKpO9bDJ3GM3s&expires=1777011003"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-wilfrid-bishop-of-york.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-wilfrid-bishop-of-york.vtt",
+      "transcript_text_file_name": "holy-father-wilfrid-bishop-of-york.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-24-holy-father-wilfrid-bishop-of-york.mp3?token=bFDyOndTdIm075DBZsilH4QIvoyrlSuXTBgDpBmLv-c&expires=1777028463"
     }
   ]
 }
