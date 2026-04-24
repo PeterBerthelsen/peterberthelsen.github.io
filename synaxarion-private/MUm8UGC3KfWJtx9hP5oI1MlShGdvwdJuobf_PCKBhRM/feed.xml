@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:10:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-apr-saint-george-the-trophybearer.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-elizabeth-the-wonderworker.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-apr-saint-george-the-trophybearer.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-elizabeth-the-wonderworker.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy and Glorious Great Martyr George the Trophy-bearer</title>
-      <guid isPermaLink="false">patristic-nectar:5058</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-23&amp;episode=sy042301</link>
-      <pubDate>Thu, 23 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Holy and Glorious Great Martyr George the Trophy-bearer</description>
-      <itunes:summary>Holy and Glorious Great Martyr George the Trophy-bearer</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-apr-saint-george-the-trophybearer.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="22283493" type="audio/mpeg" />
-      <itunes:duration>00:09:17</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy042301.vtt" type="text/vtt" />
+      <title>Righteous Mother Elizabeth the Wonderworker</title>
+      <guid isPermaLink="false">patristic-nectar:3488</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-24&amp;episode=righteous-mother-elizabeth-the-wonderworker</link>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Mother Elizabeth the Wonderworker</description>
+      <itunes:summary>Righteous Mother Elizabeth the Wonderworker</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-elizabeth-the-wonderworker.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-elizabeth-the-wonderworker.mp3" length="11040391" type="audio/mpeg" />
+      <itunes:duration>00:04:36</itunes:duration>
+    </item>
+    <item>
+      <title>Holy Father Wilfrid, Bishop of York</title>
+      <guid isPermaLink="false">patristic-nectar:3489</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-24&amp;episode=holy-father-wilfrid-bishop-of-york</link>
+      <pubDate>Fri, 24 Apr 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Wilfrid, Bishop of York</description>
+      <itunes:summary>Holy Father Wilfrid, Bishop of York</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-apr-saint-wilfrid-bishop-of-york.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-wilfrid-bishop-of-york.mp3" length="24452701" type="audio/mpeg" />
+      <itunes:duration>00:10:11</itunes:duration>
     </item>
   </channel>
 </rss>
