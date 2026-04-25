@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 24807966,
       "duration_seconds": 620,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-25-holy-apostle-and-evangelist-mark.mp3?token=TrNPCq6Ypu71QIwUxW86bHavd4lcjU1SCCJgXoJewKk&expires=1777097405"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-and-evangelist-mark.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-apostle-and-evangelist-mark.vtt",
+      "transcript_text_file_name": "holy-apostle-and-evangelist-mark.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-25-holy-apostle-and-evangelist-mark.mp3?token=j5D-ClT_1j1G9lurvoKsnIvJfNuR-zCU3UEKauxBOBE&expires=1777114881"
     }
   ]
 }
