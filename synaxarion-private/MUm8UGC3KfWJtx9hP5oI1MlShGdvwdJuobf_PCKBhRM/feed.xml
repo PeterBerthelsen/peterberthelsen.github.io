@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 09:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 04:10:07 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-apr-holy-apostle-and-evangelist-mark.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/25-apr-holy-apostle-and-evangelist-mark.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle and Evangelist Mark</title>
-      <guid isPermaLink="false">patristic-nectar:3490</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-25&amp;episode=holy-apostle-and-evangelist-mark</link>
-      <pubDate>Sat, 25 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle and Evangelist Mark</description>
-      <itunes:summary>Holy Apostle and Evangelist Mark</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-apr-holy-apostle-and-evangelist-mark.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="24807966" type="audio/mpeg" />
-      <itunes:duration>00:10:20</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-and-evangelist-mark.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Basileos, Bishop of Amasia</title>
+      <guid isPermaLink="false">patristic-nectar:3491</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-26&amp;episode=holy-hieromartyr-basileos-bishop-of-amasia</link>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Basileos, Bishop of Amasia</description>
+      <itunes:summary>Holy Hieromartyr Basileos, Bishop of Amasia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-basileos-bishop-of-amasia.mp3" length="14172995" type="audio/mpeg" />
+      <itunes:duration>00:05:54</itunes:duration>
+    </item>
+    <item>
+      <title>Holy Father Stephen, Bishop of Perm</title>
+      <guid isPermaLink="false">patristic-nectar:3492</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-26&amp;episode=holy-father-stephen-bishop-of-perm</link>
+      <pubDate>Sun, 26 Apr 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Stephen, Bishop of Perm</description>
+      <itunes:summary>Holy Father Stephen, Bishop of Perm</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-stephen-bishop-of-perm.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-stephen-bishop-of-perm.mp3" length="21067231" type="audio/mpeg" />
+      <itunes:duration>00:08:47</itunes:duration>
     </item>
   </channel>
 </rss>
