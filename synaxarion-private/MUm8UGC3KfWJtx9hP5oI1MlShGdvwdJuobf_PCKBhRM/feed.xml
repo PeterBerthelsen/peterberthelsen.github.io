@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 04:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 09:04:20 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-basileos-bishop-of-amasia.mp3" length="14172995" type="audio/mpeg" />
       <itunes:duration>00:05:54</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-basileos-bishop-of-amasia.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Father Stephen, Bishop of Perm</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-stephen-bishop-of-perm.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-stephen-bishop-of-perm.mp3" length="21067231" type="audio/mpeg" />
       <itunes:duration>00:08:47</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-stephen-bishop-of-perm.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

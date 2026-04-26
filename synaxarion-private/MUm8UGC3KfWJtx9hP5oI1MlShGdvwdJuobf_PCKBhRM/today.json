@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 14172995,
       "duration_seconds": 354,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-26-holy-hieromartyr-basileos-bishop-of-amasia.mp3?token=6g8nmtfet5uYRiD77gg--VtetgOX8vcBpIgc1ZbpGkw&expires=1777183805"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-basileos-bishop-of-amasia.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-hieromartyr-basileos-bishop-of-amasia.vtt",
+      "transcript_text_file_name": "holy-hieromartyr-basileos-bishop-of-amasia.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-26-holy-hieromartyr-basileos-bishop-of-amasia.mp3?token=SWnsLB96fKyepVXipmnCh9_IPKieQ6QBw8H9h9_Cn4c&expires=1777201275"
     },
     {
       "date": "2026-04-26",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 21067231,
       "duration_seconds": 527,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-26-holy-father-stephen-bishop-of-perm.mp3?token=f8fqwlycc0ScqDlVDBU_YFCdUCAENcbmK24g2WwDPmU&expires=1777183806"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-stephen-bishop-of-perm.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-stephen-bishop-of-perm.vtt",
+      "transcript_text_file_name": "holy-father-stephen-bishop-of-perm.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-26-holy-father-stephen-bishop-of-perm.mp3?token=8y_1cD85tqwTSk8Csv5ylbDzlzLb-V726xP2pAvKBt0&expires=1777201275"
     }
   ]
 }
