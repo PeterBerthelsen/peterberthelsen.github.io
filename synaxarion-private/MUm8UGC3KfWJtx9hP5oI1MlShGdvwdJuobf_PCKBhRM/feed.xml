@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 09:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:10:09 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-apr-hieromartyr-symeon.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/27-apr-hieromartyr-symeon.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Basileos, Bishop of Amasia</title>
-      <guid isPermaLink="false">patristic-nectar:3491</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-26&amp;episode=holy-hieromartyr-basileos-bishop-of-amasia</link>
-      <pubDate>Sun, 26 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Basileos, Bishop of Amasia</description>
-      <itunes:summary>Holy Hieromartyr Basileos, Bishop of Amasia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-bishop-basil-of-amasea.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-basileos-bishop-of-amasia.mp3" length="14172995" type="audio/mpeg" />
-      <itunes:duration>00:05:54</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-basileos-bishop-of-amasia.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Symeon the Kinsman of the Lord</title>
+      <guid isPermaLink="false">patristic-nectar:3493</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-27&amp;episode=holy-hieromartyr-symeon-the-kinsman-of-the-lord</link>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Symeon the Kinsman of the Lord</description>
+      <itunes:summary>Holy Hieromartyr Symeon the Kinsman of the Lord</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-apr-hieromartyr-symeon.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-symeon-the-kinsman-of-the-lord.mp3" length="6051003" type="audio/mpeg" />
+      <itunes:duration>00:02:31</itunes:duration>
     </item>
     <item>
-      <title>Holy Father Stephen, Bishop of Perm</title>
-      <guid isPermaLink="false">patristic-nectar:3492</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-26&amp;episode=holy-father-stephen-bishop-of-perm</link>
-      <pubDate>Sun, 26 Apr 2026 06:01:00 +0000</pubDate>
-      <description>Holy Father Stephen, Bishop of Perm</description>
-      <itunes:summary>Holy Father Stephen, Bishop of Perm</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-apr-saint-stephen-bishop-of-perm.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-stephen-bishop-of-perm.mp3" length="21067231" type="audio/mpeg" />
-      <itunes:duration>00:08:47</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-stephen-bishop-of-perm.vtt" type="text/vtt" />
+      <title>St. Eulogius the Hospitable</title>
+      <guid isPermaLink="false">patristic-nectar:3494</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-27&amp;episode=st-eulogius-the-hospitable</link>
+      <pubDate>Mon, 27 Apr 2026 06:01:00 +0000</pubDate>
+      <description>St. Eulogius the Hospitable</description>
+      <itunes:summary>St. Eulogius the Hospitable</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/small-eu-71788.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-eulogius-the-hospitable.mp3" length="9803231" type="audio/mpeg" />
+      <itunes:duration>00:04:05</itunes:duration>
+    </item>
+    <item>
+      <title>Holy Father Stephen of the Kiev Caves Lavra, Bishop of Vladimir</title>
+      <guid isPermaLink="false">patristic-nectar:3495</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-27&amp;episode=holy-father-stephen-of-the-kiev-caves-lavra-bishop-of-vladimir</link>
+      <pubDate>Mon, 27 Apr 2026 06:02:00 +0000</pubDate>
+      <description>Holy Father Stephen of the Kiev Caves Lavra, Bishop of Vladimir</description>
+      <itunes:summary>Holy Father Stephen of the Kiev Caves Lavra, Bishop of Vladimir</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-apr-saint-stephen-of-the-kiev-caves.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-stephen-of-the-kiev-caves-lavra-bishop-of-vladimir.mp3" length="8333060" type="audio/mpeg" />
+      <itunes:duration>00:03:28</itunes:duration>
     </item>
   </channel>
 </rss>
