@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:02:40 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-memnon-the-wonderworker.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-memnon-the-wonderworker.mp3" length="4025991" type="audio/mpeg" />
       <itunes:duration>00:01:41</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-memnon-the-wonderworker.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy 9 Martyrs of Cyzicus</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-holy-9-martyrs.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-9-martyrs-of-cyzicus.mp3" length="3611166" type="audio/mpeg" />
       <itunes:duration>00:01:30</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-9-martyrs-of-cyzicus.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Father Cyril, Bishop of Turov</title>
@@ -55,6 +57,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-cyril-bishop-of-turov.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-cyril-bishop-of-turov.mp3" length="6724962" type="audio/mpeg" />
       <itunes:duration>00:02:48</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-cyril-bishop-of-turov.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

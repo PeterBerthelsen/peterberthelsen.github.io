@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 4025991,
       "duration_seconds": 101,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-venerable-and-god-bearing-father-memnon-the-wonderworker.mp3?token=GK1Fe1pVBN0w0XxjDHwM44tUhgnnDx-8rkVpdmYXizk&expires=1777356605"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-memnon-the-wonderworker.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "venerable-and-god-bearing-father-memnon-the-wonderworker.vtt",
+      "transcript_text_file_name": "venerable-and-god-bearing-father-memnon-the-wonderworker.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-venerable-and-god-bearing-father-memnon-the-wonderworker.mp3?token=_cDjkSTxEnsHflTq725f3e2O7dF2tMyVdbd8fzQFbeE&expires=1777374081"
     },
     {
       "date": "2026-04-28",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 3611166,
       "duration_seconds": 90,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-holy-9-martyrs-of-cyzicus.mp3?token=_WIb5a_xgf4shIkTNRPO-AcrkkhIh2Zs3BwF0K7aRos&expires=1777356606"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-9-martyrs-of-cyzicus.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-9-martyrs-of-cyzicus.vtt",
+      "transcript_text_file_name": "holy-9-martyrs-of-cyzicus.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-holy-9-martyrs-of-cyzicus.mp3?token=5fn2lyim2PIjiGzyaMrAWwZPdhLgDp4dRjk6k8Ky6hk&expires=1777374081"
     },
     {
       "date": "2026-04-28",
@@ -52,10 +54,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 6724962,
       "duration_seconds": 168,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-holy-father-cyril-bishop-of-turov.mp3?token=RQQuzZS1WQ1pKrIDoZ33c-MWX90-957GwcURqnIfb9A&expires=1777356606"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-cyril-bishop-of-turov.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-cyril-bishop-of-turov.vtt",
+      "transcript_text_file_name": "holy-father-cyril-bishop-of-turov.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-28-holy-father-cyril-bishop-of-turov.mp3?token=bV2zoECCS5uSttTa-onNcv8R7pfwHsahk0Z9biCnNp8&expires=1777374082"
     }
   ]
 }
