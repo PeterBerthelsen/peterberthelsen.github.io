@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:10:08 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-memnon-the-wonderworker.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-memnon-the-wonderworker.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Venerable and God-Bearing Father Memnon the Wonderworker</title>
-      <guid isPermaLink="false">patristic-nectar:3496</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-28&amp;episode=venerable-and-god-bearing-father-memnon-the-wonderworker</link>
-      <pubDate>Tue, 28 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Venerable and God-Bearing Father Memnon the Wonderworker</description>
-      <itunes:summary>Venerable and God-Bearing Father Memnon the Wonderworker</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-memnon-the-wonderworker.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-memnon-the-wonderworker.mp3" length="4025991" type="audio/mpeg" />
-      <itunes:duration>00:01:41</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-memnon-the-wonderworker.vtt" type="text/vtt" />
+      <title>Holy Apostles Jason and Sosipater</title>
+      <guid isPermaLink="false">patristic-nectar:3500</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-29&amp;episode=holy-apostles-jason-and-sosipater</link>
+      <pubDate>Wed, 29 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostles Jason and Sosipater</description>
+      <itunes:summary>Holy Apostles Jason and Sosipater</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-jason-and-sosipater.mp3" length="30481762" type="audio/mpeg" />
+      <itunes:duration>00:12:42</itunes:duration>
     </item>
     <item>
-      <title>Holy 9 Martyrs of Cyzicus</title>
-      <guid isPermaLink="false">patristic-nectar:3497</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-28&amp;episode=holy-9-martyrs-of-cyzicus</link>
-      <pubDate>Tue, 28 Apr 2026 06:01:00 +0000</pubDate>
-      <description>Holy 9 Martyrs of Cyzicus</description>
-      <itunes:summary>Holy 9 Martyrs of Cyzicus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-holy-9-martyrs.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-9-martyrs-of-cyzicus.mp3" length="3611166" type="audio/mpeg" />
-      <itunes:duration>00:01:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-9-martyrs-of-cyzicus.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Father Cyril, Bishop of Turov</title>
-      <guid isPermaLink="false">patristic-nectar:3498</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-28&amp;episode=holy-father-cyril-bishop-of-turov</link>
-      <pubDate>Tue, 28 Apr 2026 06:02:00 +0000</pubDate>
-      <description>Holy Father Cyril, Bishop of Turov</description>
-      <itunes:summary>Holy Father Cyril, Bishop of Turov</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-apr-saint-cyril-bishop-of-turov.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-cyril-bishop-of-turov.mp3" length="6724962" type="audio/mpeg" />
-      <itunes:duration>00:02:48</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-cyril-bishop-of-turov.vtt" type="text/vtt" />
+      <title>Holy Father Basil, Bishop of Ostrog</title>
+      <guid isPermaLink="false">patristic-nectar:3499</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-29&amp;episode=holy-father-basil-bishop-of-ostrog</link>
+      <pubDate>Wed, 29 Apr 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Basil, Bishop of Ostrog</description>
+      <itunes:summary>Holy Father Basil, Bishop of Ostrog</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-holy-father-basil-of-ostrog.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-basil-bishop-of-ostrog.mp3" length="18352586" type="audio/mpeg" />
+      <itunes:duration>00:07:39</itunes:duration>
     </item>
   </channel>
 </rss>
