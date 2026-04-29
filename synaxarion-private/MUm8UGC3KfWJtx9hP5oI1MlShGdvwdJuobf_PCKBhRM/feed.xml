@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:04:51 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-jason-and-sosipater.mp3" length="30481762" type="audio/mpeg" />
       <itunes:duration>00:12:42</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-jason-and-sosipater.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Father Basil, Bishop of Ostrog</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-holy-father-basil-of-ostrog.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-basil-bishop-of-ostrog.mp3" length="18352586" type="audio/mpeg" />
       <itunes:duration>00:07:39</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-basil-bishop-of-ostrog.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

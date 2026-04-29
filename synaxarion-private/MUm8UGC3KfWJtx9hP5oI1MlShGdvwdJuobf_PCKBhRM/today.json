@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 30481762,
       "duration_seconds": 762,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-29-holy-apostles-jason-and-sosipater.mp3?token=h6rFG2_dC0H27v0wSFN2Q42T0r2soiTv4VKWYecIGZg&expires=1777443006"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-jason-and-sosipater.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-apostles-jason-and-sosipater.vtt",
+      "transcript_text_file_name": "holy-apostles-jason-and-sosipater.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-29-holy-apostles-jason-and-sosipater.mp3?token=XNygIfuiu8iGywYG_bljXzyf5g66XCMd9Yxw0NlRtwk&expires=1777460458"
     },
     {
       "date": "2026-04-29",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 18352586,
       "duration_seconds": 459,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-29-holy-father-basil-bishop-of-ostrog.mp3?token=4N7ltCuqUxbzpww3CFz2ING9QdRbiiII9zcl-Ud_bis&expires=1777443007"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-basil-bishop-of-ostrog.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-basil-bishop-of-ostrog.vtt",
+      "transcript_text_file_name": "holy-father-basil-bishop-of-ostrog.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-29-holy-father-basil-bishop-of-ostrog.mp3?token=SuZnp0uD439_-Zf48IM3zFhV3YbEsDu5ifME9ks13fA&expires=1777460459"
     }
   ]
 }
