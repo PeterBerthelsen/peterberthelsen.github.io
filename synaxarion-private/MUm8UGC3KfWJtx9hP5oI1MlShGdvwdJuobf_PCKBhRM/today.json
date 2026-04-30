@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 7723884,
       "duration_seconds": 193,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-30-holy-apostle-james-brother-of-st-john-the-theologian.mp3?token=_3gR5h6kL1285G_GiYHr45wtLrCUkp5GctSditBhT64&expires=1777529403"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-james-brother-of-st-john-the-theologian.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-apostle-james-brother-of-st-john-the-theologian.vtt",
+      "transcript_text_file_name": "holy-apostle-james-brother-of-st-john-the-theologian.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-30-holy-apostle-james-brother-of-st-john-the-theologian.mp3?token=cpJXtvr6LbqMSieoYqYsBn3PL2YRJ-NOa5K0MFFq9ws&expires=1777546860"
     },
     {
       "date": "2026-04-30",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 37219264,
       "duration_seconds": 930,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-30-holy-father-ignatius-brianchaninov-bishop-of-stavropol.mp3?token=hVie964y17gL9-CoRmERFjY-Pnn1QYjwsEdLxZqNf6E&expires=1777529403"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-ignatius-brianchaninov-bishop-of-stavropol.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-ignatius-brianchaninov-bishop-of-stavropol.vtt",
+      "transcript_text_file_name": "holy-father-ignatius-brianchaninov-bishop-of-stavropol.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/april-30-holy-father-ignatius-brianchaninov-bishop-of-stavropol.mp3?token=ZpwpGGar1RalWR4Y3G-QYsYUm2qRJd1TFOO3AnbUjK0&expires=1777546860"
     }
   ]
 }
