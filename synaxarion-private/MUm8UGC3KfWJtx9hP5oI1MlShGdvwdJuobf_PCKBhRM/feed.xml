@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 04:10:05 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostles Jason and Sosipater</title>
-      <guid isPermaLink="false">patristic-nectar:3500</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-29&amp;episode=holy-apostles-jason-and-sosipater</link>
-      <pubDate>Wed, 29 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostles Jason and Sosipater</description>
-      <itunes:summary>Holy Apostles Jason and Sosipater</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-saints-jason-and-sosipater.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-jason-and-sosipater.mp3" length="30481762" type="audio/mpeg" />
-      <itunes:duration>00:12:42</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-jason-and-sosipater.vtt" type="text/vtt" />
+      <title>Holy Apostle James, Brother of St. John the Theologian</title>
+      <guid isPermaLink="false">patristic-nectar:3501</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-30&amp;episode=holy-apostle-james-brother-of-st-john-the-theologian</link>
+      <pubDate>Thu, 30 Apr 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostle James, Brother of St. John the Theologian</description>
+      <itunes:summary>Holy Apostle James, Brother of St. John the Theologian</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-james-brother-of-st-john-the-theologian.mp3" length="7723884" type="audio/mpeg" />
+      <itunes:duration>00:03:13</itunes:duration>
     </item>
     <item>
-      <title>Holy Father Basil, Bishop of Ostrog</title>
-      <guid isPermaLink="false">patristic-nectar:3499</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-29&amp;episode=holy-father-basil-bishop-of-ostrog</link>
-      <pubDate>Wed, 29 Apr 2026 06:01:00 +0000</pubDate>
-      <description>Holy Father Basil, Bishop of Ostrog</description>
-      <itunes:summary>Holy Father Basil, Bishop of Ostrog</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-apr-holy-father-basil-of-ostrog.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-basil-bishop-of-ostrog.mp3" length="18352586" type="audio/mpeg" />
-      <itunes:duration>00:07:39</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-basil-bishop-of-ostrog.vtt" type="text/vtt" />
+      <title>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</title>
+      <guid isPermaLink="false">patristic-nectar:3502</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-30&amp;episode=holy-father-ignatius-brianchaninov-bishop-of-stavropol</link>
+      <pubDate>Thu, 30 Apr 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</description>
+      <itunes:summary>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-saint-ignatius-brianchaninov.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-ignatius-brianchaninov-bishop-of-stavropol.mp3" length="37219264" type="audio/mpeg" />
+      <itunes:duration>00:15:30</itunes:duration>
     </item>
   </channel>
 </rss>
