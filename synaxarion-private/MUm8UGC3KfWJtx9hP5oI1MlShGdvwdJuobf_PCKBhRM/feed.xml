@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 04:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:06:26 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-holy-and-devout-queen-tamara-of-georgia.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-and-devout-queen-tamara-of-georgia.mp3" length="7320554" type="audio/mpeg" />
       <itunes:duration>00:03:03</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-devout-queen-tamara-of-georgia.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Prophet Jeremiah</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-prophet-jeremiah.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-jeremiah.mp3" length="43192946" type="audio/mpeg" />
       <itunes:duration>00:18:00</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-jeremiah.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Venerable Mother Isidora the Fool for Christ</title>
@@ -55,6 +57,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-venerable-mother-isidora-the-fool-for-christ.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-mother-isidora-the-fool-for-christ.mp3" length="4742791" type="audio/mpeg" />
       <itunes:duration>00:01:59</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-mother-isidora-the-fool-for-christ.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

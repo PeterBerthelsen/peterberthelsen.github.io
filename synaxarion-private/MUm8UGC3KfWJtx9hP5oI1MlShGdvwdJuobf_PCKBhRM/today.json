@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 7320554,
       "duration_seconds": 183,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-holy-devout-queen-tamara-of-georgia.mp3?token=mSa3LPcMCoyQYP0TmREquq6NMY21bpIrvBfE5VFtnno&expires=1777615804"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-devout-queen-tamara-of-georgia.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-and-devout-queen-tamara-of-georgia.vtt",
+      "transcript_text_file_name": "holy-and-devout-queen-tamara-of-georgia.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-holy-devout-queen-tamara-of-georgia.mp3?token=3JnCGNnEp7IPqRnPRdJfWeQxuFx3Sy9dqdeh_ApEeHs&expires=1777633269"
     },
     {
       "date": "2026-05-01",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 43192946,
       "duration_seconds": 1080,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-holy-prophet-jeremiah.mp3?token=_yFPTjIQLV3_v0t4LEY0sosZkgiS8YFjLB5bs8UhnZ4&expires=1777615804"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-jeremiah.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-prophet-jeremiah.vtt",
+      "transcript_text_file_name": "holy-prophet-jeremiah.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-holy-prophet-jeremiah.mp3?token=IJ1WhPwk9dHdT7JgN7mFbLUh9f2c4TblZ6ft5b3bSdA&expires=1777633269"
     },
     {
       "date": "2026-05-01",
@@ -52,10 +54,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 4742791,
       "duration_seconds": 119,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-venerable-mother-isidora-the-fool-for-christ.mp3?token=BtQ2J5wqesHRoHrTMft7mCOpLlE-EL8wM_WSAhUzjwk&expires=1777615805"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-mother-isidora-the-fool-for-christ.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "venerable-mother-isidora-the-fool-for-christ.vtt",
+      "transcript_text_file_name": "venerable-mother-isidora-the-fool-for-christ.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-01-venerable-mother-isidora-the-fool-for-christ.mp3?token=DiU07Zv2JbYmKGMXid6qpKFcUjQDjWPFzz_Hj3Dadok&expires=1777633270"
     }
   ]
 }
