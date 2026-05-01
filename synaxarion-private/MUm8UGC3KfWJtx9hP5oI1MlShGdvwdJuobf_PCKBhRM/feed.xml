@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 04:10:08 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-holy-and-devout-queen-tamara-of-georgia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-holy-and-devout-queen-tamara-of-georgia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle James, Brother of St. John the Theologian</title>
-      <guid isPermaLink="false">patristic-nectar:3501</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-30&amp;episode=holy-apostle-james-brother-of-st-john-the-theologian</link>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle James, Brother of St. John the Theologian</description>
-      <itunes:summary>Holy Apostle James, Brother of St. John the Theologian</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-holy-apostle-james.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-james-brother-of-st-john-the-theologian.mp3" length="7723884" type="audio/mpeg" />
-      <itunes:duration>00:03:13</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-james-brother-of-st-john-the-theologian.vtt" type="text/vtt" />
+      <title>Holy and Devout Queen Tamara of Georgia</title>
+      <guid isPermaLink="false">patristic-nectar:3505</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-01&amp;episode=holy-and-devout-queen-tamara-of-georgia</link>
+      <pubDate>Fri, 01 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy and Devout Queen Tamara of Georgia</description>
+      <itunes:summary>Holy and Devout Queen Tamara of Georgia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-holy-and-devout-queen-tamara-of-georgia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-and-devout-queen-tamara-of-georgia.mp3" length="7320554" type="audio/mpeg" />
+      <itunes:duration>00:03:03</itunes:duration>
     </item>
     <item>
-      <title>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</title>
-      <guid isPermaLink="false">patristic-nectar:3502</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-04-30&amp;episode=holy-father-ignatius-brianchaninov-bishop-of-stavropol</link>
-      <pubDate>Thu, 30 Apr 2026 06:01:00 +0000</pubDate>
-      <description>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</description>
-      <itunes:summary>Holy Father Ignatius Brianchaninov, Bishop of Stavropol</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-apr-saint-ignatius-brianchaninov.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-ignatius-brianchaninov-bishop-of-stavropol.mp3" length="37219264" type="audio/mpeg" />
-      <itunes:duration>00:15:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-ignatius-brianchaninov-bishop-of-stavropol.vtt" type="text/vtt" />
+      <title>Holy Prophet Jeremiah</title>
+      <guid isPermaLink="false">patristic-nectar:3503</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-01&amp;episode=holy-prophet-jeremiah</link>
+      <pubDate>Fri, 01 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy Prophet Jeremiah</description>
+      <itunes:summary>Holy Prophet Jeremiah</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-prophet-jeremiah.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-jeremiah.mp3" length="43192946" type="audio/mpeg" />
+      <itunes:duration>00:18:00</itunes:duration>
+    </item>
+    <item>
+      <title>Venerable Mother Isidora the Fool for Christ</title>
+      <guid isPermaLink="false">patristic-nectar:3504</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-01&amp;episode=venerable-mother-isidora-the-fool-for-christ</link>
+      <pubDate>Fri, 01 May 2026 06:02:00 +0000</pubDate>
+      <description>Venerable Mother Isidora the Fool for Christ</description>
+      <itunes:summary>Venerable Mother Isidora the Fool for Christ</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-1-venerable-mother-isidora-the-fool-for-christ.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-mother-isidora-the-fool-for-christ.mp3" length="4742791" type="audio/mpeg" />
+      <itunes:duration>00:01:59</itunes:duration>
     </item>
   </channel>
 </rss>
