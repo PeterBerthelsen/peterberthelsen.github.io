@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 61622856,
       "duration_seconds": 1541,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-02-recovery-of-the-relics-of-our-holy-father-athanasios-the-great.mp3?token=LdiDR3seJoF_i6aLUgbuHLs8b0HKm7HkWgBvKpMhlEs&expires=1777702205"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/recovery-of-the-relics-of-our-holy-father-athanasios-the-great.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "recovery-of-the-relics-of-our-holy-father-athanasios-the-great.vtt",
+      "transcript_text_file_name": "recovery-of-the-relics-of-our-holy-father-athanasios-the-great.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-02-recovery-of-the-relics-of-our-holy-father-athanasios-the-great.mp3?token=dT8q_TF6spScsWqXIYXnTpRL46jh6-G9JEkfPJEXuXA&expires=1777719667"
     }
   ]
 }
