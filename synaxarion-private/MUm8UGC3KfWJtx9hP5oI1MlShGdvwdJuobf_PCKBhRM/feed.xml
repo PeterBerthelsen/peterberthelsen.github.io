@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 04:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 09:05:41 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-timothy-and-maura.mp3" length="13360064" type="audio/mpeg" />
       <itunes:duration>00:05:34</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-timothy-and-maura.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy New Martyr Ahmed the Calligrapher</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-new-martyr-ahmed-the-calligrapher.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ahmed-the-calligrapher.mp3" length="8855509" type="audio/mpeg" />
       <itunes:duration>00:03:41</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-ahmed-the-calligrapher.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</title>
@@ -55,6 +57,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia.mp3" length="29029354" type="audio/mpeg" />
       <itunes:duration>00:12:06</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
