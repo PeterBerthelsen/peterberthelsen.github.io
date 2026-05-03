@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 09:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 04:10:09 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-2-recovery-of-the-relics-of-our-holy-father-athanasios-the-great.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-2-recovery-of-the-relics-of-our-holy-father-athanasios-the-great.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Recovery of the Relics of our Holy Father Athanasios the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3508</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-02&amp;episode=recovery-of-the-relics-of-our-holy-father-athanasios-the-great</link>
-      <pubDate>Sat, 02 May 2026 06:00:00 +0000</pubDate>
-      <description>Recovery of the Relics of our Holy Father Athanasios the Great</description>
-      <itunes:summary>Recovery of the Relics of our Holy Father Athanasios the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-2-recovery-of-the-relics-of-our-holy-father-athanasios-the-great.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="61622856" type="audio/mpeg" />
-      <itunes:duration>00:25:41</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/recovery-of-the-relics-of-our-holy-father-athanasios-the-great.vtt" type="text/vtt" />
+      <title>Holy Martyrs Timothy and Maura</title>
+      <guid isPermaLink="false">patristic-nectar:3509</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=holy-martyrs-timothy-and-maura</link>
+      <pubDate>Sun, 03 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyrs Timothy and Maura</description>
+      <itunes:summary>Holy Martyrs Timothy and Maura</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-timothy-and-maura.mp3" length="13360064" type="audio/mpeg" />
+      <itunes:duration>00:05:34</itunes:duration>
+    </item>
+    <item>
+      <title>Holy New Martyr Ahmed the Calligrapher</title>
+      <guid isPermaLink="false">patristic-nectar:3510</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=holy-new-martyr-ahmed-the-calligrapher</link>
+      <pubDate>Sun, 03 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy New Martyr Ahmed the Calligrapher</description>
+      <itunes:summary>Holy New Martyr Ahmed the Calligrapher</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-new-martyr-ahmed-the-calligrapher.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ahmed-the-calligrapher.mp3" length="8855509" type="audio/mpeg" />
+      <itunes:duration>00:03:41</itunes:duration>
+    </item>
+    <item>
+      <title>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</title>
+      <guid isPermaLink="false">patristic-nectar:3511</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia</link>
+      <pubDate>Sun, 03 May 2026 06:02:00 +0000</pubDate>
+      <description>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</description>
+      <itunes:summary>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia.mp3" length="29029354" type="audio/mpeg" />
+      <itunes:duration>00:12:06</itunes:duration>
     </item>
   </channel>
 </rss>
