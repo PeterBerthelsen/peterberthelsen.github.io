@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 09:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 04:10:06 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Timothy and Maura</title>
-      <guid isPermaLink="false">patristic-nectar:3509</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=holy-martyrs-timothy-and-maura</link>
-      <pubDate>Sun, 03 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs Timothy and Maura</description>
-      <itunes:summary>Holy Martyrs Timothy and Maura</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-martyrs-timothy-and-maura.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-timothy-and-maura.mp3" length="13360064" type="audio/mpeg" />
-      <itunes:duration>00:05:34</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-timothy-and-maura.vtt" type="text/vtt" />
+      <title>St. Monica, the Mother of St. Augustine of Hippo</title>
+      <guid isPermaLink="false">patristic-nectar:3513</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=st-monica-the-mother-of-st-augustine-of-hippo</link>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
+      <description>St. Monica, the Mother of St. Augustine of Hippo</description>
+      <itunes:summary>St. Monica, the Mother of St. Augustine of Hippo</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-monica-the-mother-of-st-augustine-of-hippo.mp3" length="8934921" type="audio/mpeg" />
+      <itunes:duration>00:03:43</itunes:duration>
     </item>
     <item>
-      <title>Holy New Martyr Ahmed the Calligrapher</title>
-      <guid isPermaLink="false">patristic-nectar:3510</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=holy-new-martyr-ahmed-the-calligrapher</link>
-      <pubDate>Sun, 03 May 2026 06:01:00 +0000</pubDate>
-      <description>Holy New Martyr Ahmed the Calligrapher</description>
-      <itunes:summary>Holy New Martyr Ahmed the Calligrapher</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-holy-new-martyr-ahmed-the-calligrapher.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ahmed-the-calligrapher.mp3" length="8855509" type="audio/mpeg" />
-      <itunes:duration>00:03:41</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-ahmed-the-calligrapher.vtt" type="text/vtt" />
+      <title>Our Venerable Father Nicephorus the Hesychast</title>
+      <guid isPermaLink="false">patristic-nectar:3514</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=our-venerable-father-nicephorus-the-hesychast</link>
+      <pubDate>Mon, 04 May 2026 06:01:00 +0000</pubDate>
+      <description>Our Venerable Father Nicephorus the Hesychast</description>
+      <itunes:summary>Our Venerable Father Nicephorus the Hesychast</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-our-venerable-father-nicephorus-the-hesychast.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-father-nicephorus-the-hesychast.mp3" length="14485419" type="audio/mpeg" />
+      <itunes:duration>00:06:02</itunes:duration>
     </item>
     <item>
-      <title>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</title>
-      <guid isPermaLink="false">patristic-nectar:3511</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-03&amp;episode=venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia</link>
-      <pubDate>Sun, 03 May 2026 06:02:00 +0000</pubDate>
-      <description>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</description>
-      <itunes:summary>Venerable Father Theodosios, Abbot of the Lavra of the Kiev Caves and Founder of the Coenobitic Life in Russia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-3-venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia.mp3" length="29029354" type="audio/mpeg" />
-      <itunes:duration>00:12:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-theodosios-abbot-of-the-lavra-of-the-kiev-caves-and-founder-of-the-coenobitic-life-in-russia.vtt" type="text/vtt" />
+      <title>Holy Martyr Pelagia of Tarsus</title>
+      <guid isPermaLink="false">patristic-nectar:3515</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=holy-martyr-pelagia-of-tarsus</link>
+      <pubDate>Mon, 04 May 2026 06:02:00 +0000</pubDate>
+      <description>Holy Martyr Pelagia of Tarsus</description>
+      <itunes:summary>Holy Martyr Pelagia of Tarsus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-holy-martyr-pelagia-of-tarsus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-pelagia-of-tarsus.mp3" length="5207770" type="audio/mpeg" />
+      <itunes:duration>00:02:10</itunes:duration>
     </item>
   </channel>
 </rss>
