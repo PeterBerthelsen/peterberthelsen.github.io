@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 04:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 09:03:26 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-monica-the-mother-of-st-augustine-of-hippo.mp3" length="8934921" type="audio/mpeg" />
       <itunes:duration>00:03:43</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-monica-the-mother-of-st-augustine-of-hippo.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Our Venerable Father Nicephorus the Hesychast</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-our-venerable-father-nicephorus-the-hesychast.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-father-nicephorus-the-hesychast.mp3" length="14485419" type="audio/mpeg" />
       <itunes:duration>00:06:02</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-father-nicephorus-the-hesychast.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Martyr Pelagia of Tarsus</title>
@@ -55,6 +57,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-holy-martyr-pelagia-of-tarsus.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-pelagia-of-tarsus.mp3" length="5207770" type="audio/mpeg" />
       <itunes:duration>00:02:10</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-pelagia-of-tarsus.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 8934921,
       "duration_seconds": 223,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-st-monica-mother-of-st-agustine-of-hippo.mp3?token=9MUPlaYm95FNQkgSfI-k1xVBcJoizxQzbUnd7vwr8vM&expires=1777875003"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-monica-the-mother-of-st-augustine-of-hippo.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "st-monica-the-mother-of-st-augustine-of-hippo.vtt",
+      "transcript_text_file_name": "st-monica-the-mother-of-st-augustine-of-hippo.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-st-monica-mother-of-st-agustine-of-hippo.mp3?token=VyYb3FIu2ZqgZsVzDJ9YNgYFft0Ai56XZTXNnQmK6o0&expires=1777892463"
     },
     {
       "date": "2026-05-04",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 14485419,
       "duration_seconds": 362,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-our-venerable-father-nicephorus-the-hesychast.mp3?token=eJWH3o9PPoLyhsGIJNl0lO6agybv0pKdr6Py_mz9tqM&expires=1777875004"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-father-nicephorus-the-hesychast.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "our-venerable-father-nicephorus-the-hesychast.vtt",
+      "transcript_text_file_name": "our-venerable-father-nicephorus-the-hesychast.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-our-venerable-father-nicephorus-the-hesychast.mp3?token=9WmGIAtao0_Vtivzpfhle7dGd3bUlPugsdZW8w3Slp0&expires=1777892463"
     },
     {
       "date": "2026-05-04",
@@ -52,10 +54,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 5207770,
       "duration_seconds": 130,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-holy-martyr-pelagia-of-tarsus.mp3?token=vh6pw4LZfuh0Z0hsST7m2gSB4a21eJoWzBME6zcZrWU&expires=1777875004"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-pelagia-of-tarsus.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-martyr-pelagia-of-tarsus.vtt",
+      "transcript_text_file_name": "holy-martyr-pelagia-of-tarsus.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-04-holy-martyr-pelagia-of-tarsus.mp3?token=5thfjEMHURjfaLQvJJHG4O8oLum-l0XBL7z9HiYINGw&expires=1777892463"
     }
   ]
 }
