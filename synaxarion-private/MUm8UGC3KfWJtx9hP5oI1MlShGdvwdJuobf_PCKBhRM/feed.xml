@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 09:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:10:11 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>St. Monica, the Mother of St. Augustine of Hippo</title>
-      <guid isPermaLink="false">patristic-nectar:3513</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=st-monica-the-mother-of-st-augustine-of-hippo</link>
-      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
-      <description>St. Monica, the Mother of St. Augustine of Hippo</description>
-      <itunes:summary>St. Monica, the Mother of St. Augustine of Hippo</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-st-monica-the-mother-of-st-augustine-of-hippo.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-monica-the-mother-of-st-augustine-of-hippo.mp3" length="8934921" type="audio/mpeg" />
-      <itunes:duration>00:03:43</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-monica-the-mother-of-st-augustine-of-hippo.vtt" type="text/vtt" />
+      <title>Our Holy Father Hilary, Bishop of Arles</title>
+      <guid isPermaLink="false">patristic-nectar:3517</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=our-holy-father-hilary-bishop-of-arles</link>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
+      <description>Our Holy Father Hilary, Bishop of Arles</description>
+      <itunes:summary>Our Holy Father Hilary, Bishop of Arles</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-hilary-bishop-of-arles.mp3" length="13479182" type="audio/mpeg" />
+      <itunes:duration>00:05:37</itunes:duration>
     </item>
     <item>
-      <title>Our Venerable Father Nicephorus the Hesychast</title>
-      <guid isPermaLink="false">patristic-nectar:3514</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=our-venerable-father-nicephorus-the-hesychast</link>
-      <pubDate>Mon, 04 May 2026 06:01:00 +0000</pubDate>
-      <description>Our Venerable Father Nicephorus the Hesychast</description>
-      <itunes:summary>Our Venerable Father Nicephorus the Hesychast</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-our-venerable-father-nicephorus-the-hesychast.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-father-nicephorus-the-hesychast.mp3" length="14485419" type="audio/mpeg" />
-      <itunes:duration>00:06:02</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-father-nicephorus-the-hesychast.vtt" type="text/vtt" />
+      <title>Holy New-Martyr Ephraim the Newly-Revealed</title>
+      <guid isPermaLink="false">patristic-nectar:3518</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=holy-new-martyr-ephraim-the-newly-revealed</link>
+      <pubDate>Tue, 05 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy New-Martyr Ephraim the Newly-Revealed</description>
+      <itunes:summary>Holy New-Martyr Ephraim the Newly-Revealed</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-new-martyr-ephraim-the-newly-revealed.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ephraim-the-newly-revealed.mp3" length="7240097" type="audio/mpeg" />
+      <itunes:duration>00:03:01</itunes:duration>
     </item>
     <item>
-      <title>Holy Martyr Pelagia of Tarsus</title>
-      <guid isPermaLink="false">patristic-nectar:3515</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-04&amp;episode=holy-martyr-pelagia-of-tarsus</link>
-      <pubDate>Mon, 04 May 2026 06:02:00 +0000</pubDate>
-      <description>Holy Martyr Pelagia of Tarsus</description>
-      <itunes:summary>Holy Martyr Pelagia of Tarsus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-4-holy-martyr-pelagia-of-tarsus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-pelagia-of-tarsus.mp3" length="5207770" type="audio/mpeg" />
-      <itunes:duration>00:02:10</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-pelagia-of-tarsus.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Irene</title>
+      <guid isPermaLink="false">patristic-nectar:3519</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=holy-great-martyr-irene</link>
+      <pubDate>Tue, 05 May 2026 06:02:00 +0000</pubDate>
+      <description>Holy Great Martyr Irene</description>
+      <itunes:summary>Holy Great Martyr Irene</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-great-martyr-irene.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-irene.mp3" length="12600423" type="audio/mpeg" />
+      <itunes:duration>00:05:15</itunes:duration>
     </item>
   </channel>
 </rss>
