@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 04:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:04:02 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -33,6 +33,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-hilary-bishop-of-arles.mp3" length="13479182" type="audio/mpeg" />
       <itunes:duration>00:05:37</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-hilary-bishop-of-arles.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy New-Martyr Ephraim the Newly-Revealed</title>
@@ -44,6 +45,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-new-martyr-ephraim-the-newly-revealed.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ephraim-the-newly-revealed.mp3" length="7240097" type="audio/mpeg" />
       <itunes:duration>00:03:01</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-ephraim-the-newly-revealed.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Holy Great Martyr Irene</title>
@@ -55,6 +57,7 @@
       <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-great-martyr-irene.jpg" />
       <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-irene.mp3" length="12600423" type="audio/mpeg" />
       <itunes:duration>00:05:15</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-irene.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

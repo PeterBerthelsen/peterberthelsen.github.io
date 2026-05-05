@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 13479182,
       "duration_seconds": 337,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-our-holy-father-hilary-bishop-of-arles.mp3?token=qoTlpAK71RCRi2pBwFfk1vTOgzfMgdw8czbEXIf8vK4&expires=1777961409"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-hilary-bishop-of-arles.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "our-holy-father-hilary-bishop-of-arles.vtt",
+      "transcript_text_file_name": "our-holy-father-hilary-bishop-of-arles.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-our-holy-father-hilary-bishop-of-arles.mp3?token=kzH4u79-V0pvZQgRs1Zsl_quiDtAvTlwrozOZqChgj4&expires=1777978874"
     },
     {
       "date": "2026-05-05",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 7240097,
       "duration_seconds": 181,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-holy-new-martyr-ephraim-the-newly-revealed.mp3?token=6Pq6C43xYxugfmctN1T-qZKl8vErCLnOTygYwcnn7H8&expires=1777961409"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-ephraim-the-newly-revealed.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-new-martyr-ephraim-the-newly-revealed.vtt",
+      "transcript_text_file_name": "holy-new-martyr-ephraim-the-newly-revealed.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-holy-new-martyr-ephraim-the-newly-revealed.mp3?token=A3oUt0i7GF5vwGzm31k8LBEzPi_v9g1WRez-5rMacB4&expires=1777978874"
     },
     {
       "date": "2026-05-05",
@@ -52,10 +54,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 12600423,
       "duration_seconds": 315,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-holy-great-martyr-irene.mp3?token=y2_avJGvqxe3bnME4R4Iii80hzRHSL0S6HGWVgFUIVo&expires=1777961410"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-irene.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-great-martyr-irene.vtt",
+      "transcript_text_file_name": "holy-great-martyr-irene.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-05-holy-great-martyr-irene.mp3?token=cvrwt1gQ8KFnVq6ajgqgu3o6Grpqia6qvBMAsdvwhq4&expires=1777978875"
     }
   ]
 }
