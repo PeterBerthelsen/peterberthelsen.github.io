@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 29540309,
       "duration_seconds": 739,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-06-holy-and-much-suffering-prophet-job.mp3?token=Nt_k4BmZgK88CEJQCA_hLQaJZoY5n2pVE6duGsH7Ix0&expires=1778047803"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-much-suffering-prophet-job.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-and-much-suffering-prophet-job.vtt",
+      "transcript_text_file_name": "holy-and-much-suffering-prophet-job.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-06-holy-and-much-suffering-prophet-job.mp3?token=R71wyNF5RKN8-ZIDakwM1HZRXjwIe-s1eRKLXYgPLuA&expires=1778065277"
     }
   ]
 }
