@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 09:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:10:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,22 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Our Holy Father Hilary, Bishop of Arles</title>
-      <guid isPermaLink="false">patristic-nectar:3517</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=our-holy-father-hilary-bishop-of-arles</link>
-      <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
-      <description>Our Holy Father Hilary, Bishop of Arles</description>
-      <itunes:summary>Our Holy Father Hilary, Bishop of Arles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-our-holy-father-hilary-bishop-of-arles.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-hilary-bishop-of-arles.mp3" length="13479182" type="audio/mpeg" />
-      <itunes:duration>00:05:37</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-hilary-bishop-of-arles.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy New-Martyr Ephraim the Newly-Revealed</title>
-      <guid isPermaLink="false">patristic-nectar:3518</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=holy-new-martyr-ephraim-the-newly-revealed</link>
-      <pubDate>Tue, 05 May 2026 06:01:00 +0000</pubDate>
-      <description>Holy New-Martyr Ephraim the Newly-Revealed</description>
-      <itunes:summary>Holy New-Martyr Ephraim the Newly-Revealed</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-new-martyr-ephraim-the-newly-revealed.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-ephraim-the-newly-revealed.mp3" length="7240097" type="audio/mpeg" />
-      <itunes:duration>00:03:01</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-ephraim-the-newly-revealed.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Great Martyr Irene</title>
-      <guid isPermaLink="false">patristic-nectar:3519</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-05&amp;episode=holy-great-martyr-irene</link>
-      <pubDate>Tue, 05 May 2026 06:02:00 +0000</pubDate>
-      <description>Holy Great Martyr Irene</description>
-      <itunes:summary>Holy Great Martyr Irene</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-5-holy-great-martyr-irene.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-irene.mp3" length="12600423" type="audio/mpeg" />
-      <itunes:duration>00:05:15</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-irene.vtt" type="text/vtt" />
+      <title>Holy and Much-Suffering Prophet Job</title>
+      <guid isPermaLink="false">patristic-nectar:3521</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-06&amp;episode=holy-and-much-suffering-prophet-job</link>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy and Much-Suffering Prophet Job</description>
+      <itunes:summary>Holy and Much-Suffering Prophet Job</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="29540309" type="audio/mpeg" />
+      <itunes:duration>00:12:19</itunes:duration>
     </item>
   </channel>
 </rss>
