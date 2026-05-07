@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 12819852,
       "duration_seconds": 320,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-07-holy-father-alexis-toth-of-wilkesbarre-pa.mp3?token=x44rvtEwOsivywMw1_KumWRkQFy1v9eOmsLpIvacDP0&expires=1778134203"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-alexis-toth-of-wilkesbarre-pa.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-father-alexis-toth-of-wilkesbarre-pa.vtt",
+      "transcript_text_file_name": "holy-father-alexis-toth-of-wilkesbarre-pa.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-07-holy-father-alexis-toth-of-wilkesbarre-pa.mp3?token=SqnuW1x3g61AkDG9cvZ7istVvUH85qw6F8CEVGFVt6Q&expires=1778151649"
     },
     {
       "date": "2026-05-07",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 3250676,
       "duration_seconds": 81,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-07-apperance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.mp3?token=aeDClzaBoZ_MeUb2RkVp8lsByOI_4YOi2JobNnhv7EU&expires=1778134204"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.vtt",
+      "transcript_text_file_name": "appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-07-apperance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.mp3?token=uZjur3kL1RHS6QoeHcDejBTbNg5H7D0AK9dLCWtOg34&expires=1778151649"
     }
   ]
 }
