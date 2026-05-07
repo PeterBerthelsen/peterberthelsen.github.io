@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 09:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:10:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy and Much-Suffering Prophet Job</title>
-      <guid isPermaLink="false">patristic-nectar:3521</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-06&amp;episode=holy-and-much-suffering-prophet-job</link>
-      <pubDate>Wed, 06 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy and Much-Suffering Prophet Job</description>
-      <itunes:summary>Holy and Much-Suffering Prophet Job</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-6-holy-and-much-suffering-prophet-job.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="29540309" type="audio/mpeg" />
-      <itunes:duration>00:12:19</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-much-suffering-prophet-job.vtt" type="text/vtt" />
+      <title>Holy Father Alexis Toth of Wilkesbarre, PA</title>
+      <guid isPermaLink="false">patristic-nectar:3523</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-07&amp;episode=holy-father-alexis-toth-of-wilkesbarre-pa</link>
+      <pubDate>Thu, 07 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Alexis Toth of Wilkesbarre, PA</description>
+      <itunes:summary>Holy Father Alexis Toth of Wilkesbarre, PA</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-alexis-toth-of-wilkesbarre-pa.mp3" length="12819852" type="audio/mpeg" />
+      <itunes:duration>00:05:20</itunes:duration>
+    </item>
+    <item>
+      <title>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</title>
+      <guid isPermaLink="false">patristic-nectar:3524</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-07&amp;episode=appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351</link>
+      <pubDate>Thu, 07 May 2026 06:01:00 +0000</pubDate>
+      <description>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</description>
+      <itunes:summary>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.mp3" length="3250676" type="audio/mpeg" />
+      <itunes:duration>00:01:21</itunes:duration>
     </item>
   </channel>
 </rss>
