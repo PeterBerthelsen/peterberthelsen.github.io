@@ -16,10 +16,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 3880750,
       "duration_seconds": 97,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-08-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.mp3?token=bRCssTNNbspq4jC0-iQ7MK1Kz3bbFx4yLfXrEQXY7HA&expires=1778220605"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.vtt",
+      "transcript_text_file_name": "holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-08-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.mp3?token=3ulbLUKzd5FHxgbtVOHD_GlGeyNfsvj4ksEfsdmglH4&expires=1778238073"
     },
     {
       "date": "2026-05-08",
@@ -34,10 +35,11 @@
       "mime": "audio/mpeg",
       "audio_bytes": 20085027,
       "duration_seconds": 502,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-08-righteous-father-arsenios-the-great.mp3?token=ZN6mewr_i2YZW1q_InIDn0BBUXKcAadrtIqU5rLy4JU&expires=1778220606"
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-arsenios-the-great.vtt",
+      "transcript_mime": "text/vtt",
+      "local_transcript_file_name": "righteous-father-arsenios-the-great.vtt",
+      "transcript_text_file_name": "righteous-father-arsenios-the-great.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-08-righteous-father-arsenios-the-great.mp3?token=xrzbwhSYu5cjMEcyh7n8TdgzcGvx49lKR31fWDzZQOM&expires=1778238073"
     }
   ]
 }
