@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 09:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:10:06 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Alexis Toth of Wilkesbarre, PA</title>
-      <guid isPermaLink="false">patristic-nectar:3523</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-07&amp;episode=holy-father-alexis-toth-of-wilkesbarre-pa</link>
-      <pubDate>Thu, 07 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Alexis Toth of Wilkesbarre, PA</description>
-      <itunes:summary>Holy Father Alexis Toth of Wilkesbarre, PA</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-holy-father-alexis-toth-of-wilkesbarre.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-alexis-toth-of-wilkesbarre-pa.mp3" length="12819852" type="audio/mpeg" />
-      <itunes:duration>00:05:20</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-alexis-toth-of-wilkesbarre-pa.vtt" type="text/vtt" />
+      <title>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</title>
+      <guid isPermaLink="false">patristic-nectar:3527</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-08&amp;episode=holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave</link>
+      <pubDate>Fri, 08 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</description>
+      <itunes:summary>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.mp3" length="3880750" type="audio/mpeg" />
+      <itunes:duration>00:01:37</itunes:duration>
     </item>
     <item>
-      <title>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</title>
-      <guid isPermaLink="false">patristic-nectar:3524</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-07&amp;episode=appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351</link>
-      <pubDate>Thu, 07 May 2026 06:01:00 +0000</pubDate>
-      <description>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</description>
-      <itunes:summary>Appearance of the Precious and Life-giving Cross over Jerusalem in 351</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-7-appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.mp3" length="3250676" type="audio/mpeg" />
-      <itunes:duration>00:01:21</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/appearance-of-the-precious-and-life-giving-cross-over-jerusalem-in-351.vtt" type="text/vtt" />
+      <title>Righteous Father Arsenios the Great</title>
+      <guid isPermaLink="false">patristic-nectar:3526</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-08&amp;episode=righteous-father-arsenios-the-great</link>
+      <pubDate>Fri, 08 May 2026 06:01:00 +0000</pubDate>
+      <description>Righteous Father Arsenios the Great</description>
+      <itunes:summary>Righteous Father Arsenios the Great</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-righteous-father-arsenios-the-great.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-arsenios-the-great.mp3" length="20085027" type="audio/mpeg" />
+      <itunes:duration>00:08:22</itunes:duration>
     </item>
   </channel>
 </rss>
