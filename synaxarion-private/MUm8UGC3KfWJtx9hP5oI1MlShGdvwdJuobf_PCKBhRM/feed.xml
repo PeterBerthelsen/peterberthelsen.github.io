@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 09:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:06:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</title>
-      <guid isPermaLink="false">patristic-nectar:3527</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-08&amp;episode=holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave</link>
-      <pubDate>Fri, 08 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</description>
-      <itunes:summary>Holy Apostle and Evangelist John the Theologian and the Holy Manna from His Grave</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.mp3" length="3880750" type="audio/mpeg" />
-      <itunes:duration>00:01:37</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-and-evangelist-john-the-theologian-and-the-holy-manna-from-his-grave.vtt" type="text/vtt" />
+      <title>Holy Prophet Isaiah</title>
+      <guid isPermaLink="false">patristic-nectar:3530</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-09&amp;episode=holy-prophet-isaiah</link>
+      <pubDate>Sat, 09 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Prophet Isaiah</description>
+      <itunes:summary>Holy Prophet Isaiah</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-isaiah.mp3" length="41161664" type="audio/mpeg" />
+      <itunes:duration>00:17:09</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-isaiah.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Righteous Father Arsenios the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3526</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-08&amp;episode=righteous-father-arsenios-the-great</link>
-      <pubDate>Fri, 08 May 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Father Arsenios the Great</description>
-      <itunes:summary>Righteous Father Arsenios the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-8-righteous-father-arsenios-the-great.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-arsenios-the-great.mp3" length="20085027" type="audio/mpeg" />
-      <itunes:duration>00:08:22</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-arsenios-the-great.vtt" type="text/vtt" />
+      <title>Holy Martyr Christopher</title>
+      <guid isPermaLink="false">patristic-nectar:3529</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-09&amp;episode=holy-martyr-christopher</link>
+      <pubDate>Sat, 09 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Christopher</description>
+      <itunes:summary>Holy Martyr Christopher</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-st-christopher-the-great-martyr-of-lycia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-christopher.mp3" length="17255444" type="audio/mpeg" />
+      <itunes:duration>00:07:11</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-christopher.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
