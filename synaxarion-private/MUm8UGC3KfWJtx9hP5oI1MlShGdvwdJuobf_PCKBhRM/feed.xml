@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 09:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:00:40 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Prophet Isaiah</title>
-      <guid isPermaLink="false">patristic-nectar:3530</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-09&amp;episode=holy-prophet-isaiah</link>
-      <pubDate>Sat, 09 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Prophet Isaiah</description>
-      <itunes:summary>Holy Prophet Isaiah</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-holy-prophet-isaiah.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-isaiah.mp3" length="41161664" type="audio/mpeg" />
-      <itunes:duration>00:17:09</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-isaiah.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Martyr Christopher</title>
-      <guid isPermaLink="false">patristic-nectar:3529</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-09&amp;episode=holy-martyr-christopher</link>
-      <pubDate>Sat, 09 May 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyr Christopher</description>
-      <itunes:summary>Holy Martyr Christopher</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-9-st-christopher-the-great-martyr-of-lycia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-christopher.mp3" length="17255444" type="audio/mpeg" />
-      <itunes:duration>00:07:11</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-christopher.vtt" type="text/vtt" />
+      <title>Holy Apostle Simon the Zealot</title>
+      <guid isPermaLink="false">patristic-nectar:3532</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-10&amp;episode=holy-apostle-simon-the-zealot</link>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostle Simon the Zealot</description>
+      <itunes:summary>Holy Apostle Simon the Zealot</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="4588146" type="audio/mpeg" />
+      <itunes:duration>00:01:55</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-simon-the-zealot.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
