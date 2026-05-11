@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 09:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:05:01 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle Simon the Zealot</title>
-      <guid isPermaLink="false">patristic-nectar:3532</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-10&amp;episode=holy-apostle-simon-the-zealot</link>
-      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle Simon the Zealot</description>
-      <itunes:summary>Holy Apostle Simon the Zealot</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="4588146" type="audio/mpeg" />
-      <itunes:duration>00:01:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-simon-the-zealot.vtt" type="text/vtt" />
+      <title>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</title>
+      <guid isPermaLink="false">patristic-nectar:3534</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-11&amp;episode=holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs</link>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</description>
+      <itunes:summary>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48315035" type="audio/mpeg" />
+      <itunes:duration>00:20:08</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

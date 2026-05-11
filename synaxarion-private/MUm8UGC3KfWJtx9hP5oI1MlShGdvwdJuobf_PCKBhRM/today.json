@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-10",
-  "collection_name": "May 10th",
+  "date": "2026-05-11",
+  "collection_name": "May 11th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-10",
-      "collection_name": "May 10th",
-      "content_id": 3532,
-      "content_name": "Holy Apostle Simon the Zealot",
-      "content_slug": "holy-apostle-simon-the-zealot",
-      "description_html": "<p>Holy Apostle Simon the Zealot</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-10-holy-apostle-simon-the-zealot.jpg",
+      "date": "2026-05-11",
+      "collection_name": "May 11th",
+      "content_id": 3534,
+      "content_name": "Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs",
+      "content_slug": "holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs",
+      "description_html": "<p>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 4588146,
-      "duration_seconds": 115,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-simon-the-zealot.vtt",
+      "audio_bytes": 48315035,
+      "duration_seconds": 1208,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-apostle-simon-the-zealot.vtt",
-      "transcript_text_file_name": "holy-apostle-simon-the-zealot.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-10-holy-apostle-simon-the-zealot.mp3?token=kw5m8ekO3H6UUEwQ19YYSzUUAqXCe0GMV-PzVNbqtRA&expires=1778410816"
+      "local_transcript_file_name": "holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.vtt",
+      "transcript_text_file_name": "holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.mp3?token=rESlx0vWw9E1tBijqw4tAV1z_qqnENCcnvk6obCuN0U&expires=1778497285"
     }
   ]
 }
