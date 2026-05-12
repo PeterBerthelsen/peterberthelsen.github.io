@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 09:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:03:55 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-12-holy-father-epiphanios-of-cyprus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-12-holy-father-epiphanios-of-cyprus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</title>
-      <guid isPermaLink="false">patristic-nectar:3534</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-11&amp;episode=holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs</link>
-      <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</description>
-      <itunes:summary>Holy Fathers Cyril and Methodios, Equal to the Apostles and Evangelizers of the Slavs</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-11-holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48315035" type="audio/mpeg" />
-      <itunes:duration>00:20:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-fathers-cyril-and-methodios-equal-to-the-apostles-and-evangelizers-of-the-slavs.vtt" type="text/vtt" />
+      <title>Holy Father Epiphanios of Cyprus</title>
+      <guid isPermaLink="false">patristic-nectar:3536</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-12&amp;episode=holy-father-epiphanios-of-cyprus</link>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Epiphanios of Cyprus</description>
+      <itunes:summary>Holy Father Epiphanios of Cyprus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-12-holy-father-epiphanios-of-cyprus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-epiphanios-of-cyprus.mp3" length="29355362" type="audio/mpeg" />
+      <itunes:duration>00:12:14</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-epiphanios-of-cyprus.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Father Germanus of Constantinople</title>
+      <guid isPermaLink="false">patristic-nectar:3537</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-12&amp;episode=holy-father-germanus-of-constantinople</link>
+      <pubDate>Tue, 12 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Germanus of Constantinople</description>
+      <itunes:summary>Holy Father Germanus of Constantinople</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-12-holy-father-germanus-of-constantinople.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-germanus-of-constantinople.mp3" length="16145762" type="audio/mpeg" />
+      <itunes:duration>00:06:44</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-germanus-of-constantinople.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
