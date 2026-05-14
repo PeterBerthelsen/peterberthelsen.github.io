@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-13",
-  "collection_name": "May 13th",
+  "date": "2026-05-14",
+  "collection_name": "May 14th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-13",
-      "collection_name": "May 13th",
-      "content_id": 3539,
-      "content_name": "Holy Martyr Glyceria",
-      "content_slug": "holy-martyr-glyceria",
-      "description_html": "<p>Holy Martyr Glyceria</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-13-holy-martyr-glyceria.jpg",
+      "date": "2026-05-14",
+      "collection_name": "May 14th",
+      "content_id": 3541,
+      "content_name": "Holy Martyr Isidore of Chios",
+      "content_slug": "holy-martyr-isidore-of-chios",
+      "description_html": "<p>Holy Martyr Isidore of Chios</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-14-holy-martyr-isidore-of-chios.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 9390497,
-      "duration_seconds": 235,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-glyceria.vtt",
+      "audio_bytes": 6878562,
+      "duration_seconds": 172,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-isidore-of-chios.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-martyr-glyceria.vtt",
-      "transcript_text_file_name": "holy-martyr-glyceria.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-13-holy-martyr-glyceria.mp3?token=cYQDZGJy4j4IiA-ojPiFfw-r1W6Lzcz27GRh7JeJR2g&expires=1778670033"
+      "local_transcript_file_name": "holy-martyr-isidore-of-chios.vtt",
+      "transcript_text_file_name": "holy-martyr-isidore-of-chios.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-14-holy-martyr-isidore-of-chios.mp3?token=vpCvdR3e53RzchfbxALmMKEJCI_qz2Ahxw-LIkPCZPE&expires=1778756466"
     }
   ]
 }

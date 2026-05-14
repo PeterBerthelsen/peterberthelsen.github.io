@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 09:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:01:49 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-13-holy-martyr-glyceria.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-14-holy-martyr-isidore-of-chios.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-13-holy-martyr-glyceria.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-14-holy-martyr-isidore-of-chios.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Glyceria</title>
-      <guid isPermaLink="false">patristic-nectar:3539</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-13&amp;episode=holy-martyr-glyceria</link>
-      <pubDate>Wed, 13 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Glyceria</description>
-      <itunes:summary>Holy Martyr Glyceria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-13-holy-martyr-glyceria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="9390497" type="audio/mpeg" />
-      <itunes:duration>00:03:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-glyceria.vtt" type="text/vtt" />
+      <title>Holy Martyr Isidore of Chios</title>
+      <guid isPermaLink="false">patristic-nectar:3541</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-14&amp;episode=holy-martyr-isidore-of-chios</link>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Isidore of Chios</description>
+      <itunes:summary>Holy Martyr Isidore of Chios</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-14-holy-martyr-isidore-of-chios.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="6878562" type="audio/mpeg" />
+      <itunes:duration>00:02:52</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-isidore-of-chios.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
