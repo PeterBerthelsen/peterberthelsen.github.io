@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-15",
-  "collection_name": "May 15th",
+  "date": "2026-05-16",
+  "collection_name": "May 16th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-15",
-      "collection_name": "May 15th",
-      "content_id": 3543,
-      "content_name": "Righteous Father Pachomios the Great",
-      "content_slug": "righteous-father-pachomios-the-great",
-      "description_html": "<p>Righteous Father Pachomios the Great</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-15-righteous-father-pachomios-the-great.jpg",
+      "date": "2026-05-16",
+      "collection_name": "May 16th",
+      "content_id": 3545,
+      "content_name": "Righteous Father Theodore the Sanctified",
+      "content_slug": "righteous-father-theodore-the-sanctified",
+      "description_html": "<p>Righteous Father Theodore the Sanctified</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-16-righteous-father-theodore-the-sanctified.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 53210382,
-      "duration_seconds": 1330,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-pachomios-the-great.vtt",
+      "audio_bytes": 29100407,
+      "duration_seconds": 728,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-theodore-the-sanctified.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-father-pachomios-the-great.vtt",
-      "transcript_text_file_name": "righteous-father-pachomios-the-great.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-15-our-righteous-father-pachomios-the-great.mp3?token=lJDTUjqpY0l1O0C9Gaf-1SnBbvoGAwh_YkHZO4ITxmM&expires=1778842831"
+      "local_transcript_file_name": "righteous-father-theodore-the-sanctified.vtt",
+      "transcript_text_file_name": "righteous-father-theodore-the-sanctified.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-16-righteous-father-theodore-the-sanctified.mp3?token=xAGhTH13C7nWWuz1iENHDak_pqOsXpcQZlBaegG6yK0&expires=1778929228"
     }
   ]
 }

@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 09:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:02:47 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-15-righteous-father-pachomios-the-great.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-16-righteous-father-theodore-the-sanctified.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-15-righteous-father-pachomios-the-great.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-16-righteous-father-theodore-the-sanctified.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Pachomios the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3543</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-15&amp;episode=righteous-father-pachomios-the-great</link>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Pachomios the Great</description>
-      <itunes:summary>Righteous Father Pachomios the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-15-righteous-father-pachomios-the-great.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="53210382" type="audio/mpeg" />
-      <itunes:duration>00:22:10</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-pachomios-the-great.vtt" type="text/vtt" />
+      <title>Righteous Father Theodore the Sanctified</title>
+      <guid isPermaLink="false">patristic-nectar:3545</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-16&amp;episode=righteous-father-theodore-the-sanctified</link>
+      <pubDate>Sat, 16 May 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Theodore the Sanctified</description>
+      <itunes:summary>Righteous Father Theodore the Sanctified</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-16-righteous-father-theodore-the-sanctified.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="29100407" type="audio/mpeg" />
+      <itunes:duration>00:12:08</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-theodore-the-sanctified.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
