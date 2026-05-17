@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-16",
-  "collection_name": "May 16th",
+  "date": "2026-05-17",
+  "collection_name": "May 17th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-16",
-      "collection_name": "May 16th",
-      "content_id": 3545,
-      "content_name": "Righteous Father Theodore the Sanctified",
-      "content_slug": "righteous-father-theodore-the-sanctified",
-      "description_html": "<p>Righteous Father Theodore the Sanctified</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-16-righteous-father-theodore-the-sanctified.jpg",
+      "date": "2026-05-17",
+      "collection_name": "May 17th",
+      "content_id": 3546,
+      "content_name": "Holy Apostles Andronikos and Junia of the Seventy",
+      "content_slug": "holy-apostles-andronikos-and-junia-of-the-seventy",
+      "description_html": "<p>Holy Apostles Andronikos and Junia of the Seventy</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-17-holy-apostles-andronikos-and-junia-of-the-seventy.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 29100407,
-      "duration_seconds": 728,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-theodore-the-sanctified.vtt",
+      "audio_bytes": 3940309,
+      "duration_seconds": 99,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-andronikos-and-junia-of-the-seventy.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-father-theodore-the-sanctified.vtt",
-      "transcript_text_file_name": "righteous-father-theodore-the-sanctified.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-16-righteous-father-theodore-the-sanctified.mp3?token=xAGhTH13C7nWWuz1iENHDak_pqOsXpcQZlBaegG6yK0&expires=1778929228"
+      "local_transcript_file_name": "holy-apostles-andronikos-and-junia-of-the-seventy.vtt",
+      "transcript_text_file_name": "holy-apostles-andronikos-and-junia-of-the-seventy.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-17-holy-apostles-andronikos-and-junia-of-the-seventy.mp3?token=ISFMMCT2Ns_Ndd2MgJN6jiqodF_7DDGrhvaDpn_9cOE&expires=1779015644"
     }
   ]
 }
