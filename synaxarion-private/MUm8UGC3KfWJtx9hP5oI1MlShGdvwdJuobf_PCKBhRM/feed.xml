@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 09:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:01:32 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-17-holy-apostles-andronikos-and-junia-of-the-seventy.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-17-holy-apostles-andronikos-and-junia-of-the-seventy.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostles Andronikos and Junia of the Seventy</title>
-      <guid isPermaLink="false">patristic-nectar:3546</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-17&amp;episode=holy-apostles-andronikos-and-junia-of-the-seventy</link>
-      <pubDate>Sun, 17 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostles Andronikos and Junia of the Seventy</description>
-      <itunes:summary>Holy Apostles Andronikos and Junia of the Seventy</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-17-holy-apostles-andronikos-and-junia-of-the-seventy.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="3940309" type="audio/mpeg" />
-      <itunes:duration>00:01:39</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-andronikos-and-junia-of-the-seventy.vtt" type="text/vtt" />
+      <title>Holy Martyrs Benedimus, Paulinus, and Heraclius</title>
+      <guid isPermaLink="false">patristic-nectar:5073</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-18&amp;episode=sy051802</link>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyrs&amp;nbsp;Benedimus, Paulinus, and Heraclius</description>
+      <itunes:summary>Holy Martyrs&amp;nbsp;Benedimus, Paulinus, and Heraclius</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy051802.mp3" length="2285191" type="audio/mpeg" />
+      <itunes:duration>00:00:57</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy051802.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</title>
+      <guid isPermaLink="false">patristic-nectar:3548</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-18&amp;episode=holy-martyrs-peter-dionysius-christina-andrew-and-paul</link>
+      <pubDate>Mon, 18 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</description>
+      <itunes:summary>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-peter-dionysius-christina-andrew-and-paul.mp3" length="9490807" type="audio/mpeg" />
+      <itunes:duration>00:03:57</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-peter-dionysius-christina-andrew-and-paul.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
