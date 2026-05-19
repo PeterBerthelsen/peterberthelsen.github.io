@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 09:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:03:07 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Benedimus, Paulinus, and Heraclius</title>
-      <guid isPermaLink="false">patristic-nectar:5073</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-18&amp;episode=sy051802</link>
-      <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs&amp;nbsp;Benedimus, Paulinus, and Heraclius</description>
-      <itunes:summary>Holy Martyrs&amp;nbsp;Benedimus, Paulinus, and Heraclius</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy051802.mp3" length="2285191" type="audio/mpeg" />
-      <itunes:duration>00:00:57</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy051802.vtt" type="text/vtt" />
+      <title>Holy Father Dunstan, Archbishop of Canterbury</title>
+      <guid isPermaLink="false">patristic-nectar:3552</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-19&amp;episode=holy-father-dunstan-archbishop-of-canterbury</link>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Dunstan, Archbishop of Canterbury</description>
+      <itunes:summary>Holy Father Dunstan, Archbishop of Canterbury</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-dunstan-archbishop-of-canterbury.mp3" length="16544913" type="audio/mpeg" />
+      <itunes:duration>00:06:54</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-dunstan-archbishop-of-canterbury.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</title>
-      <guid isPermaLink="false">patristic-nectar:3548</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-18&amp;episode=holy-martyrs-peter-dionysius-christina-andrew-and-paul</link>
-      <pubDate>Mon, 18 May 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</description>
-      <itunes:summary>Holy Martyrs Peter, Dionysius, Christina, Andrew, and Paul</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-18-holy-martyrs-peter-dionysius-christina-andrew-paul-benedimus-paulinus-and-heraclius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-peter-dionysius-christina-andrew-and-paul.mp3" length="9490807" type="audio/mpeg" />
-      <itunes:duration>00:03:57</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-peter-dionysius-christina-andrew-and-paul.vtt" type="text/vtt" />
+      <title>St. Dimitri Donskoi, Grand Prince of Moscow</title>
+      <guid isPermaLink="false">patristic-nectar:3551</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-19&amp;episode=st-dimitri-donskoi-grand-prince-of-moscow</link>
+      <pubDate>Tue, 19 May 2026 06:01:00 +0000</pubDate>
+      <description>St. Dimitri Donskoi, Grand Prince of Moscow</description>
+      <itunes:summary>St. Dimitri Donskoi, Grand Prince of Moscow</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-st-dimitri-donskoi-grand-prince-of-moscow.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-dimitri-donskoi-grand-prince-of-moscow.mp3" length="16982725" type="audio/mpeg" />
+      <itunes:duration>00:07:05</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-dimitri-donskoi-grand-prince-of-moscow.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
