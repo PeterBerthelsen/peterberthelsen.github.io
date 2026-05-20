@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 09:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:02:41 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Dunstan, Archbishop of Canterbury</title>
-      <guid isPermaLink="false">patristic-nectar:3552</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-19&amp;episode=holy-father-dunstan-archbishop-of-canterbury</link>
-      <pubDate>Tue, 19 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Dunstan, Archbishop of Canterbury</description>
-      <itunes:summary>Holy Father Dunstan, Archbishop of Canterbury</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-holy-father-dunstan-archbishop-of-canterbury.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-dunstan-archbishop-of-canterbury.mp3" length="16544913" type="audio/mpeg" />
-      <itunes:duration>00:06:54</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-dunstan-archbishop-of-canterbury.vtt" type="text/vtt" />
+      <title>Holy Martyr Thalleleus</title>
+      <guid isPermaLink="false">patristic-nectar:3555</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-20&amp;episode=holy-martyr-thalleleus</link>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Thalleleus</description>
+      <itunes:summary>Holy Martyr Thalleleus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-thalleleus.mp3" length="14225240" type="audio/mpeg" />
+      <itunes:duration>00:05:56</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-thalleleus.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Dimitri Donskoi, Grand Prince of Moscow</title>
-      <guid isPermaLink="false">patristic-nectar:3551</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-19&amp;episode=st-dimitri-donskoi-grand-prince-of-moscow</link>
-      <pubDate>Tue, 19 May 2026 06:01:00 +0000</pubDate>
-      <description>St. Dimitri Donskoi, Grand Prince of Moscow</description>
-      <itunes:summary>St. Dimitri Donskoi, Grand Prince of Moscow</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-19-st-dimitri-donskoi-grand-prince-of-moscow.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-dimitri-donskoi-grand-prince-of-moscow.mp3" length="16982725" type="audio/mpeg" />
-      <itunes:duration>00:07:05</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-dimitri-donskoi-grand-prince-of-moscow.vtt" type="text/vtt" />
+      <title>St. Lydia</title>
+      <guid isPermaLink="false">patristic-nectar:3554</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-20&amp;episode=st-lydia</link>
+      <pubDate>Wed, 20 May 2026 06:01:00 +0000</pubDate>
+      <description>St. Lydia</description>
+      <itunes:summary>St. Lydia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-st-lydia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-lydia.mp3" length="5135672" type="audio/mpeg" />
+      <itunes:duration>00:02:08</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-lydia.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
