@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 09:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:06:32 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Thalleleus</title>
-      <guid isPermaLink="false">patristic-nectar:3555</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-20&amp;episode=holy-martyr-thalleleus</link>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Thalleleus</description>
-      <itunes:summary>Holy Martyr Thalleleus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-holy-martyr-thalleleus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-thalleleus.mp3" length="14225240" type="audio/mpeg" />
-      <itunes:duration>00:05:56</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-thalleleus.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>St. Lydia</title>
-      <guid isPermaLink="false">patristic-nectar:3554</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-20&amp;episode=st-lydia</link>
-      <pubDate>Wed, 20 May 2026 06:01:00 +0000</pubDate>
-      <description>St. Lydia</description>
-      <itunes:summary>St. Lydia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-20-st-lydia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-lydia.mp3" length="5135672" type="audio/mpeg" />
-      <itunes:duration>00:02:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-lydia.vtt" type="text/vtt" />
+      <title>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</title>
+      <guid isPermaLink="false">patristic-nectar:3557</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-21&amp;episode=holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles</link>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</description>
+      <itunes:summary>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="64967574" type="audio/mpeg" />
+      <itunes:duration>00:27:04</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
