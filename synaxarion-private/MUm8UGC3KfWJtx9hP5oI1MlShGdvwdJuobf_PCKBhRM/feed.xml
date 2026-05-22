@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 09:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:02:24 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</title>
-      <guid isPermaLink="false">patristic-nectar:3557</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-21&amp;episode=holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles</link>
-      <pubDate>Thu, 21 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</description>
-      <itunes:summary>Holy, glorious, God-crowned and Great Sovereigns Constantine and Helen, Equals to the Apostles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-21-holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="64967574" type="audio/mpeg" />
-      <itunes:duration>00:27:04</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-glorious-god-crowned-and-great-sovereigns-constantine-and-helen-equals-to-the-apostles.vtt" type="text/vtt" />
+      <title>Holy Martyr Basiliscus</title>
+      <guid isPermaLink="false">patristic-nectar:3559</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-22&amp;episode=holy-martyr-basiliscus</link>
+      <pubDate>Fri, 22 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Basiliscus</description>
+      <itunes:summary>Holy Martyr Basiliscus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="16880325" type="audio/mpeg" />
+      <itunes:duration>00:07:02</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-basiliscus.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
