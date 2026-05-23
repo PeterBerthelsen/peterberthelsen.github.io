@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-22",
-  "collection_name": "May 22nd",
+  "date": "2026-05-23",
+  "collection_name": "May 23rd",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-22",
-      "collection_name": "May 22nd",
-      "content_id": 3559,
-      "content_name": "Holy Martyr Basiliscus",
-      "content_slug": "holy-martyr-basiliscus",
-      "description_html": "<p>Holy Martyr Basiliscus</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg",
+      "date": "2026-05-23",
+      "collection_name": "May 23rd",
+      "content_id": 3561,
+      "content_name": "Righteous Father Michael the Confessor, Bishop of Synnada",
+      "content_slug": "righteous-father-michael-the-confessor-bishop-of-synnada",
+      "description_html": "<p>Righteous Father Michael the Confessor, Bishop of Synnada</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 16880325,
-      "duration_seconds": 422,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-basiliscus.vtt",
+      "audio_bytes": 20835264,
+      "duration_seconds": 521,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-michael-the-confessor-bishop-of-synnada.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-martyr-basiliscus.vtt",
-      "transcript_text_file_name": "holy-martyr-basiliscus.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-22-holy-martyr-basilicus.mp3?token=oKHmLpstOagRVPXDKm2MD1VSdcRwTkxoJlPk-62tatE&expires=1779447651"
+      "local_transcript_file_name": "righteous-father-michael-the-confessor-bishop-of-synnada.vtt",
+      "transcript_text_file_name": "righteous-father-michael-the-confessor-bishop-of-synnada.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.mp3?token=1U_jisx-cods0jYBs_XuluvgYxnWtZwpdYS6OvxfeZw&expires=1779534060"
     }
   ]
 }

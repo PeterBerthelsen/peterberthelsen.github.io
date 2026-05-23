@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 09:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:02:58 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Basiliscus</title>
-      <guid isPermaLink="false">patristic-nectar:3559</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-22&amp;episode=holy-martyr-basiliscus</link>
-      <pubDate>Fri, 22 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Basiliscus</description>
-      <itunes:summary>Holy Martyr Basiliscus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-22-holy-martyr-basilicus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="16880325" type="audio/mpeg" />
-      <itunes:duration>00:07:02</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-basiliscus.vtt" type="text/vtt" />
+      <title>Righteous Father Michael the Confessor, Bishop of Synnada</title>
+      <guid isPermaLink="false">patristic-nectar:3561</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-23&amp;episode=righteous-father-michael-the-confessor-bishop-of-synnada</link>
+      <pubDate>Sat, 23 May 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Michael the Confessor, Bishop of Synnada</description>
+      <itunes:summary>Righteous Father Michael the Confessor, Bishop of Synnada</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="20835264" type="audio/mpeg" />
+      <itunes:duration>00:08:41</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-michael-the-confessor-bishop-of-synnada.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
