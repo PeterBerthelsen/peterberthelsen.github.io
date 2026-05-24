@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-23",
-  "collection_name": "May 23rd",
+  "date": "2026-05-24",
+  "collection_name": "May 24th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-23",
-      "collection_name": "May 23rd",
-      "content_id": 3561,
-      "content_name": "Righteous Father Michael the Confessor, Bishop of Synnada",
-      "content_slug": "righteous-father-michael-the-confessor-bishop-of-synnada",
-      "description_html": "<p>Righteous Father Michael the Confessor, Bishop of Synnada</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.jpg",
+      "date": "2026-05-24",
+      "collection_name": "May 24th",
+      "content_id": 3563,
+      "content_name": "Righteous Father Symeon of the Wondrous Mountain",
+      "content_slug": "righteous-father-symeon-of-the-wondrous-mountain",
+      "description_html": "<p>Righteous Father Symeon of the Wondrous Mountain</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-24-righteous-father-symeon-of-the-wondrous-mountain.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 20835264,
-      "duration_seconds": 521,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-michael-the-confessor-bishop-of-synnada.vtt",
+      "audio_bytes": 53464293,
+      "duration_seconds": 1337,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-symeon-of-the-wondrous-mountain.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-father-michael-the-confessor-bishop-of-synnada.vtt",
-      "transcript_text_file_name": "righteous-father-michael-the-confessor-bishop-of-synnada.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-23-righteous-father-michael-the-confessor-bishop-of-synnada.mp3?token=1U_jisx-cods0jYBs_XuluvgYxnWtZwpdYS6OvxfeZw&expires=1779534060"
+      "local_transcript_file_name": "righteous-father-symeon-of-the-wondrous-mountain.vtt",
+      "transcript_text_file_name": "righteous-father-symeon-of-the-wondrous-mountain.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-24-righteous-father-symeon-of-the-wondrous-mountain.mp3?token=0s45W37kOBInUgjUbpVZZJuK-_u1s-V4nhO_gfI9qi8&expires=1779620432"
     }
   ]
 }
