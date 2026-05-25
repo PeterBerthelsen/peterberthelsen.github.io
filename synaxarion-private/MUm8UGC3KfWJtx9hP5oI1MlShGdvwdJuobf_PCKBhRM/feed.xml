@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 09:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:08:09 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-24-righteous-father-symeon-of-the-wondrous-mountain.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-25-third-finding-of-the-head-of-the-forerunner.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-24-righteous-father-symeon-of-the-wondrous-mountain.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-25-third-finding-of-the-head-of-the-forerunner.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Symeon of the Wondrous Mountain</title>
-      <guid isPermaLink="false">patristic-nectar:3563</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-24&amp;episode=righteous-father-symeon-of-the-wondrous-mountain</link>
-      <pubDate>Sun, 24 May 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Symeon of the Wondrous Mountain</description>
-      <itunes:summary>Righteous Father Symeon of the Wondrous Mountain</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-24-righteous-father-symeon-of-the-wondrous-mountain.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="53464293" type="audio/mpeg" />
-      <itunes:duration>00:22:17</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-symeon-of-the-wondrous-mountain.vtt" type="text/vtt" />
+      <title>Third Finding of the Head of the Forerunner</title>
+      <guid isPermaLink="false">patristic-nectar:3566</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-25&amp;episode=third-finding-of-the-head-of-the-forerunner</link>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      <description>Third Finding of the Head of the Forerunner</description>
+      <itunes:summary>Third Finding of the Head of the Forerunner</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-25-third-finding-of-the-head-of-the-forerunner.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/third-finding-of-the-head-of-the-forerunner.mp3" length="3075133" type="audio/mpeg" />
+      <itunes:duration>00:01:17</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/third-finding-of-the-head-of-the-forerunner.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Father Aldhelm, Bishop of Sherbourne</title>
+      <guid isPermaLink="false">patristic-nectar:3565</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-25&amp;episode=holy-father-aldhelm-bishop-of-sherbourne</link>
+      <pubDate>Mon, 25 May 2026 06:01:00 +0000</pubDate>
+      <description>Holy Father Aldhelm, Bishop of Sherbourne</description>
+      <itunes:summary>Holy Father Aldhelm, Bishop of Sherbourne</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-25-holy-father-aldhelm-bishop-of-sherbourne.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-aldhelm-bishop-of-sherbourne.mp3" length="14467656" type="audio/mpeg" />
+      <itunes:duration>00:06:02</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-aldhelm-bishop-of-sherbourne.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
