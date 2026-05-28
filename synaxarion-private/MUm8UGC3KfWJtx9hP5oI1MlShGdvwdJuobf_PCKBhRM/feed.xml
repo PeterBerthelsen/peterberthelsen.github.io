@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 09:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:04:18 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-27-righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-28-venerable-father-andrew-the-fool-for-christ.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-27-righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-28-venerable-father-andrew-the-fool-for-christ.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous and God-bearing Father John the Russian, Confessor and Wonderworker</title>
-      <guid isPermaLink="false">patristic-nectar:3570</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-27&amp;episode=righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker</link>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
-      <description>Righteous and God-bearing Father John the Russian, Confessor and Wonderworker</description>
-      <itunes:summary>Righteous and God-bearing Father John the Russian, Confessor and Wonderworker</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-27-righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="17760129" type="audio/mpeg" />
-      <itunes:duration>00:07:24</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.vtt" type="text/vtt" />
+      <title>Venerable Father Andrew, the Fool for Christ</title>
+      <guid isPermaLink="false">patristic-nectar:3572</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-28&amp;episode=venerable-father-andrew-the-fool-for-christ</link>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0000</pubDate>
+      <description>Venerable Father Andrew, the Fool for Christ</description>
+      <itunes:summary>Venerable Father Andrew, the Fool for Christ</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-28-venerable-father-andrew-the-fool-for-christ.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="39565060" type="audio/mpeg" />
+      <itunes:duration>00:16:29</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-andrew-the-fool-for-christ.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

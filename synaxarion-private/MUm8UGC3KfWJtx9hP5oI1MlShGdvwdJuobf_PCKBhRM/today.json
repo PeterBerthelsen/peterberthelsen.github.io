@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-27",
-  "collection_name": "May 27th",
+  "date": "2026-05-28",
+  "collection_name": "May 28th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-27",
-      "collection_name": "May 27th",
-      "content_id": 3570,
-      "content_name": "Righteous and God-bearing Father John the Russian, Confessor and Wonderworker",
-      "content_slug": "righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker",
-      "description_html": "<p>Righteous and God-bearing Father John the Russian, Confessor and Wonderworker</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-27-righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.jpg",
+      "date": "2026-05-28",
+      "collection_name": "May 28th",
+      "content_id": 3572,
+      "content_name": "Venerable Father Andrew, the Fool for Christ",
+      "content_slug": "venerable-father-andrew-the-fool-for-christ",
+      "description_html": "<p>Venerable Father Andrew, the Fool for Christ</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-28-venerable-father-andrew-the-fool-for-christ.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 17760129,
-      "duration_seconds": 444,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.vtt",
+      "audio_bytes": 39565060,
+      "duration_seconds": 989,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-andrew-the-fool-for-christ.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.vtt",
-      "transcript_text_file_name": "righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-27-our-righteous-and-god-bearing-father-john-the-russian-confessor-and-wonderworker.mp3?token=uICZuWMpOGRmZ4wf5qqEnY9P-G66I_qfwHIkTWVrPF8&expires=1779879653"
+      "local_transcript_file_name": "venerable-father-andrew-the-fool-for-christ.vtt",
+      "transcript_text_file_name": "venerable-father-andrew-the-fool-for-christ.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-28-venerable-father-andrew-fool-for-christ.mp3?token=Ft4db36Ys3KwWmVxr9WbxM1cYLt42nR_WNhB8xxSPgU&expires=1779966059"
     }
   ]
 }
