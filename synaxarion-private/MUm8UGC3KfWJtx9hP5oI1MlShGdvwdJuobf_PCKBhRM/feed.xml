@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:01:48 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,59 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-virgin-martyr-theodosia.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-virgin-martyr-theodosia.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Virgin Martyr Theodosia</title>
-      <guid isPermaLink="false">patristic-nectar:3577</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-29&amp;episode=holy-virgin-martyr-theodosia</link>
-      <pubDate>Fri, 29 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Virgin Martyr Theodosia</description>
-      <itunes:summary>Holy Virgin Martyr Theodosia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-virgin-martyr-theodosia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-virgin-martyr-theodosia.mp3" length="5514970" type="audio/mpeg" />
-      <itunes:duration>00:02:18</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-virgin-martyr-theodosia.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Martyr Theodosia of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3576</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-29&amp;episode=holy-martyr-theodosia-of-constantinople</link>
-      <pubDate>Fri, 29 May 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyr Theodosia of Constantinople</description>
-      <itunes:summary>Holy Martyr Theodosia of Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-martyr-theodosia-of-constantinople.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-theodosia-of-constantinople.mp3" length="5090742" type="audio/mpeg" />
-      <itunes:duration>00:02:07</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-theodosia-of-constantinople.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Father Alexander- Archbishop of Alexandria</title>
-      <guid isPermaLink="false">patristic-nectar:3575</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-29&amp;episode=holy-father-alexander-archbishop-of-alexandria</link>
-      <pubDate>Fri, 29 May 2026 06:02:00 +0000</pubDate>
-      <description>Holy Father Alexander- Archbishop of Alexandria</description>
-      <itunes:summary>Holy Father Alexander- Archbishop of Alexandria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-father-alexander-archbishop-of-alexandria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-alexander-archbishop-of-alexandria.mp3" length="18390203" type="audio/mpeg" />
-      <itunes:duration>00:07:40</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-alexander-archbishop-of-alexandria.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Father Luke- Archbishp of Simferopol and the Crimea- the Blessed Surgeon</title>
-      <guid isPermaLink="false">patristic-nectar:3574</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-29&amp;episode=holy-father-luke-archbishp-of-simferopol-and-the-crimea-the-blessed-surgeon</link>
-      <pubDate>Fri, 29 May 2026 06:03:00 +0000</pubDate>
-      <description>Holy Father Luke- Archbishp of Simferopol and the Crimea- the Blessed Surgeon</description>
-      <itunes:summary>Holy Father Luke- Archbishp of Simferopol and the Crimea- the Blessed Surgeon</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-29-holy-father-luke-archbishp-of-simferopol-and-the-crimea-the-blessed-surgeon.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-luke-archbishp-of-simferopol-and-the-crimea-the-blessed-surgeon.mp3" length="35360391" type="audio/mpeg" />
-      <itunes:duration>00:14:44</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-luke-archbishp-of-simferopol-and-the-crimea-the-blessed-surgeon.vtt" type="text/vtt" />
+      <title>Righteous Father Isaacius, Abbot of Dalmatus</title>
+      <guid isPermaLink="false">patristic-nectar:3579</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-30&amp;episode=righteous-father-isaacius-abbot-of-dalmatus</link>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Isaacius, Abbot of Dalmatus</description>
+      <itunes:summary>Righteous Father Isaacius, Abbot of Dalmatus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="22566660" type="audio/mpeg" />
+      <itunes:duration>00:09:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-isaacius-abbot-of-dalmatus.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
