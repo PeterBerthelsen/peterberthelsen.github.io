@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 09:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 09:01:24 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Isaacius, Abbot of Dalmatus</title>
-      <guid isPermaLink="false">patristic-nectar:3579</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-30&amp;episode=righteous-father-isaacius-abbot-of-dalmatus</link>
-      <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Isaacius, Abbot of Dalmatus</description>
-      <itunes:summary>Righteous Father Isaacius, Abbot of Dalmatus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="22566660" type="audio/mpeg" />
-      <itunes:duration>00:09:24</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-isaacius-abbot-of-dalmatus.vtt" type="text/vtt" />
+      <title>Holy Martyr Hermias</title>
+      <guid isPermaLink="false">patristic-nectar:3581</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-31&amp;episode=holy-martyr-hermias</link>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Hermias</description>
+      <itunes:summary>Holy Martyr Hermias</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="5660211" type="audio/mpeg" />
+      <itunes:duration>00:02:22</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-hermias.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

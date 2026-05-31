@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-30",
-  "collection_name": "May 30th",
+  "date": "2026-05-31",
+  "collection_name": "May 31st",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-05-30",
-      "collection_name": "May 30th",
-      "content_id": 3579,
-      "content_name": "Righteous Father Isaacius, Abbot of Dalmatus",
-      "content_slug": "righteous-father-isaacius-abbot-of-dalmatus",
-      "description_html": "<p>Righteous Father Isaacius, Abbot of Dalmatus</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-30-righteous-father-isaacius-abbot-of-dalmatus.jpg",
+      "date": "2026-05-31",
+      "collection_name": "May 31st",
+      "content_id": 3581,
+      "content_name": "Holy Martyr Hermias",
+      "content_slug": "holy-martyr-hermias",
+      "description_html": "<p>Holy Martyr Hermias</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 22566660,
-      "duration_seconds": 564,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-isaacius-abbot-of-dalmatus.vtt",
+      "audio_bytes": 5660211,
+      "duration_seconds": 142,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-hermias.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-father-isaacius-abbot-of-dalmatus.vtt",
-      "transcript_text_file_name": "righteous-father-isaacius-abbot-of-dalmatus.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-30-righteous-father-isaacius-abbot-of-dalmatus.mp3?token=pvpULe22_O0wKsRLYF5Qb4a5Ps0zXcWm4LS7vFy3lN0&expires=1780138858"
+      "local_transcript_file_name": "holy-martyr-hermias.vtt",
+      "transcript_text_file_name": "holy-martyr-hermias.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/may-31-holy-martyr-hermias.mp3?token=CYmhpJCikEsEWEFcyEt3Gtvn4oWsTeXm3nNdrFpIvM8&expires=1780225269"
     }
   ]
 }
