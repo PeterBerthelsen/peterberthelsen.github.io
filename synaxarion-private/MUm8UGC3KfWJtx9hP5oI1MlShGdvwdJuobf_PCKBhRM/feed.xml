@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 09:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 09:04:34 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Hermias</title>
-      <guid isPermaLink="false">patristic-nectar:3581</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-05-31&amp;episode=holy-martyr-hermias</link>
-      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Hermias</description>
-      <itunes:summary>Holy Martyr Hermias</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/may-31-holy-martyr-hermias.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="5660211" type="audio/mpeg" />
-      <itunes:duration>00:02:22</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-hermias.vtt" type="text/vtt" />
+      <title>Holy Martyr Justin the Philosopher and His Companions</title>
+      <guid isPermaLink="false">patristic-nectar:3583</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-01&amp;episode=holy-martyr-justin-the-philosopher-and-his-companions</link>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Justin the Philosopher and His Companions</description>
+      <itunes:summary>Holy Martyr Justin the Philosopher and His Companions</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-justin-the-philosopher-and-his-companions.mp3" length="33522415" type="audio/mpeg" />
+      <itunes:duration>00:13:58</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-justin-the-philosopher-and-his-companions.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Our Righteous Father Justin of Celije</title>
+      <guid isPermaLink="false">patristic-nectar:3584</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-01&amp;episode=our-righteous-father-justin-of-celije</link>
+      <pubDate>Mon, 01 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Our Righteous Father Justin of Celije</description>
+      <itunes:summary>Our Righteous Father Justin of Celije</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-righteous-father-justin-of-elije.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-righteous-father-justin-of-celije.mp3" length="56247901" type="audio/mpeg" />
+      <itunes:duration>00:23:26</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-righteous-father-justin-of-celije.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
