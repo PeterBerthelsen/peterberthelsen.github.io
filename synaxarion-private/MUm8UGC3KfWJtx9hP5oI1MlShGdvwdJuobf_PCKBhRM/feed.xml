@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 09:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:08:28 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Justin the Philosopher and His Companions</title>
-      <guid isPermaLink="false">patristic-nectar:3583</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-01&amp;episode=holy-martyr-justin-the-philosopher-and-his-companions</link>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Justin the Philosopher and His Companions</description>
-      <itunes:summary>Holy Martyr Justin the Philosopher and His Companions</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-holy-martyr-justin-the-philosopher.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-justin-the-philosopher-and-his-companions.mp3" length="33522415" type="audio/mpeg" />
-      <itunes:duration>00:13:58</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-justin-the-philosopher-and-his-companions.vtt" type="text/vtt" />
+      <title>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</title>
+      <guid isPermaLink="false">patristic-nectar:3586</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-02&amp;episode=our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople</link>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</description>
+      <itunes:summary>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.mp3" length="31141093" type="audio/mpeg" />
+      <itunes:duration>00:12:59</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Righteous Father Justin of Celije</title>
-      <guid isPermaLink="false">patristic-nectar:3584</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-01&amp;episode=our-righteous-father-justin-of-celije</link>
-      <pubDate>Mon, 01 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Our Righteous Father Justin of Celije</description>
-      <itunes:summary>Our Righteous Father Justin of Celije</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-1-righteous-father-justin-of-elije.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-righteous-father-justin-of-celije.mp3" length="56247901" type="audio/mpeg" />
-      <itunes:duration>00:23:26</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-righteous-father-justin-of-celije.vtt" type="text/vtt" />
+      <title>The Holy New Martyr Constantine, the Converted Muslim</title>
+      <guid isPermaLink="false">patristic-nectar:3587</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-02&amp;episode=the-holy-new-martyr-constantine-the-converted-muslim</link>
+      <pubDate>Tue, 02 Jun 2026 06:01:00 +0000</pubDate>
+      <description>The Holy New Martyr Constantine, the Converted Muslim</description>
+      <itunes:summary>The Holy New Martyr Constantine, the Converted Muslim</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-new-martyr-constantine-the-converted-muslim.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-new-martyr-constantine-the-converted-muslim.mp3" length="16565811" type="audio/mpeg" />
+      <itunes:duration>00:06:54</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-new-martyr-constantine-the-converted-muslim.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
