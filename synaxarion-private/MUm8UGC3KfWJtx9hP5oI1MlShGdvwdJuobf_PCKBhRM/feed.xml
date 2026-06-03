@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 09:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:02:06 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-3-holy-martyr-lucillian-of-nicomedia-and-those-with-him.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-3-holy-martyr-lucillian-of-nicomedia-and-those-with-him.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3586</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-02&amp;episode=our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople</link>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</description>
-      <itunes:summary>Our Holy Father Nikephoros the Confessor, Archbishop of Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.mp3" length="31141093" type="audio/mpeg" />
-      <itunes:duration>00:12:59</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-nikephoros-the-confessor-archbishop-of-constantinople.vtt" type="text/vtt" />
+      <title>Holy Martyr Lucillian of Nicomedia and Those with Him</title>
+      <guid isPermaLink="false">patristic-nectar:3589</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-03&amp;episode=holy-martyr-lucillian-of-nicomedia-and-those-with-him</link>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Lucillian of Nicomedia and Those with Him</description>
+      <itunes:summary>Holy Martyr Lucillian of Nicomedia and Those with Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-3-holy-martyr-lucillian-of-nicomedia-and-those-with-him.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-lucillian-of-nicomedia-and-those-with-him.mp3" length="15690186" type="audio/mpeg" />
+      <itunes:duration>00:06:32</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-lucillian-of-nicomedia-and-those-with-him.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>The Holy New Martyr Constantine, the Converted Muslim</title>
-      <guid isPermaLink="false">patristic-nectar:3587</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-02&amp;episode=the-holy-new-martyr-constantine-the-converted-muslim</link>
-      <pubDate>Tue, 02 Jun 2026 06:01:00 +0000</pubDate>
-      <description>The Holy New Martyr Constantine, the Converted Muslim</description>
-      <itunes:summary>The Holy New Martyr Constantine, the Converted Muslim</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-2-holy-new-martyr-constantine-the-converted-muslim.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-new-martyr-constantine-the-converted-muslim.mp3" length="16565811" type="audio/mpeg" />
-      <itunes:duration>00:06:54</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-new-martyr-constantine-the-converted-muslim.vtt" type="text/vtt" />
+      <title>St. Clotilde, Queen of the Franks</title>
+      <guid isPermaLink="false">patristic-nectar:3590</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-03&amp;episode=st-clotilde-queen-of-the-franks</link>
+      <pubDate>Wed, 03 Jun 2026 06:01:00 +0000</pubDate>
+      <description>St. Clotilde, Queen of the Franks</description>
+      <itunes:summary>St. Clotilde, Queen of the Franks</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-3-st-clotilde-queen-of-the-franks.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-clotilde-queen-of-the-franks.mp3" length="14965027" type="audio/mpeg" />
+      <itunes:duration>00:06:14</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-clotilde-queen-of-the-franks.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Venerable and God-Bearing Father Kevin, Abbot of Glendalough</title>
+      <guid isPermaLink="false">patristic-nectar:3591</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-03&amp;episode=venerable-and-god-bearing-father-kevin-abbot-of-glendalough</link>
+      <pubDate>Wed, 03 Jun 2026 06:02:00 +0000</pubDate>
+      <description>Venerable and God-Bearing Father Kevin, Abbot of Glendalough</description>
+      <itunes:summary>Venerable and God-Bearing Father Kevin, Abbot of Glendalough</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-3-venerable-and-god-bearing-father-kevin-abbot-of-glendalough.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-kevin-abbot-of-glendalough.mp3" length="7597452" type="audio/mpeg" />
+      <itunes:duration>00:03:10</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-kevin-abbot-of-glendalough.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
