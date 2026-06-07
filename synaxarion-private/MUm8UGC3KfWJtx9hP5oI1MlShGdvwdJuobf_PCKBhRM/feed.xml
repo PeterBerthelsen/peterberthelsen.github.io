@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 09:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 09:02:02 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-6-righteous-father-hilarion-the-new.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-7-holy-martyr-theodotus-of-ancyra.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-6-righteous-father-hilarion-the-new.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-7-holy-martyr-theodotus-of-ancyra.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Hilarion the New</title>
-      <guid isPermaLink="false">patristic-nectar:5103</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-06&amp;episode=sy060601</link>
-      <pubDate>Sat, 06 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Hilarion the New</description>
-      <itunes:summary>Righteous Father Hilarion the New</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-6-righteous-father-hilarion-the-new.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="13720554" type="audio/mpeg" />
-      <itunes:duration>00:05:43</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy060601.vtt" type="text/vtt" />
+      <title>Holy Martyr Theodotus of Ancyra</title>
+      <guid isPermaLink="false">patristic-nectar:3599</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-07&amp;episode=holy-martyr-theodotus-of-ancyra</link>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Theodotus of Ancyra</description>
+      <itunes:summary>Holy Martyr Theodotus of Ancyra</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-7-holy-martyr-theodotus-of-ancyra.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-theodotus-of-ancyra.mp3" length="20275199" type="audio/mpeg" />
+      <itunes:duration>00:08:27</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-theodotus-of-ancyra.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>St. Panagis Bassia</title>
+      <guid isPermaLink="false">patristic-nectar:3600</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-07&amp;episode=st-panagis-bassia</link>
+      <pubDate>Sun, 07 Jun 2026 06:01:00 +0000</pubDate>
+      <description>St. Panagis Bassia</description>
+      <itunes:summary>St. Panagis Bassia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-7-st-panagis-bassia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-panagis-bassia.mp3" length="18273174" type="audio/mpeg" />
+      <itunes:duration>00:07:37</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-panagis-bassia.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
