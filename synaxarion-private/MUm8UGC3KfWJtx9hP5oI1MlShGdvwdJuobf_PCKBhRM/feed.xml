@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:02:25 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-9-holy-father-cyril-patriarch-of-alexandria.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-11-holy-apostles-bartholomew-and-barnabas.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-9-holy-father-cyril-patriarch-of-alexandria.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-11-holy-apostles-bartholomew-and-barnabas.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Cyril, Patriarch of Alexandria</title>
-      <guid isPermaLink="false">patristic-nectar:3604</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-09&amp;episode=holy-father-cyril-patriarch-of-alexandria</link>
-      <pubDate>Tue, 09 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Cyril, Patriarch of Alexandria</description>
-      <itunes:summary>Holy Father Cyril, Patriarch of Alexandria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-9-holy-father-cyril-patriarch-of-alexandria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-cyril-patriarch-of-alexandria.mp3" length="48519835" type="audio/mpeg" />
-      <itunes:duration>00:20:13</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-cyril-patriarch-of-alexandria.vtt" type="text/vtt" />
+      <title>Holy Apostles Bartholomew and Barnabas</title>
+      <guid isPermaLink="false">patristic-nectar:3611</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-11&amp;episode=holy-apostles-bartholomew-and-barnabas</link>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostles Bartholomew and Barnabas</description>
+      <itunes:summary>Holy Apostles Bartholomew and Barnabas</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-11-holy-apostles-bartholomew-and-barnabas.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-bartholomew-and-barnabas.mp3" length="33607052" type="audio/mpeg" />
+      <itunes:duration>00:14:00</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-bartholomew-and-barnabas.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Venerable Father Cyril of the White Lake</title>
-      <guid isPermaLink="false">patristic-nectar:3605</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-09&amp;episode=our-venerable-father-cyril-of-the-white-lake</link>
-      <pubDate>Tue, 09 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Our Venerable Father Cyril of the White Lake</description>
-      <itunes:summary>Our Venerable Father Cyril of the White Lake</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-8-venerable-father-cyril-of-the-white-lake.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-father-cyril-of-the-white-lake.mp3" length="37763656" type="audio/mpeg" />
-      <itunes:duration>00:15:44</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-father-cyril-of-the-white-lake.vtt" type="text/vtt" />
+      <title>Synaxis of the Mother of God, in memory of the hymn AXION ESTIN by the Archangel Gabriel</title>
+      <guid isPermaLink="false">patristic-nectar:3612</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-11&amp;episode=synaxis-of-the-mother-of-god-in-memory-of-the-hymn-axion-estin-by-the-archangel-gabriel</link>
+      <pubDate>Thu, 11 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Synaxis of the Mother of God, in memory of the hymn AXION ESTIN by the Archangel Gabriel</description>
+      <itunes:summary>Synaxis of the Mother of God, in memory of the hymn AXION ESTIN by the Archangel Gabriel</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-11-synaxis-of-the-mother-of-god-in-memory-of-the-hymn-axion-estin-by-the-archangel-gabriel.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/synaxis-of-the-mother-of-god-in-memory-of-the-hymn-axion-estin-by-the-archangel-gabriel.mp3" length="8288129" type="audio/mpeg" />
+      <itunes:duration>00:03:27</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-the-mother-of-god-in-memory-of-the-hymn-axion-estin-by-the-archangel-gabriel.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Venerable and God-Bearing Father Columba of Ireland, Founder of the Monastery of Iona</title>
-      <guid isPermaLink="false">patristic-nectar:3606</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-09&amp;episode=our-venerable-and-god-bearing-father-columba-of-ireland-founder-of-the-monastery-of-iona</link>
-      <pubDate>Tue, 09 Jun 2026 06:02:00 +0000</pubDate>
-      <description>Our Venerable and God-Bearing Father Columba of Ireland, Founder of the Monastery of Iona</description>
-      <itunes:summary>Our Venerable and God-Bearing Father Columba of Ireland, Founder of the Monastery of Iona</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-9-venerable-and-god-bearing-father-columba-of-ireland-founder-of-the-monastery-of-iona.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-and-god-bearing-father-columba-of-ireland-founder-of-the-monastery-of-iona.mp3" length="21642970" type="audio/mpeg" />
-      <itunes:duration>00:09:01</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-and-god-bearing-father-columba-of-ireland-founder-of-the-monastery-of-iona.vtt" type="text/vtt" />
+      <title>222 Holy New Martyrs of the Russian Mission in Peking</title>
+      <guid isPermaLink="false">patristic-nectar:3613</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-11&amp;episode=222-holy-new-martyrs-of-the-russian-mission-in-peking</link>
+      <pubDate>Thu, 11 Jun 2026 06:02:00 +0000</pubDate>
+      <description>222 Holy New Martyrs of the Russian Mission in Peking</description>
+      <itunes:summary>222 Holy New Martyrs of the Russian Mission in Peking</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-11-222-holy-new-martyrs-of-the-russian-mission-in-peking.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/222-holy-new-martyrs-of-the-russian-mission-in-peking.mp3" length="12952554" type="audio/mpeg" />
+      <itunes:duration>00:05:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/222-holy-new-martyrs-of-the-russian-mission-in-peking.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
