@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 09:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 09:00:42 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-12-venerable-and-god-bearing-father-onuphrius-the-great.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-13-holy-martyr-akylina.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-12-venerable-and-god-bearing-father-onuphrius-the-great.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-13-holy-martyr-akylina.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Venerable and God-Bearing Father Onuphrius the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3614</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-12&amp;episode=venerable-and-god-bearing-father-onuphrius-the-great</link>
-      <pubDate>Fri, 12 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Venerable and God-Bearing Father Onuphrius the Great</description>
-      <itunes:summary>Venerable and God-Bearing Father Onuphrius the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-12-venerable-and-god-bearing-father-onuphrius-the-great.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-onuphrius-the-great.mp3" length="18557386" type="audio/mpeg" />
-      <itunes:duration>00:07:44</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-onuphrius-the-great.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Venerable and God-Bearing Father Peter the Athonite</title>
-      <guid isPermaLink="false">patristic-nectar:3615</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-12&amp;episode=venerable-and-god-bearing-father-peter-the-athonite</link>
-      <pubDate>Fri, 12 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Venerable and God-Bearing Father Peter the Athonite</description>
-      <itunes:summary>Venerable and God-Bearing Father Peter the Athonite</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-12-venerable-and-god-bearing-father-peter-the-athonite.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-peter-the-athonite.mp3" length="31577860" type="audio/mpeg" />
-      <itunes:duration>00:13:09</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-peter-the-athonite.vtt" type="text/vtt" />
+      <title>Holy Martyr Akylina</title>
+      <guid isPermaLink="false">patristic-nectar:5114</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-13&amp;episode=sy061301</link>
+      <pubDate>Sat, 13 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Akylina</description>
+      <itunes:summary>Holy Martyr Akylina</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-13-holy-martyr-akylina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="4741746" type="audio/mpeg" />
+      <itunes:duration>00:01:59</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy061301.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
