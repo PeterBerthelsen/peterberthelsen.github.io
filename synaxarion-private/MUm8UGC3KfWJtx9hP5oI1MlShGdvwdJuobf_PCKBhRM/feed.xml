@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 09:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:01:28 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/jun-16-st-tikon-bishop-of-amathus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-17-holy-martyrs-manuel-sabel-and-ismael.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/jun-16-st-tikon-bishop-of-amathus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-17-holy-martyrs-manuel-sabel-and-ismael.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Tikhon, Bishop of Amathus in Cyprus</title>
-      <guid isPermaLink="false">patristic-nectar:3622</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-16&amp;episode=holy-father-tikhon-bishop-of-amathus-in-cyprus</link>
-      <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Tikhon, Bishop of Amathus in Cyprus</description>
-      <itunes:summary>Holy Father Tikhon, Bishop of Amathus in Cyprus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/jun-16-st-tikon-bishop-of-amathus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="20944978" type="audio/mpeg" />
-      <itunes:duration>00:08:44</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-tikhon-bishop-of-amathus-in-cyprus.vtt" type="text/vtt" />
+      <title>Holy Martyrs Manuel, Sabel, and Ismael</title>
+      <guid isPermaLink="false">patristic-nectar:3623</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-17&amp;episode=holy-martyrs-manuel-sabel-and-ismael</link>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyrs Manuel, Sabel, and Ismael</description>
+      <itunes:summary>Holy Martyrs Manuel, Sabel, and Ismael</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-17-holy-martyrs-manuel-sabel-and-ismael.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-manuel-sabel-and-ismael.mp3" length="13233631" type="audio/mpeg" />
+      <itunes:duration>00:05:31</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-manuel-sabel-and-ismael.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Ss. Botolph, Abbot of Ikanhoe, and Adolph, Bishop of Maastricht</title>
+      <guid isPermaLink="false">patristic-nectar:3624</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-17&amp;episode=ss-botolph-abbot-of-ikanhoe-and-adolph-bishop-of-maastricht</link>
+      <pubDate>Wed, 17 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Ss. Botolph, Abbot of Ikanhoe, and Adolph, Bishop of Maastricht</description>
+      <itunes:summary>Ss. Botolph, Abbot of Ikanhoe, and Adolph, Bishop of Maastricht</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-17-ss-botolph-abbot-of-ikanhoe-and-adolph-bishop-of-maastricht.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/ss-botolph-abbot-of-ikanhoe-and-adolph-bishop-of-maastricht.mp3" length="12733125" type="audio/mpeg" />
+      <itunes:duration>00:05:18</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/ss-botolph-abbot-of-ikanhoe-and-adolph-bishop-of-maastricht.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
