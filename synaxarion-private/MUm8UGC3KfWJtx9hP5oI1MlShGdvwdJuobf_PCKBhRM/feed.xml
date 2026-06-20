@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 09:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:02:46 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-19-holy-apostle-jude.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-19-holy-apostle-jude.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle Jude</title>
-      <guid isPermaLink="false">patristic-nectar:3626</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-19&amp;episode=holy-apostle-jude</link>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle Jude</description>
-      <itunes:summary>Holy Apostle Jude</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-19-holy-apostle-jude.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-jude.mp3" length="10322546" type="audio/mpeg" />
-      <itunes:duration>00:04:18</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-jude.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</title>
+      <guid isPermaLink="false">patristic-nectar:3629</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=holy-hieromartyr-methodios-of-patara-bishop-of-olympus</link>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</description>
+      <itunes:summary>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-methodios-of-patara-bishop-of-olympus.mp3" length="19522872" type="audio/mpeg" />
+      <itunes:duration>00:08:08</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-methodios-of-patara-bishop-of-olympus.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Venerable and God-Bearing Father Paisius the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3627</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-19&amp;episode=venerable-and-god-bearing-father-paisius-the-great</link>
-      <pubDate>Fri, 19 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Venerable and God-Bearing Father Paisius the Great</description>
-      <itunes:summary>Venerable and God-Bearing Father Paisius the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/0619paisios-of-megas.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-father-paisius-the-great.mp3" length="26005419" type="audio/mpeg" />
-      <itunes:duration>00:10:50</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-father-paisius-the-great.vtt" type="text/vtt" />
+      <title>St. Nicolas Cabasilas</title>
+      <guid isPermaLink="false">patristic-nectar:3630</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=st-nicolas-cabasilas</link>
+      <pubDate>Sat, 20 Jun 2026 06:01:00 +0000</pubDate>
+      <description>St. Nicolas Cabasilas</description>
+      <itunes:summary>St. Nicolas Cabasilas</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-st-nicolas-cabasilas.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-nicolas-cabasilas.mp3" length="30780603" type="audio/mpeg" />
+      <itunes:duration>00:12:50</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-nicolas-cabasilas.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Father Job, first Patriarch of Moscow</title>
-      <guid isPermaLink="false">patristic-nectar:3628</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-19&amp;episode=holy-father-job-first-patriarch-of-moscow</link>
-      <pubDate>Fri, 19 Jun 2026 06:02:00 +0000</pubDate>
-      <description>Holy Father Job, first Patriarch of Moscow</description>
-      <itunes:summary>Holy Father Job, first Patriarch of Moscow</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-19-holy-father-job-first-patriarch-of-moscow.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-job-first-patriarch-of-moscow.mp3" length="20069354" type="audio/mpeg" />
-      <itunes:duration>00:08:22</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-job-first-patriarch-of-moscow.vtt" type="text/vtt" />
+      <title>St. Callistus I, Patriarch of Constantinople</title>
+      <guid isPermaLink="false">patristic-nectar:3631</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=st-callistus-i-patriarch-of-constantinople</link>
+      <pubDate>Sat, 20 Jun 2026 06:02:00 +0000</pubDate>
+      <description>St. Callistus I, Patriarch of Constantinople</description>
+      <itunes:summary>St. Callistus I, Patriarch of Constantinople</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-st-callistus-i-patriarch-of-constantinople.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-callistus-i-patriarch-of-constantinople.mp3" length="11555525" type="audio/mpeg" />
+      <itunes:duration>00:04:49</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-callistus-i-patriarch-of-constantinople.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
