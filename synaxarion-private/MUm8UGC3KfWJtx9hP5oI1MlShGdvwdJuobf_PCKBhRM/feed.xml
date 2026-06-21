@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 09:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:00:37 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-21-holy-martyr-julian-of-cilicia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-21-holy-martyr-julian-of-cilicia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</title>
-      <guid isPermaLink="false">patristic-nectar:3629</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=holy-hieromartyr-methodios-of-patara-bishop-of-olympus</link>
-      <pubDate>Sat, 20 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</description>
-      <itunes:summary>Holy Hieromartyr Methodios of Patara, Bishop of Olympus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-holy-hieromartyr-methodios-of-patara-bishop-of-olympus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-methodios-of-patara-bishop-of-olympus.mp3" length="19522872" type="audio/mpeg" />
-      <itunes:duration>00:08:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-methodios-of-patara-bishop-of-olympus.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>St. Nicolas Cabasilas</title>
-      <guid isPermaLink="false">patristic-nectar:3630</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=st-nicolas-cabasilas</link>
-      <pubDate>Sat, 20 Jun 2026 06:01:00 +0000</pubDate>
-      <description>St. Nicolas Cabasilas</description>
-      <itunes:summary>St. Nicolas Cabasilas</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-st-nicolas-cabasilas.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-nicolas-cabasilas.mp3" length="30780603" type="audio/mpeg" />
-      <itunes:duration>00:12:50</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-nicolas-cabasilas.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>St. Callistus I, Patriarch of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3631</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-20&amp;episode=st-callistus-i-patriarch-of-constantinople</link>
-      <pubDate>Sat, 20 Jun 2026 06:02:00 +0000</pubDate>
-      <description>St. Callistus I, Patriarch of Constantinople</description>
-      <itunes:summary>St. Callistus I, Patriarch of Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-20-st-callistus-i-patriarch-of-constantinople.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-callistus-i-patriarch-of-constantinople.mp3" length="11555525" type="audio/mpeg" />
-      <itunes:duration>00:04:49</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-callistus-i-patriarch-of-constantinople.vtt" type="text/vtt" />
+      <title>Holy Martyr Julian of Cilicia</title>
+      <guid isPermaLink="false">patristic-nectar:5126</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-21&amp;episode=sy062101</link>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Julian of Cilicia</description>
+      <itunes:summary>Holy Martyr Julian of Cilicia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-21-holy-martyr-julian-of-cilicia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="10237909" type="audio/mpeg" />
+      <itunes:duration>00:04:16</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy062101.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
