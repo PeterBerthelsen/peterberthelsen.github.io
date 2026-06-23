@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:01:36 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-22-holy-hieromartyr-eusebius-bishop-of-samosata.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-22-holy-hieromartyr-eusebius-bishop-of-samosata.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Eusebius, Bishop of Samosata</title>
-      <guid isPermaLink="false">patristic-nectar:3633</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-22&amp;episode=holy-hieromartyr-eusebius-bishop-of-samosata</link>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Eusebius, Bishop of Samosata</description>
-      <itunes:summary>Holy Hieromartyr Eusebius, Bishop of Samosata</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-22-holy-hieromartyr-eusebius-bishop-of-samosata.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-eusebius-bishop-of-samosata.mp3" length="15015182" type="audio/mpeg" />
-      <itunes:duration>00:06:15</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-eusebius-bishop-of-samosata.vtt" type="text/vtt" />
+      <title>Holy Martyr Agrippina</title>
+      <guid isPermaLink="false">patristic-nectar:3636</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-23&amp;episode=holy-martyr-agrippina</link>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Agrippina</description>
+      <itunes:summary>Holy Martyr Agrippina</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-agrippina.mp3" length="8975672" type="audio/mpeg" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-agrippina.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Proto-martyr Alban of Britain</title>
-      <guid isPermaLink="false">patristic-nectar:3634</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-22&amp;episode=holy-proto-martyr-alban-of-britain</link>
-      <pubDate>Mon, 22 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Holy Proto-martyr Alban of Britain</description>
-      <itunes:summary>Holy Proto-martyr Alban of Britain</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-22-holy-proto-martyr-alban-of-britain.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-proto-martyr-alban-of-britain.mp3" length="9669484" type="audio/mpeg" />
-      <itunes:duration>00:04:02</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-proto-martyr-alban-of-britain.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Father Paulinus, Bishop of Nola</title>
-      <guid isPermaLink="false">patristic-nectar:3635</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-22&amp;episode=holy-father-paulinus-bishop-of-nola</link>
-      <pubDate>Mon, 22 Jun 2026 06:02:00 +0000</pubDate>
-      <description>Holy Father Paulinus, Bishop of Nola</description>
-      <itunes:summary>Holy Father Paulinus, Bishop of Nola</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-22-holy-father-paulinus-bishop-of-nola.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-paulinus-bishop-of-nola.mp3" length="22355591" type="audio/mpeg" />
-      <itunes:duration>00:09:19</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-paulinus-bishop-of-nola.vtt" type="text/vtt" />
+      <title>Righteous Mother Audrey (Etheldreada) of Ely</title>
+      <guid isPermaLink="false">patristic-nectar:3637</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-23&amp;episode=righteous-mother-audrey-etheldreada-of-ely</link>
+      <pubDate>Tue, 23 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Righteous Mother Audrey (Etheldreada) of Ely</description>
+      <itunes:summary>Righteous Mother Audrey (Etheldreada) of Ely</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-righteous-mother-audrey-etheldreada-of-ely.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-audrey-etheldreada-of-ely.mp3" length="18034937" type="audio/mpeg" />
+      <itunes:duration>00:07:31</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-audrey-etheldreada-of-ely.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
