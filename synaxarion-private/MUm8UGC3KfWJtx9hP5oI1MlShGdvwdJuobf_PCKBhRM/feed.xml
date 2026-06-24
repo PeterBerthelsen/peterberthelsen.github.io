@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:01:49 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Agrippina</title>
-      <guid isPermaLink="false">patristic-nectar:3636</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-23&amp;episode=holy-martyr-agrippina</link>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Agrippina</description>
-      <itunes:summary>Holy Martyr Agrippina</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-holy-martyr-agrippina.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-agrippina.mp3" length="8975672" type="audio/mpeg" />
-      <itunes:duration>00:00:00</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-agrippina.vtt" type="text/vtt" />
+      <title>St. Athanasios of Paros</title>
+      <guid isPermaLink="false">patristic-nectar:3638</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-24&amp;episode=st-athanasios-of-paros</link>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
+      <description>St. Athanasios of Paros</description>
+      <itunes:summary>St. Athanasios of Paros</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-athanasios-of-paros.mp3" length="19452864" type="audio/mpeg" />
+      <itunes:duration>00:08:06</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-athanasios-of-paros.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Righteous Mother Audrey (Etheldreada) of Ely</title>
-      <guid isPermaLink="false">patristic-nectar:3637</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-23&amp;episode=righteous-mother-audrey-etheldreada-of-ely</link>
-      <pubDate>Tue, 23 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Mother Audrey (Etheldreada) of Ely</description>
-      <itunes:summary>Righteous Mother Audrey (Etheldreada) of Ely</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-23-righteous-mother-audrey-etheldreada-of-ely.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-audrey-etheldreada-of-ely.mp3" length="18034937" type="audio/mpeg" />
-      <itunes:duration>00:07:31</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-audrey-etheldreada-of-ely.vtt" type="text/vtt" />
+      <title>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</title>
+      <guid isPermaLink="false">patristic-nectar:3639</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-24&amp;episode=nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john</link>
+      <pubDate>Wed, 24 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</description>
+      <itunes:summary>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.mp3" length="18600227" type="audio/mpeg" />
+      <itunes:duration>00:07:45</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
