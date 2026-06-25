@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:02:37 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>St. Athanasios of Paros</title>
-      <guid isPermaLink="false">patristic-nectar:3638</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-24&amp;episode=st-athanasios-of-paros</link>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
-      <description>St. Athanasios of Paros</description>
-      <itunes:summary>St. Athanasios of Paros</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-st-athanasios-of-paros.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-athanasios-of-paros.mp3" length="19452864" type="audio/mpeg" />
-      <itunes:duration>00:08:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-athanasios-of-paros.vtt" type="text/vtt" />
+      <title>Holy Martyr Febronia</title>
+      <guid isPermaLink="false">patristic-nectar:3641</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-25&amp;episode=holy-martyr-febronia</link>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Febronia</description>
+      <itunes:summary>Holy Martyr Febronia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-febronia.mp3" length="25836146" type="audio/mpeg" />
+      <itunes:duration>00:10:46</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-febronia.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</title>
-      <guid isPermaLink="false">patristic-nectar:3639</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-24&amp;episode=nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john</link>
-      <pubDate>Wed, 24 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</description>
-      <itunes:summary>Nativity of the Holy and Glorious Prophet, Forerunner, and Baptist John</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-24-nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.mp3" length="18600227" type="audio/mpeg" />
-      <itunes:duration>00:07:45</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/nativity-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.vtt" type="text/vtt" />
+      <title>Holy New Martyr George of Attalia</title>
+      <guid isPermaLink="false">patristic-nectar:3640</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-25&amp;episode=holy-new-martyr-george-of-attalia</link>
+      <pubDate>Thu, 25 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Holy New Martyr George of Attalia</description>
+      <itunes:summary>Holy New Martyr George of Attalia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-new-martyr-george-of-attalia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-george-of-attalia.mp3" length="14139558" type="audio/mpeg" />
+      <itunes:duration>00:05:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-george-of-attalia.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
