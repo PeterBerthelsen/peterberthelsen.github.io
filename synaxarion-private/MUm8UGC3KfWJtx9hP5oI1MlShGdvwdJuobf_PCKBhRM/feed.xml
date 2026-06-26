@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:01:47 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Febronia</title>
-      <guid isPermaLink="false">patristic-nectar:3641</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-25&amp;episode=holy-martyr-febronia</link>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Febronia</description>
-      <itunes:summary>Holy Martyr Febronia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-martyr-febronia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-febronia.mp3" length="25836146" type="audio/mpeg" />
-      <itunes:duration>00:10:46</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-febronia.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy New Martyr George of Attalia</title>
-      <guid isPermaLink="false">patristic-nectar:3640</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-25&amp;episode=holy-new-martyr-george-of-attalia</link>
-      <pubDate>Thu, 25 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Holy New Martyr George of Attalia</description>
-      <itunes:summary>Holy New Martyr George of Attalia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-25-holy-new-martyr-george-of-attalia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-george-of-attalia.mp3" length="14139558" type="audio/mpeg" />
-      <itunes:duration>00:05:53</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-george-of-attalia.vtt" type="text/vtt" />
+      <title>Righteous Father David of Thessalonica</title>
+      <guid isPermaLink="false">patristic-nectar:5134</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-26&amp;episode=sy062601</link>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father David of Thessalonica</description>
+      <itunes:summary>Righteous Father David of Thessalonica</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="21383835" type="audio/mpeg" />
+      <itunes:duration>00:08:55</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy062601.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
