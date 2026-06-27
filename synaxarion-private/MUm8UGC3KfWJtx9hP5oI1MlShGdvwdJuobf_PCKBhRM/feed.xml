@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:01:21 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father David of Thessalonica</title>
-      <guid isPermaLink="false">patristic-nectar:5134</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-26&amp;episode=sy062601</link>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father David of Thessalonica</description>
-      <itunes:summary>Righteous Father David of Thessalonica</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-26-righteous-father-david-of-thessalonica.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="21383835" type="audio/mpeg" />
-      <itunes:duration>00:08:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy062601.vtt" type="text/vtt" />
+      <title>Righteous Father Samson the Hospitable</title>
+      <guid isPermaLink="false">patristic-nectar:3644</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-27&amp;episode=righteous-father-samson-the-hospitable</link>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Samson the Hospitable</description>
+      <itunes:summary>Righteous Father Samson the Hospitable</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-samson-the-hospitable.mp3" length="14161501" type="audio/mpeg" />
+      <itunes:duration>00:05:54</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-samson-the-hospitable.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>St. Joanna the Myrrh-Bearer</title>
+      <guid isPermaLink="false">patristic-nectar:3643</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-27&amp;episode=st-joanna-the-myrrh-bearer</link>
+      <pubDate>Sat, 27 Jun 2026 06:01:00 +0000</pubDate>
+      <description>St. Joanna the Myrrh-Bearer</description>
+      <itunes:summary>St. Joanna the Myrrh-Bearer</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-st-joanna-the-myrrh-bearer.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-joanna-the-myrrh-bearer.mp3" length="3952848" type="audio/mpeg" />
+      <itunes:duration>00:01:39</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-joanna-the-myrrh-bearer.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
