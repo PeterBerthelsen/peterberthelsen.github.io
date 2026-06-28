@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:02:05 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Samson the Hospitable</title>
-      <guid isPermaLink="false">patristic-nectar:3644</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-27&amp;episode=righteous-father-samson-the-hospitable</link>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Samson the Hospitable</description>
-      <itunes:summary>Righteous Father Samson the Hospitable</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-righteous-father-samson-the-hospitable.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-samson-the-hospitable.mp3" length="14161501" type="audio/mpeg" />
-      <itunes:duration>00:05:54</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-samson-the-hospitable.vtt" type="text/vtt" />
+      <title>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</title>
+      <guid isPermaLink="false">patristic-nectar:3646</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-28&amp;episode=recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john</link>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</description>
+      <itunes:summary>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.mp3" length="9417664" type="audio/mpeg" />
+      <itunes:duration>00:03:55</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Joanna the Myrrh-Bearer</title>
-      <guid isPermaLink="false">patristic-nectar:3643</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-27&amp;episode=st-joanna-the-myrrh-bearer</link>
-      <pubDate>Sat, 27 Jun 2026 06:01:00 +0000</pubDate>
-      <description>St. Joanna the Myrrh-Bearer</description>
-      <itunes:summary>St. Joanna the Myrrh-Bearer</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-27-st-joanna-the-myrrh-bearer.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-joanna-the-myrrh-bearer.mp3" length="3952848" type="audio/mpeg" />
-      <itunes:duration>00:01:39</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-joanna-the-myrrh-bearer.vtt" type="text/vtt" />
+      <title>Venerable and God-Bearing Fathers Sergius and Germanus (Herman), founders of the Monastery of Valaam</title>
+      <guid isPermaLink="false">patristic-nectar:3645</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-28&amp;episode=venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam</link>
+      <pubDate>Sun, 28 Jun 2026 06:01:00 +0000</pubDate>
+      <description>Venerable and God-Bearing Fathers Sergius and Germanus&amp;nbsp;(Herman), founders of the Monastery of Valaam</description>
+      <itunes:summary>Venerable and God-Bearing Fathers Sergius and Germanus&amp;nbsp;(Herman), founders of the Monastery of Valaam</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-ss-sergius-and-herman-of-valaam.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam.mp3" length="14799933" type="audio/mpeg" />
+      <itunes:duration>00:06:10</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
