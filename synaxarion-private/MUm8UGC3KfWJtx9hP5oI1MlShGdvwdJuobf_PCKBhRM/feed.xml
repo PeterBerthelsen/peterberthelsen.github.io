@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:02:17 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</title>
-      <guid isPermaLink="false">patristic-nectar:3646</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-28&amp;episode=recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john</link>
-      <pubDate>Sun, 28 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</description>
-      <itunes:summary>Recovery of the Relics of Holy and Wonderworking Unmercenaries Cyrus and John</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.mp3" length="9417664" type="audio/mpeg" />
-      <itunes:duration>00:03:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/recovery-of-the-relics-of-holy-and-wonderworking-unmercenaries-cyrus-and-john.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Venerable and God-Bearing Fathers Sergius and Germanus (Herman), founders of the Monastery of Valaam</title>
-      <guid isPermaLink="false">patristic-nectar:3645</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-28&amp;episode=venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam</link>
-      <pubDate>Sun, 28 Jun 2026 06:01:00 +0000</pubDate>
-      <description>Venerable and God-Bearing Fathers Sergius and Germanus&amp;nbsp;(Herman), founders of the Monastery of Valaam</description>
-      <itunes:summary>Venerable and God-Bearing Fathers Sergius and Germanus&amp;nbsp;(Herman), founders of the Monastery of Valaam</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-28-ss-sergius-and-herman-of-valaam.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam.mp3" length="14799933" type="audio/mpeg" />
-      <itunes:duration>00:06:10</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-and-god-bearing-fathers-sergius-and-germanus-herman-founders-of-the-monastery-of-valaam.vtt" type="text/vtt" />
+      <title>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</title>
+      <guid isPermaLink="false">patristic-nectar:3648</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-30&amp;episode=synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles</link>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</description>
+      <itunes:summary>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="22032717" type="audio/mpeg" />
+      <itunes:duration>00:09:11</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
