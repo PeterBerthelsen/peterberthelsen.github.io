@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:01:30 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</title>
-      <guid isPermaLink="false">patristic-nectar:3648</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-06-30&amp;episode=synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles</link>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</description>
-      <itunes:summary>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="22032717" type="audio/mpeg" />
-      <itunes:duration>00:09:11</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.vtt" type="text/vtt" />
+      <title>Holy and Wonderworking Unmercenaries Cosmas and Damian</title>
+      <guid isPermaLink="false">patristic-nectar:5328</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-01&amp;episode=sy110103</link>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy and Wonderworking Unmercenaries Cosmas and Damian</description>
+      <itunes:summary>Holy and Wonderworking Unmercenaries Cosmas and Damian</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="8562937" type="audio/mpeg" />
+      <itunes:duration>00:03:34</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy110103.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

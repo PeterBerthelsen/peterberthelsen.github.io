@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-30",
-  "collection_name": "June 30th",
+  "date": "2026-07-01",
+  "collection_name": "July 1st",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-06-30",
-      "collection_name": "June 30th",
-      "content_id": 3648,
-      "content_name": "Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles",
-      "content_slug": "synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles",
-      "description_html": "<p>Synaxis of the Holy, Glorious, and All-lauded Twelve Apostles</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.jpg",
+      "date": "2026-07-01",
+      "collection_name": "July 1st",
+      "content_id": 5328,
+      "content_name": "Holy and Wonderworking Unmercenaries Cosmas and Damian",
+      "content_slug": "sy110103",
+      "description_html": "<p>Holy and Wonderworking Unmercenaries Cosmas and Damian</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 22032717,
-      "duration_seconds": 551,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.vtt",
+      "audio_bytes": 8562937,
+      "duration_seconds": 214,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy110103.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.vtt",
-      "transcript_text_file_name": "synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/june-30-synaxis-of-the-holy-glorious-and-all-lauded-twelve-apostles.mp3?token=yuj1v7gm4Wm-W7z1Q6SbVXedSbKyq7_grsm0u_JP4MU&expires=1782817287"
+      "local_transcript_file_name": "sy110103.vtt",
+      "transcript_text_file_name": "sy110103.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/nov-01-holy-and-wonderworking-unmercenaries-cosmas-and-damian.mp3?token=_UbG9cUoAXgmdBpZeAZD1d_z38sI6nGWX1FE7zQe8Qw&expires=1782903671"
     }
   ]
 }
