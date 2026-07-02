@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:03:06 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,59 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-deposition-of-the-robe-of-the-most-holy-theotokos.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-deposition-of-the-robe-of-the-most-holy-theotokos.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy and Wonderworking Unmercenaries Cosmas and Damian</title>
-      <guid isPermaLink="false">patristic-nectar:5328</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-01&amp;episode=sy110103</link>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy and Wonderworking Unmercenaries Cosmas and Damian</description>
-      <itunes:summary>Holy and Wonderworking Unmercenaries Cosmas and Damian</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-nov-saints-cosmas-and-damien.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="8562937" type="audio/mpeg" />
-      <itunes:duration>00:03:34</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy110103.vtt" type="text/vtt" />
+      <title>Deposition of the Robe of the Most Holy Theotokos</title>
+      <guid isPermaLink="false">patristic-nectar:3650</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-02&amp;episode=deposition-of-the-robe-of-the-most-holy-theotokos</link>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Deposition of the Robe of the Most Holy Theotokos</description>
+      <itunes:summary>Deposition of the Robe of the Most Holy Theotokos</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-deposition-of-the-robe-of-the-most-holy-theotokos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/deposition-of-the-robe-of-the-most-holy-theotokos.mp3" length="11455215" type="audio/mpeg" />
+      <itunes:duration>00:04:46</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/deposition-of-the-robe-of-the-most-holy-theotokos.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>St. Stephen the Great, Voivode of Moldavia</title>
+      <guid isPermaLink="false">patristic-nectar:3651</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-02&amp;episode=st-stephen-the-great-voivode-of-moldavia</link>
+      <pubDate>Thu, 02 Jul 2026 06:01:00 +0000</pubDate>
+      <description>St. Stephen the Great, Voivode of Moldavia</description>
+      <itunes:summary>St. Stephen the Great, Voivode of Moldavia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-st-stephen-the-great.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-stephen-the-great-voivode-of-moldavia.mp3" length="13163623" type="audio/mpeg" />
+      <itunes:duration>00:05:29</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-stephen-the-great-voivode-of-moldavia.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Hierarch John of Shanghai and San Francisco, the Wonder-Worker</title>
+      <guid isPermaLink="false">patristic-nectar:3652</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-02&amp;episode=holy-hierarch-john-of-shanghai-and-san-francisco-the-wonder-worker</link>
+      <pubDate>Thu, 02 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Holy Hierarch John of Shanghai and San Francisco, the Wonder-Worker</description>
+      <itunes:summary>Holy Hierarch John of Shanghai and San Francisco, the Wonder-Worker</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-st-john-of-san-francisco-and-shanghai.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hierarch-john-of-shanghai-and-san-francisco-the-wonder-worker.mp3" length="20606431" type="audio/mpeg" />
+      <itunes:duration>00:08:35</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hierarch-john-of-shanghai-and-san-francisco-the-wonder-worker.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Father Juvenal, Patriarch of Jerusalem</title>
+      <guid isPermaLink="false">patristic-nectar:3653</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-02&amp;episode=holy-father-juvenal-patriarch-of-jerusalem</link>
+      <pubDate>Thu, 02 Jul 2026 06:03:00 +0000</pubDate>
+      <description>Holy Father Juvenal, Patriarch of Jerusalem</description>
+      <itunes:summary>Holy Father Juvenal, Patriarch of Jerusalem</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-july-st-juvenal-patriarch-of-jerusalem.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-juvenal-patriarch-of-jerusalem.mp3" length="18931460" type="audio/mpeg" />
+      <itunes:duration>00:07:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-juvenal-patriarch-of-jerusalem.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
