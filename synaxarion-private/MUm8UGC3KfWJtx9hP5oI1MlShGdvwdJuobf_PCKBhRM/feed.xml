@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:02:09 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/all-saints.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/all-saints.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Hyacinth and Theodota of Caesarea in Cappadocia</title>
-      <guid isPermaLink="false">patristic-nectar:3656</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-03&amp;episode=holy-martyrs-hyacinth-and-theodota-of-caesarea-in-cappadocia</link>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs Hyacinth and Theodota of Caesarea in Cappadocia</description>
-      <itunes:summary>Holy Martyrs Hyacinth and Theodota of Caesarea in Cappadocia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/all-saints.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-hyacinth-and-theodota-of-caesarea-in-cappadocia.mp3" length="15850056" type="audio/mpeg" />
-      <itunes:duration>00:06:36</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-hyacinth-and-theodota-of-caesarea-in-cappadocia.vtt" type="text/vtt" />
+      <title>Holy Father Andrew, Archbishop of Crete</title>
+      <guid isPermaLink="false">patristic-nectar:3659</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=holy-father-andrew-archbishop-of-crete</link>
+      <pubDate>Sat, 04 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Andrew, Archbishop of Crete</description>
+      <itunes:summary>Holy Father Andrew, Archbishop of Crete</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-andrew-archbishop-of-crete.mp3" length="17534431" type="audio/mpeg" />
+      <itunes:duration>00:07:18</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-andrew-archbishop-of-crete.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Father Anatolius, Patriarch of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3655</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-03&amp;episode=holy-father-anatolius-patriarch-of-constantinople</link>
-      <pubDate>Fri, 03 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Father Anatolius, Patriarch of Constantinople</description>
-      <itunes:summary>Holy Father Anatolius, Patriarch of Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-july-st-anatolius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-anatolius-patriarch-of-constantinople.mp3" length="10307917" type="audio/mpeg" />
-      <itunes:duration>00:04:18</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-anatolius-patriarch-of-constantinople.vtt" type="text/vtt" />
+      <title>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</title>
+      <guid isPermaLink="false">patristic-nectar:3657</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain</link>
+      <pubDate>Sat, 04 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</description>
+      <itunes:summary>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-venerable-martha-1.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain.mp3" length="9813680" type="audio/mpeg" />
+      <itunes:duration>00:04:05</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyrs Mark and Mokios</title>
-      <guid isPermaLink="false">patristic-nectar:3654</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-03&amp;episode=holy-martyrs-mark-and-mokios</link>
-      <pubDate>Fri, 03 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Holy Martyrs Mark and Mokios</description>
-      <itunes:summary>Holy Martyrs Mark and Mokios</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-july-ss-mark-and-mokios.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-mark-and-mokios.mp3" length="3522350" type="audio/mpeg" />
-      <itunes:duration>00:01:28</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-mark-and-mokios.vtt" type="text/vtt" />
+      <title>Venerable Andrew Rublev</title>
+      <guid isPermaLink="false">patristic-nectar:3658</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=venerable-andrew-rublev</link>
+      <pubDate>Sat, 04 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Venerable Andrew Rublev</description>
+      <itunes:summary>Venerable Andrew Rublev</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-venerable-andrew-rublev.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-andrew-rublev.mp3" length="15467623" type="audio/mpeg" />
+      <itunes:duration>00:06:27</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-andrew-rublev.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
