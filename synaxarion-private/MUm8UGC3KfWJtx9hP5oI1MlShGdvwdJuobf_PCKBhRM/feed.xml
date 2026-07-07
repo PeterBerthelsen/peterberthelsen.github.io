@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 09:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:02:01 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Andrew, Archbishop of Crete</title>
-      <guid isPermaLink="false">patristic-nectar:3659</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=holy-father-andrew-archbishop-of-crete</link>
-      <pubDate>Sat, 04 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Andrew, Archbishop of Crete</description>
-      <itunes:summary>Holy Father Andrew, Archbishop of Crete</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-st-andrew-of-crete.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-andrew-archbishop-of-crete.mp3" length="17534431" type="audio/mpeg" />
-      <itunes:duration>00:07:18</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-andrew-archbishop-of-crete.vtt" type="text/vtt" />
+      <title>Righteous Father Thomas of Mount Maleon</title>
+      <guid isPermaLink="false">patristic-nectar:3664</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-07&amp;episode=righteous-father-thomas-of-mount-maleon</link>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Thomas of Mount Maleon</description>
+      <itunes:summary>Righteous Father Thomas of Mount Maleon</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-thomas-of-mount-maleon.mp3" length="6616293" type="audio/mpeg" />
+      <itunes:duration>00:02:45</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-thomas-of-mount-maleon.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</title>
-      <guid isPermaLink="false">patristic-nectar:3657</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain</link>
-      <pubDate>Sat, 04 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</description>
-      <itunes:summary>Venerable Martha, Mother of Symeon Stylites of the Wonderful Mountain</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-venerable-martha-1.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain.mp3" length="9813680" type="audio/mpeg" />
-      <itunes:duration>00:04:05</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-martha-mother-of-symeon-stylites-of-the-wonderful-mountain.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Venerable Andrew Rublev</title>
-      <guid isPermaLink="false">patristic-nectar:3658</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-04&amp;episode=venerable-andrew-rublev</link>
-      <pubDate>Sat, 04 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Venerable Andrew Rublev</description>
-      <itunes:summary>Venerable Andrew Rublev</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-july-venerable-andrew-rublev.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-andrew-rublev.mp3" length="15467623" type="audio/mpeg" />
-      <itunes:duration>00:06:27</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-andrew-rublev.vtt" type="text/vtt" />
+      <title>Holy Martyr Kyriaki</title>
+      <guid isPermaLink="false">patristic-nectar:3663</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-07&amp;episode=holy-martyr-kyriaki</link>
+      <pubDate>Tue, 07 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Kyriaki</description>
+      <itunes:summary>Holy Martyr Kyriaki</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-holy-martyr-kyriaki.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-kyriaki.mp3" length="20495672" type="audio/mpeg" />
+      <itunes:duration>00:08:32</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-kyriaki.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
