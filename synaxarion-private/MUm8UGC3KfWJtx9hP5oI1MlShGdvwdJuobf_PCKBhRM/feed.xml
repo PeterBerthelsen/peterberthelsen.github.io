@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:02:18 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Thomas of Mount Maleon</title>
-      <guid isPermaLink="false">patristic-nectar:3664</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-07&amp;episode=righteous-father-thomas-of-mount-maleon</link>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Thomas of Mount Maleon</description>
-      <itunes:summary>Righteous Father Thomas of Mount Maleon</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-righteous-farther-thomas-of-mount-maleo.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-thomas-of-mount-maleon.mp3" length="6616293" type="audio/mpeg" />
-      <itunes:duration>00:02:45</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-thomas-of-mount-maleon.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Martyr Kyriaki</title>
-      <guid isPermaLink="false">patristic-nectar:3663</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-07&amp;episode=holy-martyr-kyriaki</link>
-      <pubDate>Tue, 07 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyr Kyriaki</description>
-      <itunes:summary>Holy Martyr Kyriaki</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-july-holy-martyr-kyriaki.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-kyriaki.mp3" length="20495672" type="audio/mpeg" />
-      <itunes:duration>00:08:32</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-kyriaki.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Procopius</title>
+      <guid isPermaLink="false">patristic-nectar:3665</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-08&amp;episode=holy-great-martyr-procopius</link>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Procopius</description>
+      <itunes:summary>Holy Great Martyr Procopius</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="37448097" type="audio/mpeg" />
+      <itunes:duration>00:15:36</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-procopius.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
