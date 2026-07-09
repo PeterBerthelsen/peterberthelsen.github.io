@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:01:32 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Great Martyr Procopius</title>
-      <guid isPermaLink="false">patristic-nectar:3665</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-08&amp;episode=holy-great-martyr-procopius</link>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Great Martyr Procopius</description>
-      <itunes:summary>Holy Great Martyr Procopius</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-july-holy-great-martyr-procopius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="37448097" type="audio/mpeg" />
-      <itunes:duration>00:15:36</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-procopius.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Pancratius</title>
+      <guid isPermaLink="false">patristic-nectar:3666</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-09&amp;episode=holy-hieromartyr-pancratius</link>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Pancratius</description>
+      <itunes:summary>Holy Hieromartyr Pancratius</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="23148668" type="audio/mpeg" />
+      <itunes:duration>00:09:39</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-pancratius.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
