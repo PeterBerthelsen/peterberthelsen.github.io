@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 09:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:02:36 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Pancratius</title>
-      <guid isPermaLink="false">patristic-nectar:3666</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-09&amp;episode=holy-hieromartyr-pancratius</link>
-      <pubDate>Thu, 09 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Pancratius</description>
-      <itunes:summary>Holy Hieromartyr Pancratius</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-july-holy-hieromartyr-pancratius-1.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="23148668" type="audio/mpeg" />
-      <itunes:duration>00:09:39</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-pancratius.vtt" type="text/vtt" />
+      <title>45 Holy Martyrs of Nicopolis in Armenia</title>
+      <guid isPermaLink="false">patristic-nectar:3667</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=45-holy-martyrs-of-nicopolis-in-armenia</link>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 +0000</pubDate>
+      <description>45 Holy Martyrs of Nicopolis in Armenia</description>
+      <itunes:summary>45 Holy Martyrs of Nicopolis in Armenia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/45-holy-martyrs-of-nicopolis-in-armenia.mp3" length="11009044" type="audio/mpeg" />
+      <itunes:duration>00:04:35</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/45-holy-martyrs-of-nicopolis-in-armenia.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Hieromartyr Joseph of Damascus</title>
+      <guid isPermaLink="false">patristic-nectar:3668</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=holy-hieromartyr-joseph-of-damascus</link>
+      <pubDate>Fri, 10 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Hieromartyr Joseph of Damascus</description>
+      <itunes:summary>Holy Hieromartyr Joseph of Damascus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-holy-hieromartyr-joseph-of-damascus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-joseph-of-damascus.mp3" length="10162676" type="audio/mpeg" />
+      <itunes:duration>00:04:14</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-joseph-of-damascus.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.  </title>
+      <guid isPermaLink="false">patristic-nectar:3669</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves</link>
+      <pubDate>Fri, 10 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.</description>
+      <itunes:summary>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-venerable-father-antony.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves.mp3" length="33976946" type="audio/mpeg" />
+      <itunes:duration>00:14:09</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
