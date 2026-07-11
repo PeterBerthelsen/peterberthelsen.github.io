@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:03:03 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>45 Holy Martyrs of Nicopolis in Armenia</title>
-      <guid isPermaLink="false">patristic-nectar:3667</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=45-holy-martyrs-of-nicopolis-in-armenia</link>
-      <pubDate>Fri, 10 Jul 2026 06:00:00 +0000</pubDate>
-      <description>45 Holy Martyrs of Nicopolis in Armenia</description>
-      <itunes:summary>45 Holy Martyrs of Nicopolis in Armenia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-45-holy-martyrs-of-nicopolis-in-armenia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/45-holy-martyrs-of-nicopolis-in-armenia.mp3" length="11009044" type="audio/mpeg" />
-      <itunes:duration>00:04:35</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/45-holy-martyrs-of-nicopolis-in-armenia.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Euphemia the All-famed</title>
+      <guid isPermaLink="false">patristic-nectar:3670</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=holy-great-martyr-euphemia-the-all-famed</link>
+      <pubDate>Sat, 11 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Euphemia the All-famed</description>
+      <itunes:summary>Holy Great Martyr Euphemia the All-famed</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-euphemia-the-all-famed.mp3" length="9718595" type="audio/mpeg" />
+      <itunes:duration>00:04:03</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-euphemia-the-all-famed.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Hieromartyr Joseph of Damascus</title>
-      <guid isPermaLink="false">patristic-nectar:3668</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=holy-hieromartyr-joseph-of-damascus</link>
-      <pubDate>Fri, 10 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Hieromartyr Joseph of Damascus</description>
-      <itunes:summary>Holy Hieromartyr Joseph of Damascus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-holy-hieromartyr-joseph-of-damascus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-joseph-of-damascus.mp3" length="10162676" type="audio/mpeg" />
-      <itunes:duration>00:04:14</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-joseph-of-damascus.vtt" type="text/vtt" />
+      <title>St. Olga, Princess of Russia, named Helen in Baptism</title>
+      <guid isPermaLink="false">patristic-nectar:3671</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=st-olga-princess-of-russia-named-helen-in-baptism</link>
+      <pubDate>Sat, 11 Jul 2026 06:01:00 +0000</pubDate>
+      <description>St. Olga, Princess of Russia, named Helen in Baptism</description>
+      <itunes:summary>St. Olga, Princess of Russia, named Helen in Baptism</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-st-olga-princess-of-russia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-olga-princess-of-russia-named-helen-in-baptism.mp3" length="10470921" type="audio/mpeg" />
+      <itunes:duration>00:04:22</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-olga-princess-of-russia-named-helen-in-baptism.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.  </title>
-      <guid isPermaLink="false">patristic-nectar:3669</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-10&amp;episode=venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves</link>
-      <pubDate>Fri, 10 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.</description>
-      <itunes:summary>Venerable Father Antony, Founder of the Lavra of the Kiev Caves.</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-july-venerable-father-antony.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves.mp3" length="33976946" type="audio/mpeg" />
-      <itunes:duration>00:14:09</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-antony-founder-of-the-lavra-of-the-kiev-caves.vtt" type="text/vtt" />
+      <title>Our Holy Father St. Sophrony of Essex</title>
+      <guid isPermaLink="false">patristic-nectar:3672</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=our-holy-father-st-sophrony-of-essex</link>
+      <pubDate>Sat, 11 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Our Holy Father St. Sophrony of Essex</description>
+      <itunes:summary>Our Holy Father St. Sophrony of Essex</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/saint-sophrony-of-essex.jpeg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-st-sophrony-of-essex.mp3" length="41451101" type="audio/mpeg" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-st-sophrony-of-essex.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
