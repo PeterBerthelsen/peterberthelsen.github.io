@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 09:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:02:41 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Great Martyr Euphemia the All-famed</title>
-      <guid isPermaLink="false">patristic-nectar:3670</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=holy-great-martyr-euphemia-the-all-famed</link>
-      <pubDate>Sat, 11 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Great Martyr Euphemia the All-famed</description>
-      <itunes:summary>Holy Great Martyr Euphemia the All-famed</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-euphemia-the-all-famed.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-euphemia-the-all-famed.mp3" length="9718595" type="audio/mpeg" />
-      <itunes:duration>00:04:03</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-euphemia-the-all-famed.vtt" type="text/vtt" />
+      <title>Righteous Father Paisios the Athonite</title>
+      <guid isPermaLink="false">patristic-nectar:3673</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=righteous-father-paisios-the-athonite</link>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Paisios the Athonite</description>
+      <itunes:summary>Righteous Father Paisios the Athonite</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-paisios-the-athonite.mp3" length="31475460" type="audio/mpeg" />
+      <itunes:duration>00:13:07</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-paisios-the-athonite.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Olga, Princess of Russia, named Helen in Baptism</title>
-      <guid isPermaLink="false">patristic-nectar:3671</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=st-olga-princess-of-russia-named-helen-in-baptism</link>
-      <pubDate>Sat, 11 Jul 2026 06:01:00 +0000</pubDate>
-      <description>St. Olga, Princess of Russia, named Helen in Baptism</description>
-      <itunes:summary>St. Olga, Princess of Russia, named Helen in Baptism</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-july-st-olga-princess-of-russia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-olga-princess-of-russia-named-helen-in-baptism.mp3" length="10470921" type="audio/mpeg" />
-      <itunes:duration>00:04:22</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-olga-princess-of-russia-named-helen-in-baptism.vtt" type="text/vtt" />
+      <title>St. Veronika with the Issue of Blood</title>
+      <guid isPermaLink="false">patristic-nectar:3674</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=st-veronika-with-the-issue-of-blood</link>
+      <pubDate>Sun, 12 Jul 2026 06:01:00 +0000</pubDate>
+      <description>St. Veronika with the Issue of Blood</description>
+      <itunes:summary>St. Veronika with the Issue of Blood</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-veronica-with-the-issue-of-blood.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-veronika-with-the-issue-of-blood.mp3" length="4013452" type="audio/mpeg" />
+      <itunes:duration>00:01:40</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-veronika-with-the-issue-of-blood.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Holy Father St. Sophrony of Essex</title>
-      <guid isPermaLink="false">patristic-nectar:3672</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-11&amp;episode=our-holy-father-st-sophrony-of-essex</link>
-      <pubDate>Sat, 11 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Our Holy Father St. Sophrony of Essex</description>
-      <itunes:summary>Our Holy Father St. Sophrony of Essex</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/saint-sophrony-of-essex.jpeg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-st-sophrony-of-essex.mp3" length="41451101" type="audio/mpeg" />
-      <itunes:duration>00:00:00</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-st-sophrony-of-essex.vtt" type="text/vtt" />
+      <title>Holy Martyrs Proclus and Hilary</title>
+      <guid isPermaLink="false">patristic-nectar:3675</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=holy-martyrs-proclus-and-hilary</link>
+      <pubDate>Sun, 12 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Holy Martyrs Proclus and Hilary</description>
+      <itunes:summary>Holy Martyrs Proclus and Hilary</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-holy-martyrs-proclus-and-hilary.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-proclus-and-hilary.mp3" length="15729893" type="audio/mpeg" />
+      <itunes:duration>00:06:33</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-proclus-and-hilary.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
