@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 09:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:04:14 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-july-holy-martyr-golinduch.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/13-july-holy-martyr-golinduch.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Paisios the Athonite</title>
-      <guid isPermaLink="false">patristic-nectar:3673</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=righteous-father-paisios-the-athonite</link>
-      <pubDate>Sun, 12 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Paisios the Athonite</description>
-      <itunes:summary>Righteous Father Paisios the Athonite</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-paisios.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-paisios-the-athonite.mp3" length="31475460" type="audio/mpeg" />
-      <itunes:duration>00:13:07</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-paisios-the-athonite.vtt" type="text/vtt" />
+      <title>Holy Martyr Golinduch of Persia, named Maria in baptism</title>
+      <guid isPermaLink="false">patristic-nectar:3676</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-13&amp;episode=holy-martyr-golinduch-of-persia-named-maria-in-baptism</link>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Golinduch of Persia, named Maria in baptism</description>
+      <itunes:summary>Holy Martyr Golinduch of Persia, named Maria in baptism</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-july-holy-martyr-golinduch.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-golinduch-of-persia-named-maria-in-baptism.mp3" length="25222791" type="audio/mpeg" />
+      <itunes:duration>00:10:31</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-golinduch-of-persia-named-maria-in-baptism.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Veronika with the Issue of Blood</title>
-      <guid isPermaLink="false">patristic-nectar:3674</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=st-veronika-with-the-issue-of-blood</link>
-      <pubDate>Sun, 12 Jul 2026 06:01:00 +0000</pubDate>
-      <description>St. Veronika with the Issue of Blood</description>
-      <itunes:summary>St. Veronika with the Issue of Blood</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-st-veronica-with-the-issue-of-blood.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-veronika-with-the-issue-of-blood.mp3" length="4013452" type="audio/mpeg" />
-      <itunes:duration>00:01:40</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-veronika-with-the-issue-of-blood.vtt" type="text/vtt" />
+      <title>Synaxis of the Holy Archangel Gabriel and Venerable Father Stephen the Sabaite</title>
+      <guid isPermaLink="false">patristic-nectar:3677</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-13&amp;episode=synaxis-of-the-holy-archangel-gabriel-and-venerable-father-stephen-the-sabaite</link>
+      <pubDate>Mon, 13 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Synaxis of the Holy Archangel Gabriel and Venerable Father Stephen the Sabaite</description>
+      <itunes:summary>Synaxis of the Holy Archangel Gabriel and Venerable Father Stephen the Sabaite</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-july-venerable-father-stephen-the-sabaite.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/synaxis-of-the-holy-archangel-gabriel-and-venerable-father-stephen-the-sabaite.mp3" length="26319933" type="audio/mpeg" />
+      <itunes:duration>00:10:58</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-the-holy-archangel-gabriel-and-venerable-father-stephen-the-sabaite.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyrs Proclus and Hilary</title>
-      <guid isPermaLink="false">patristic-nectar:3675</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-12&amp;episode=holy-martyrs-proclus-and-hilary</link>
-      <pubDate>Sun, 12 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Holy Martyrs Proclus and Hilary</description>
-      <itunes:summary>Holy Martyrs Proclus and Hilary</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-july-holy-martyrs-proclus-and-hilary.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-proclus-and-hilary.mp3" length="15729893" type="audio/mpeg" />
-      <itunes:duration>00:06:33</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-proclus-and-hilary.vtt" type="text/vtt" />
+      <title>Reading for Commemoration of the Fourth Ecumenical Council in Chalcedon on the Sunday between the 13th and 19th of July</title>
+      <guid isPermaLink="false">patristic-nectar:3678</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-13&amp;episode=reading-for-commemoration-of-the-fourth-ecumenical-council-in-chalcedon-on-the-sunday-between-the-13th-and-19th-of-july</link>
+      <pubDate>Mon, 13 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Reading for Commemoration of the Fourth Ecumenical Council in Chalcedon on the Sunday between the 13&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; of July</description>
+      <itunes:summary>Reading for Commemoration of the Fourth Ecumenical Council in Chalcedon on the Sunday between the 13&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; of July</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-july-fourth-ecumenial-council.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/reading-for-commemoration-of-the-fourth-ecumenical-council-in-chalcedon-on-the-sunday-between-the-13th-and-19th-of-july.mp3" length="32423182" type="audio/mpeg" />
+      <itunes:duration>00:13:31</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/reading-for-commemoration-of-the-fourth-ecumenical-council-in-chalcedon-on-the-sunday-between-the-13th-and-19th-of-july.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
