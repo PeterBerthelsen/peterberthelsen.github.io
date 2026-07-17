@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-16",
-  "collection_name": "July 16th",
+  "date": "2026-07-17",
+  "collection_name": "July 17th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-07-16",
-      "collection_name": "July 16th",
-      "content_id": 5159,
-      "content_name": "Holy Hieromartyr Athenogenes",
-      "content_slug": "sy071601",
-      "description_html": "<p>Holy Hieromartyr Athenogenes</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/16-july-holy-hieromartyr-athenogenes.jpg",
+      "date": "2026-07-17",
+      "collection_name": "July 17th",
+      "content_id": 3685,
+      "content_name": "Holy Great Martyr Marina",
+      "content_slug": "holy-great-martyr-marina",
+      "description_html": "<p>Holy Great Martyr Marina</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 18286758,
-      "duration_seconds": 457,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy071601.vtt",
+      "audio_bytes": 20138317,
+      "duration_seconds": 503,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-marina.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "sy071601.vtt",
-      "transcript_text_file_name": "sy071601.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-16-holy-hieromartyr-athenogenes.mp3?token=DhCNzVGdcjExzqFYwoNEiroD-KFKaoY8K--k1vuePmM&expires=1784199654"
+      "local_transcript_file_name": "holy-great-martyr-marina.vtt",
+      "transcript_text_file_name": "holy-great-martyr-marina.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-17-holy-great-martyr-marina.mp3?token=-al-50-NfFw441PfSk5mPPnS1n8c1Xk24uj6zumf7Ws&expires=1784286051"
     }
   ]
 }

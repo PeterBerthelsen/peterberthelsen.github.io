@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:01:32 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-july-holy-hieromartyr-athenogenes.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/16-july-holy-hieromartyr-athenogenes.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Athenogenes</title>
-      <guid isPermaLink="false">patristic-nectar:5159</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-16&amp;episode=sy071601</link>
-      <pubDate>Thu, 16 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Athenogenes</description>
-      <itunes:summary>Holy Hieromartyr Athenogenes</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-july-holy-hieromartyr-athenogenes.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="18286758" type="audio/mpeg" />
-      <itunes:duration>00:07:37</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy071601.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Marina</title>
+      <guid isPermaLink="false">patristic-nectar:3685</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-17&amp;episode=holy-great-martyr-marina</link>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Marina</description>
+      <itunes:summary>Holy Great Martyr Marina</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="20138317" type="audio/mpeg" />
+      <itunes:duration>00:08:23</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-marina.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
