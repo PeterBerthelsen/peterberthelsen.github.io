@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:02:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Great Martyr Marina</title>
-      <guid isPermaLink="false">patristic-nectar:3685</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-17&amp;episode=holy-great-martyr-marina</link>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Great Martyr Marina</description>
-      <itunes:summary>Holy Great Martyr Marina</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-july-great-martyr-marina.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="20138317" type="audio/mpeg" />
-      <itunes:duration>00:08:23</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-marina.vtt" type="text/vtt" />
+      <title>Venerable Father Pambo</title>
+      <guid isPermaLink="false">patristic-nectar:3686</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-18&amp;episode=venerable-father-pambo</link>
+      <pubDate>Sat, 18 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Venerable Father Pambo</description>
+      <itunes:summary>Venerable Father Pambo</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-pambo.mp3" length="14965027" type="audio/mpeg" />
+      <itunes:duration>00:06:14</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-pambo.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Martyr Emilianos of Silastria in Bulgaria</title>
+      <guid isPermaLink="false">patristic-nectar:3687</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-18&amp;episode=holy-martyr-emilianos-of-silastria-in-bulgaria</link>
+      <pubDate>Sat, 18 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Emilianos of Silastria in Bulgaria</description>
+      <itunes:summary>Holy Martyr Emilianos of Silastria in Bulgaria</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-holy-martyr-emilianos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-emilianos-of-silastria-in-bulgaria.mp3" length="17741321" type="audio/mpeg" />
+      <itunes:duration>00:07:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-emilianos-of-silastria-in-bulgaria.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
