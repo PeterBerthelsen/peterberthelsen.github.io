@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 09:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:02:15 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-july-righteous-father-dius.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/19-july-righteous-father-dius.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Venerable Father Pambo</title>
-      <guid isPermaLink="false">patristic-nectar:3686</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-18&amp;episode=venerable-father-pambo</link>
-      <pubDate>Sat, 18 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Venerable Father Pambo</description>
-      <itunes:summary>Venerable Father Pambo</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-venerable-father-pambo.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-pambo.mp3" length="14965027" type="audio/mpeg" />
-      <itunes:duration>00:06:14</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-pambo.vtt" type="text/vtt" />
+      <title>Righteous Father Dius</title>
+      <guid isPermaLink="false">patristic-nectar:3688</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-19&amp;episode=righteous-father-dius</link>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Dius</description>
+      <itunes:summary>Righteous Father Dius</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-july-righteous-father-dius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-dius.mp3" length="7042611" type="audio/mpeg" />
+      <itunes:duration>00:02:56</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-dius.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyr Emilianos of Silastria in Bulgaria</title>
-      <guid isPermaLink="false">patristic-nectar:3687</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-18&amp;episode=holy-martyr-emilianos-of-silastria-in-bulgaria</link>
-      <pubDate>Sat, 18 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyr Emilianos of Silastria in Bulgaria</description>
-      <itunes:summary>Holy Martyr Emilianos of Silastria in Bulgaria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-july-holy-martyr-emilianos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-emilianos-of-silastria-in-bulgaria.mp3" length="17741321" type="audio/mpeg" />
-      <itunes:duration>00:07:24</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-emilianos-of-silastria-in-bulgaria.vtt" type="text/vtt" />
+      <title>Righteous Mother Macrina, Sister of St Basil the Great</title>
+      <guid isPermaLink="false">patristic-nectar:3689</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-19&amp;episode=righteous-mother-macrina-sister-of-st-basil-the-great</link>
+      <pubDate>Sun, 19 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Righteous Mother Macrina, Sister of St Basil the Great</description>
+      <itunes:summary>Righteous Mother Macrina, Sister of St Basil the Great</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-july-righteous-mother-macrina-sister-of-saint-basil-the-great.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-macrina-sister-of-st-basil-the-great.mp3" length="35057370" type="audio/mpeg" />
+      <itunes:duration>00:14:36</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-macrina-sister-of-st-basil-the-great.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
