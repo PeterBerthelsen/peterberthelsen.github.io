@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:02:17 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-july-st-elias-chavchavadze-the-just.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/20-july-st-elias-chavchavadze-the-just.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>St. Elias Chavchavadze the Just in Georgia</title>
-      <guid isPermaLink="false">patristic-nectar:3690</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-20&amp;episode=st-elias-chavchavadze-the-just-in-georgia</link>
-      <pubDate>Mon, 20 Jul 2026 06:00:00 +0000</pubDate>
-      <description>St. Elias Chavchavadze the Just in Georgia</description>
-      <itunes:summary>St. Elias Chavchavadze the Just in Georgia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-july-st-elias-chavchavadze-the-just.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-elias-chavchavadze-the-just-in-georgia.mp3" length="7832554" type="audio/mpeg" />
-      <itunes:duration>00:03:16</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-elias-chavchavadze-the-just-in-georgia.vtt" type="text/vtt" />
+      <title>Holy Martyr Victor of Marseilles</title>
+      <guid isPermaLink="false">patristic-nectar:3692</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-21&amp;episode=holy-martyr-victor-of-marseilles</link>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Victor of Marseilles</description>
+      <itunes:summary>Holy Martyr Victor of Marseilles</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-victor-of-marseilles.mp3" length="9020603" type="audio/mpeg" />
+      <itunes:duration>00:03:46</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-victor-of-marseilles.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy and Glorious Prophet Elias</title>
-      <guid isPermaLink="false">patristic-nectar:3691</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-20&amp;episode=holy-and-glorious-prophet-elias</link>
-      <pubDate>Mon, 20 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy and Glorious Prophet Elias</description>
-      <itunes:summary>Holy and Glorious Prophet Elias</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-july-holy-prophet-elias.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-and-glorious-prophet-elias.mp3" length="45900276" type="audio/mpeg" />
-      <itunes:duration>00:19:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-glorious-prophet-elias.vtt" type="text/vtt" />
+      <title>Righteous Father Symeon of Homs, Fool for Christ's Sake, and his companion John</title>
+      <guid isPermaLink="false">patristic-nectar:3693</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-21&amp;episode=righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john</link>
+      <pubDate>Tue, 21 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Righteous Father Symeon of Homs, Fool for Christ&amp;rsquo;s Sake, and his companion John</description>
+      <itunes:summary>Righteous Father Symeon of Homs, Fool for Christ&amp;rsquo;s Sake, and his companion John</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-righteous-father-symeon-of-homs.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john.mp3" length="42700799" type="audio/mpeg" />
+      <itunes:duration>00:17:48</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
