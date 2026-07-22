@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 09:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:00:26 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Victor of Marseilles</title>
-      <guid isPermaLink="false">patristic-nectar:3692</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-21&amp;episode=holy-martyr-victor-of-marseilles</link>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Victor of Marseilles</description>
-      <itunes:summary>Holy Martyr Victor of Marseilles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-holy-martyr-victor-of-marseilles.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-victor-of-marseilles.mp3" length="9020603" type="audio/mpeg" />
-      <itunes:duration>00:03:46</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-victor-of-marseilles.vtt" type="text/vtt" />
+      <title>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</title>
+      <guid isPermaLink="false">patristic-nectar:5167</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-22&amp;episode=sy072202</link>
+      <pubDate>Wed, 22 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</description>
+      <itunes:summary>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy072202.mp3" length="33583019" type="audio/mpeg" />
+      <itunes:duration>00:14:00</itunes:duration>
     </item>
     <item>
-      <title>Righteous Father Symeon of Homs, Fool for Christ's Sake, and his companion John</title>
-      <guid isPermaLink="false">patristic-nectar:3693</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-21&amp;episode=righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john</link>
-      <pubDate>Tue, 21 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Father Symeon of Homs, Fool for Christ&amp;rsquo;s Sake, and his companion John</description>
-      <itunes:summary>Righteous Father Symeon of Homs, Fool for Christ&amp;rsquo;s Sake, and his companion John</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-july-righteous-father-symeon-of-homs.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john.mp3" length="42700799" type="audio/mpeg" />
-      <itunes:duration>00:17:48</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-symeon-of-homs-fool-for-christs-sake-and-his-companion-john.vtt" type="text/vtt" />
+      <title>Holy Virgin Martyr Markella of Chios</title>
+      <guid isPermaLink="false">patristic-nectar:3694</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-22&amp;episode=holy-virgin-martyr-markella-of-chios</link>
+      <pubDate>Wed, 22 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Virgin Martyr Markella of Chios</description>
+      <itunes:summary>Holy Virgin Martyr Markella of Chios</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-virgin-martyr-markella-of-chios.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-virgin-martyr-markella-of-chios.mp3" length="9616195" type="audio/mpeg" />
+      <itunes:duration>00:04:00</itunes:duration>
     </item>
   </channel>
 </rss>
