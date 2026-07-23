@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 09:00:23 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,33 +17,22 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</title>
-      <guid isPermaLink="false">patristic-nectar:5167</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-22&amp;episode=sy072202</link>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</description>
-      <itunes:summary>Holy Myrrh-bearer Mary Magdalene, Equal to the Apostles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-myrr-bearer-mary-magdalene.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy072202.mp3" length="33583019" type="audio/mpeg" />
-      <itunes:duration>00:14:00</itunes:duration>
-    </item>
-    <item>
-      <title>Holy Virgin Martyr Markella of Chios</title>
-      <guid isPermaLink="false">patristic-nectar:3694</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-22&amp;episode=holy-virgin-martyr-markella-of-chios</link>
-      <pubDate>Wed, 22 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Virgin Martyr Markella of Chios</description>
-      <itunes:summary>Holy Virgin Martyr Markella of Chios</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-july-holy-virgin-martyr-markella-of-chios.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-virgin-martyr-markella-of-chios.mp3" length="9616195" type="audio/mpeg" />
-      <itunes:duration>00:04:00</itunes:duration>
+      <title>Holy Prophet Ezekiel</title>
+      <guid isPermaLink="false">patristic-nectar:3696</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-23&amp;episode=holy-prophet-ezekiel</link>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Prophet Ezekiel</description>
+      <itunes:summary>Holy Prophet Ezekiel</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48776880" type="audio/mpeg" />
+      <itunes:duration>00:20:19</itunes:duration>
     </item>
   </channel>
 </rss>
