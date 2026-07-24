@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:01:03 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,22 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-passion-bearers-boris-and-gleb.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-passion-bearers-boris-and-gleb.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Prophet Ezekiel</title>
-      <guid isPermaLink="false">patristic-nectar:3696</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-23&amp;episode=holy-prophet-ezekiel</link>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Prophet Ezekiel</description>
-      <itunes:summary>Holy Prophet Ezekiel</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48776880" type="audio/mpeg" />
-      <itunes:duration>00:20:19</itunes:duration>
+      <title>Holy Passion-Bearers Boris and Gleb</title>
+      <guid isPermaLink="false">patristic-nectar:3697</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-24&amp;episode=holy-passion-bearers-boris-and-gleb</link>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Passion-Bearers Boris and Gleb</description>
+      <itunes:summary>Holy Passion-Bearers Boris and Gleb</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-passion-bearers-boris-and-gleb.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-passion-bearers-boris-and-gleb.mp3" length="22615770" type="audio/mpeg" />
+      <itunes:duration>00:09:25</itunes:duration>
+    </item>
+    <item>
+      <title>Holy Great Martyr Christina</title>
+      <guid isPermaLink="false">patristic-nectar:3698</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-24&amp;episode=holy-great-martyr-christina</link>
+      <pubDate>Fri, 24 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Great Martyr Christina</description>
+      <itunes:summary>Holy Great Martyr Christina</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-great-martyr-christina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-christina.mp3" length="20830040" type="audio/mpeg" />
+      <itunes:duration>00:08:41</itunes:duration>
     </item>
   </channel>
 </rss>

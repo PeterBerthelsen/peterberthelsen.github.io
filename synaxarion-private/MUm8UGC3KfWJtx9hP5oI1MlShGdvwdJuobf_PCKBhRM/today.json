@@ -1,25 +1,43 @@
 {
-  "date": "2026-07-23",
-  "collection_name": "July 23rd",
-  "entry_count": 1,
+  "date": "2026-07-24",
+  "collection_name": "July 24th",
+  "entry_count": 2,
   "entries": [
     {
-      "date": "2026-07-23",
-      "collection_name": "July 23rd",
-      "content_id": 3696,
-      "content_name": "Holy Prophet Ezekiel",
-      "content_slug": "holy-prophet-ezekiel",
-      "description_html": "<p>Holy Prophet Ezekiel</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/23-july-holy-prophet-ezekiel.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
-      "audio_file_name": "today.mp3",
+      "date": "2026-07-24",
+      "collection_name": "July 24th",
+      "content_id": 3697,
+      "content_name": "Holy Passion-Bearers Boris and Gleb",
+      "content_slug": "holy-passion-bearers-boris-and-gleb",
+      "description_html": "<p>Holy Passion-Bearers Boris and Gleb</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-passion-bearers-boris-and-gleb.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-passion-bearers-boris-and-gleb.mp3",
+      "audio_file_name": "holy-passion-bearers-boris-and-gleb.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 48776880,
-      "duration_seconds": 1219,
+      "audio_bytes": 22615770,
+      "duration_seconds": 565,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-23-the-holy-prophet-ezekiel.mp3?token=qF4WxDq92rdeYXkQBao8-Gx2ADXoz3Mjv6WvhyafTv8&expires=1784804423"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-24-holy-passion-bearers-boris-gleb.mp3?token=tlc2vn5p0KRgV2ujAlF21FlT6QWY4bluJZz5XvHYh2s&expires=1784890862"
+    },
+    {
+      "date": "2026-07-24",
+      "collection_name": "July 24th",
+      "content_id": 3698,
+      "content_name": "Holy Great Martyr Christina",
+      "content_slug": "holy-great-martyr-christina",
+      "description_html": "<p>Holy Great Martyr Christina</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/24-july-holy-great-martyr-christina.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-christina.mp3",
+      "audio_file_name": "holy-great-martyr-christina.mp3",
+      "mime": "audio/mpeg",
+      "audio_bytes": 20830040,
+      "duration_seconds": 521,
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-24-the-holy-great-martyr-christina.mp3?token=Gy2_jAS7fyQQiNBbiNyZg5esLGimiIsGGnPpPIbEgjg&expires=1784890862"
     }
   ]
 }
