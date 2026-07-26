@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 11:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:01:36 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-july-165-holy-fathers-of-the-fifth-ecumenical-council.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/25-july-165-holy-fathers-of-the-fifth-ecumenical-council.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>165 Holy Fathers of the Fifth Ecumenical Council in Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3699</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-25&amp;episode=165-holy-fathers-of-the-fifth-ecumenical-council-in-constantinople</link>
-      <pubDate>Sat, 25 Jul 2026 06:00:00 +0000</pubDate>
-      <description>165 Holy Fathers of the Fifth Ecumenical Council in Constantinople</description>
-      <itunes:summary>165 Holy Fathers of the Fifth Ecumenical Council in Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-july-165-holy-fathers-of-the-fifth-ecumenical-council.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/165-holy-fathers-of-the-fifth-ecumenical-council-in-constantinople.mp3" length="21949125" type="audio/mpeg" />
-      <itunes:duration>00:09:09</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/165-holy-fathers-of-the-fifth-ecumenical-council-in-constantinople.vtt" type="text/vtt" />
+      <title>Holy Virgin-Martyr Paraskeve of Rome</title>
+      <guid isPermaLink="false">patristic-nectar:3702</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-26&amp;episode=holy-virgin-martyr-paraskeve-of-rome</link>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Virgin-Martyr Paraskeve of Rome</description>
+      <itunes:summary>Holy Virgin-Martyr Paraskeve of Rome</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-virgin-martyr-paraskeve-of-rome.mp3" length="21897925" type="audio/mpeg" />
+      <itunes:duration>00:09:07</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-virgin-martyr-paraskeve-of-rome.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Righteous Mother Olympia the Deaconess</title>
-      <guid isPermaLink="false">patristic-nectar:3700</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-25&amp;episode=righteous-mother-olympia-the-deaconess</link>
-      <pubDate>Sat, 25 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Mother Olympia the Deaconess</description>
-      <itunes:summary>Righteous Mother Olympia the Deaconess</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-july-righteous-mother-olympia-the-deaconess.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-olympia-the-deaconess.mp3" length="17050644" type="audio/mpeg" />
-      <itunes:duration>00:07:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-olympia-the-deaconess.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Dormition of St Anna, Mother of the Theotokos</title>
-      <guid isPermaLink="false">patristic-nectar:3701</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-25&amp;episode=dormition-of-st-anna-mother-of-the-theotokos</link>
-      <pubDate>Sat, 25 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Dormition of St Anna, Mother of the Theotokos</description>
-      <itunes:summary>Dormition of St Anna, Mother of the Theotokos</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-july-dormission-of-st-anna-mother-of-the-theotokos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/dormition-of-st-anna-mother-of-the-theotokos.mp3" length="7100080" type="audio/mpeg" />
-      <itunes:duration>00:02:58</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/dormition-of-st-anna-mother-of-the-theotokos.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Hermolaos and Those with Him</title>
+      <guid isPermaLink="false">patristic-nectar:3703</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-26&amp;episode=holy-hieromartyr-hermolaos-and-those-with-him</link>
+      <pubDate>Sun, 26 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Hieromartyr Hermolaos and Those with Him</description>
+      <itunes:summary>Holy Hieromartyr Hermolaos and Those with Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-hieromartyr-hermolaos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-hermolaos-and-those-with-him.mp3" length="6393729" type="audio/mpeg" />
+      <itunes:duration>00:02:40</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-hermolaos-and-those-with-him.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
