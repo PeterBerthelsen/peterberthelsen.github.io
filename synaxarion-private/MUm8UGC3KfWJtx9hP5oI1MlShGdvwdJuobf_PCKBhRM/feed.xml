@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:02:20 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-july-holy-father-clement-of-ochrid.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/27-july-holy-father-clement-of-ochrid.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Virgin-Martyr Paraskeve of Rome</title>
-      <guid isPermaLink="false">patristic-nectar:3702</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-26&amp;episode=holy-virgin-martyr-paraskeve-of-rome</link>
-      <pubDate>Sun, 26 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Virgin-Martyr Paraskeve of Rome</description>
-      <itunes:summary>Holy Virgin-Martyr Paraskeve of Rome</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-virgin-martyr-paraskeve.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-virgin-martyr-paraskeve-of-rome.mp3" length="21897925" type="audio/mpeg" />
-      <itunes:duration>00:09:07</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-virgin-martyr-paraskeve-of-rome.vtt" type="text/vtt" />
+      <title>Holy Father Clement of Ochrid, First Bishop of Bulgaria, and of the disciples of Ss. Cyril and Methodios Gorazd, Nahum, Angelarius, and Sabas</title>
+      <guid isPermaLink="false">patristic-nectar:3704</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-27&amp;episode=holy-father-clement-of-ochrid-first-bishop-of-bulgaria-and-of-the-disciples-of-ss-cyril-and-methodios-gorazd-nahum-angelarius-an</link>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Clement of Ochrid, First Bishop of Bulgaria, and of the disciples of Ss. Cyril and Methodios Gorazd, Nahum, Angelarius, and Sabas</description>
+      <itunes:summary>Holy Father Clement of Ochrid, First Bishop of Bulgaria, and of the disciples of Ss. Cyril and Methodios Gorazd, Nahum, Angelarius, and Sabas</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-july-holy-father-clement-of-ochrid.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-clement-of-ochrid-first-bishop-of-bulgaria-and-of-the-disciples-of-ss-cyril-and-methodios-gorazd-nahum-angelarius-an.mp3" length="21465337" type="audio/mpeg" />
+      <itunes:duration>00:08:57</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-clement-of-ochrid-first-bishop-of-bulgaria-and-of-the-disciples-of-ss-cyril-and-methodios-gorazd-nahum-angelarius-an.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Hieromartyr Hermolaos and Those with Him</title>
-      <guid isPermaLink="false">patristic-nectar:3703</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-26&amp;episode=holy-hieromartyr-hermolaos-and-those-with-him</link>
-      <pubDate>Sun, 26 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Hieromartyr Hermolaos and Those with Him</description>
-      <itunes:summary>Holy Hieromartyr Hermolaos and Those with Him</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-july-holy-hieromartyr-hermolaos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-hermolaos-and-those-with-him.mp3" length="6393729" type="audio/mpeg" />
-      <itunes:duration>00:02:40</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-hermolaos-and-those-with-him.vtt" type="text/vtt" />
+      <title>Holy Great Martyr and Healer Panteleimon</title>
+      <guid isPermaLink="false">patristic-nectar:3705</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-27&amp;episode=holy-great-martyr-and-healer-panteleimon</link>
+      <pubDate>Mon, 27 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Great Martyr and Healer Panteleimon</description>
+      <itunes:summary>Holy Great Martyr and Healer Panteleimon</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-july-holy-great-martyr-and-healer-panteleimon.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-and-healer-panteleimon.mp3" length="27342888" type="audio/mpeg" />
+      <itunes:duration>00:11:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-and-healer-panteleimon.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
