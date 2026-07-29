@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 09:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:01:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-july-venerable-father-paul-of-xeropotamou.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/28-july-venerable-father-paul-of-xeropotamou.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Venerable Father Paul of Xeropotamou, Founder of the Monasteries of Xeropotamou and St. Paul on Mt. Athos</title>
-      <guid isPermaLink="false">patristic-nectar:3706</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-28&amp;episode=venerable-father-paul-of-xeropotamou-founder-of-the-monasteries-of-xeropotamou-and-st-paul-on-mt-athos</link>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Venerable Father Paul of Xeropotamou, Founder of the Monasteries of Xeropotamou and St. Paul on Mt. Athos</description>
-      <itunes:summary>Venerable Father Paul of Xeropotamou, Founder of the Monasteries of Xeropotamou and St. Paul on Mt. Athos</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-july-venerable-father-paul-of-xeropotamou.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-paul-of-xeropotamou-founder-of-the-monasteries-of-xeropotamou-and-st-paul-on-mt-athos.mp3" length="14755003" type="audio/mpeg" />
-      <itunes:duration>00:06:09</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-paul-of-xeropotamou-founder-of-the-monasteries-of-xeropotamou-and-st-paul-on-mt-athos.vtt" type="text/vtt" />
+      <title>Pious Emperor Theodosis the Younger</title>
+      <guid isPermaLink="false">patristic-nectar:3709</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-29&amp;episode=pious-emperor-theodosis-the-younger</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Pious Emperor Theodosis the Younger</description>
+      <itunes:summary>Pious Emperor Theodosis the Younger</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/pious-emperor-theodosis-the-younger.mp3" length="4454399" type="audio/mpeg" />
+      <itunes:duration>00:01:51</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/pious-emperor-theodosis-the-younger.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Righteous Mother Irene of Chrysovalantou</title>
-      <guid isPermaLink="false">patristic-nectar:3707</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-28&amp;episode=righteous-mother-irene-of-chrysovalantou</link>
-      <pubDate>Tue, 28 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Mother Irene of Chrysovalantou</description>
-      <itunes:summary>Righteous Mother Irene of Chrysovalantou</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-july-righteous-mother-irene-of-chrysovalantou.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-irene-of-chrysovalantou.mp3" length="28139101" type="audio/mpeg" />
-      <itunes:duration>00:11:43</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-irene-of-chrysovalantou.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Apostles and Deacons Prochorus, Nicanor, Timon and Parmenas</title>
-      <guid isPermaLink="false">patristic-nectar:3708</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-28&amp;episode=holy-apostles-and-deacons-prochorus-nicanor-timon-and-parmenas</link>
-      <pubDate>Tue, 28 Jul 2026 06:02:00 +0000</pubDate>
-      <description>Holy Apostles and Deacons Prochorus, Nicanor, Timon and Parmenas</description>
-      <itunes:summary>Holy Apostles and Deacons Prochorus, Nicanor, Timon and Parmenas</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-july-holy-apostles-and-deacons-prochorus-nicanor-timon-and-parmenas.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-and-deacons-prochorus-nicanor-timon-and-parmenas.mp3" length="8041533" type="audio/mpeg" />
-      <itunes:duration>00:03:21</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-and-deacons-prochorus-nicanor-timon-and-parmenas.vtt" type="text/vtt" />
+      <title>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</title>
+      <guid isPermaLink="false">patristic-nectar:3710</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-29&amp;episode=holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children</link>
+      <pubDate>Wed, 29 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</description>
+      <itunes:summary>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-holy-martyr-kallinikos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children.mp3" length="9304815" type="audio/mpeg" />
+      <itunes:duration>00:03:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
