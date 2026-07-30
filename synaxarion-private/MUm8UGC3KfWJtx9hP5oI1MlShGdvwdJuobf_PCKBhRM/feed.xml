@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:02:04 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Pious Emperor Theodosis the Younger</title>
-      <guid isPermaLink="false">patristic-nectar:3709</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-29&amp;episode=pious-emperor-theodosis-the-younger</link>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Pious Emperor Theodosis the Younger</description>
-      <itunes:summary>Pious Emperor Theodosis the Younger</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-pious-emperor-theodosis-the-younger.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/pious-emperor-theodosis-the-younger.mp3" length="4454399" type="audio/mpeg" />
-      <itunes:duration>00:01:51</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/pious-emperor-theodosis-the-younger.vtt" type="text/vtt" />
+      <title>Holy Martyr Julitta of Caesarea</title>
+      <guid isPermaLink="false">patristic-nectar:3711</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-30&amp;episode=holy-martyr-julitta-of-caesarea</link>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Julitta of Caesarea</description>
+      <itunes:summary>Holy Martyr Julitta of Caesarea</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-julitta-of-caesarea.mp3" length="9338252" type="audio/mpeg" />
+      <itunes:duration>00:03:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-julitta-of-caesarea.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</title>
-      <guid isPermaLink="false">patristic-nectar:3710</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-29&amp;episode=holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children</link>
-      <pubDate>Wed, 29 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</description>
-      <itunes:summary>Holy Martyr Kallinikos and the Holy Virgin Martyr Theodota and her three children</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/29-july-holy-martyr-kallinikos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children.mp3" length="9304815" type="audio/mpeg" />
-      <itunes:duration>00:03:53</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-kallinikos-and-the-holy-virgin-martyr-theodota-and-her-three-children.vtt" type="text/vtt" />
+      <title>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</title>
+      <guid isPermaLink="false">patristic-nectar:3712</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-30&amp;episode=holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy</link>
+      <pubDate>Thu, 30 Jul 2026 06:01:00 +0000</pubDate>
+      <description>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</description>
+      <itunes:summary>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.mp3" length="10494954" type="audio/mpeg" />
+      <itunes:duration>00:04:22</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
