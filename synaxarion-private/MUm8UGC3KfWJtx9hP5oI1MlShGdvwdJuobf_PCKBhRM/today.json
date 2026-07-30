@@ -16,11 +16,10 @@
       "mime": "audio/mpeg",
       "audio_bytes": 9338252,
       "duration_seconds": 233,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-julitta-of-caesarea.vtt",
-      "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-martyr-julitta-of-caesarea.vtt",
-      "transcript_text_file_name": "holy-martyr-julitta-of-caesarea.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-30-the-holy-martyr-julitta-of-caesarea.mp3?token=_SlJ3dpDjZJrYGIqYvBccGI-WDceNUz62lWV_FFZer4&expires=1785409283"
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-30-the-holy-martyr-julitta-of-caesarea.mp3?token=1UOrbaOqYmU1jEYFQDsNTa6QGJpI9s8_Cr7ZgIMkJsE&expires=1785417504"
     },
     {
       "date": "2026-07-30",
@@ -35,11 +34,10 @@
       "mime": "audio/mpeg",
       "audio_bytes": 10494954,
       "duration_seconds": 262,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.vtt",
-      "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.vtt",
-      "transcript_text_file_name": "holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-30-holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.mp3?token=MZpRlFmExh05S1eN1hbmO27Q5RI32DOkMpBmOHClcAE&expires=1785409284"
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/july-30-holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.mp3?token=RubibPdZ_nQvM_5zTgP0fJS90cJ3rmQsPmw3txHgWq0&expires=1785417505"
     }
   ]
 }
