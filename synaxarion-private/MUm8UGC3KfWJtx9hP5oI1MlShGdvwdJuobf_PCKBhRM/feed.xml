@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:03:22 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,33 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-july-holy-father-germanos.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/31-july-holy-father-germanos.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyr Julitta of Caesarea</title>
-      <guid isPermaLink="false">patristic-nectar:3711</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-30&amp;episode=holy-martyr-julitta-of-caesarea</link>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyr Julitta of Caesarea</description>
-      <itunes:summary>Holy Martyr Julitta of Caesarea</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-martyr-julitta-of-caesarea.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-julitta-of-caesarea.mp3" length="9338252" type="audio/mpeg" />
-      <itunes:duration>00:03:53</itunes:duration>
+      <title>Holy Father Germanos, Bishop of Auxerre</title>
+      <guid isPermaLink="false">patristic-nectar:3713</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-31&amp;episode=holy-father-germanos-bishop-of-auxerre</link>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Germanos, Bishop of Auxerre</description>
+      <itunes:summary>Holy Father Germanos, Bishop of Auxerre</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-july-holy-father-germanos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-germanos-bishop-of-auxerre.mp3" length="37986219" type="audio/mpeg" />
+      <itunes:duration>00:15:50</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-germanos-bishop-of-auxerre.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</title>
-      <guid isPermaLink="false">patristic-nectar:3712</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-30&amp;episode=holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy</link>
-      <pubDate>Thu, 30 Jul 2026 06:01:00 +0000</pubDate>
-      <description>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</description>
-      <itunes:summary>Holy Apostles Silas, Silvan, Crescens, Epenetus, and Andronicus of the Seventy</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-july-holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostles-silas-silvan-crescens-epenetus-and-andronicus-of-the-seventy.mp3" length="10494954" type="audio/mpeg" />
-      <itunes:duration>00:04:22</itunes:duration>
+      <title>St Joseph of Arimathea</title>
+      <guid isPermaLink="false">patristic-nectar:3714</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-31&amp;episode=st-joseph-of-arimathea</link>
+      <pubDate>Fri, 31 Jul 2026 06:01:00 +0000</pubDate>
+      <description>St Joseph of Arimathea</description>
+      <itunes:summary>St Joseph of Arimathea</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-july-saint-joseph-of-arimathea.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-joseph-of-arimathea.mp3" length="3415770" type="audio/mpeg" />
+      <itunes:duration>00:01:25</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-joseph-of-arimathea.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Righteous Eudokimos</title>
+      <guid isPermaLink="false">patristic-nectar:3715</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-07-31&amp;episode=righteous-eudokimos</link>
+      <pubDate>Fri, 31 Jul 2026 06:02:00 +0000</pubDate>
+      <description>Righteous Eudokimos</description>
+      <itunes:summary>Righteous Eudokimos</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-july-righteous-eudokimos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-eudokimos.mp3" length="10207607" type="audio/mpeg" />
+      <itunes:duration>00:04:15</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-eudokimos.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
