@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:00:26 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,22 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-aug-frs-isaacius-dalmatus-faustus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-aug-holy-seven-sleepers.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/03-aug-frs-isaacius-dalmatus-faustus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/04-aug-holy-seven-sleepers.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Our Venerable Fathers Isaacius, Dalmatus and Faustus</title>
-      <guid isPermaLink="false">patristic-nectar:3720</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-03&amp;episode=our-venerable-fathers-isaacius-dalmatus-and-faustus</link>
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
-      <description>Our Venerable Fathers Isaacius, Dalmatus and Faustus</description>
-      <itunes:summary>Our Venerable Fathers Isaacius, Dalmatus and Faustus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-aug-frs-isaacius-dalmatus-faustus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-fathers-isaacius-dalmatus-and-faustus.mp3" length="22561435" type="audio/mpeg" />
-      <itunes:duration>00:09:24</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-fathers-isaacius-dalmatus-and-faustus.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title> St. Salome, the Myrrh-Bearer</title>
-      <guid isPermaLink="false">patristic-nectar:3721</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-03&amp;episode=st-salome-the-myrrh-bearer</link>
-      <pubDate>Mon, 03 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&amp;nbsp;St. Salome, the Myrrh-Bearer</description>
-      <itunes:summary>&amp;nbsp;St. Salome, the Myrrh-Bearer</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-aug-st-salome.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-salome-the-myrrh-bearer.mp3" length="5294497" type="audio/mpeg" />
-      <itunes:duration>00:02:12</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-salome-the-myrrh-bearer.vtt" type="text/vtt" />
+      <title>The Holy Seven Sleepers of Ephesus</title>
+      <guid isPermaLink="false">patristic-nectar:5186</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-04&amp;episode=sy080401</link>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
+      <description>The Holy Seven Sleepers of Ephesus</description>
+      <itunes:summary>The Holy Seven Sleepers of Ephesus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-aug-holy-seven-sleepers.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="25517452" type="audio/mpeg" />
+      <itunes:duration>00:10:38</itunes:duration>
     </item>
   </channel>
 </rss>
