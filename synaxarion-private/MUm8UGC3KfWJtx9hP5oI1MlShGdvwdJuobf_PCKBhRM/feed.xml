@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 09:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:00:30 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,66 +17,22 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-5th-st-euthymius.png" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-5th-st-euthymius.png</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>St. Euthymius, Patriarch of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3723</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-05&amp;episode=st-euthymius-patriarch-of-constantinople</link>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Euthymius, Patriarch of Constantinople</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Euthymius, Patriarch of Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-5th-st-euthymius.png" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-euthymius-patriarch-of-constantinople.mp3" length="36552619" type="audio/mpeg" />
-      <itunes:duration>00:15:14</itunes:duration>
-    </item>
-    <item>
-      <title>Forefeast of the Holy Transfiguration of Christ - Holy Martyr Eusignius</title>
-      <guid isPermaLink="false">patristic-nectar:3724</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-05&amp;episode=forefeast-of-the-holy-transfiguration-of-christ-holy-martyr-eusignius</link>
-      <pubDate>Wed, 05 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Forefeast of the Holy Transfiguration of Christ - Holy Martyr Eusignius</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Forefeast of the Holy Transfiguration of Christ - Holy Martyr Eusignius</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-aug-holy-martyr-eusignius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/forefeast-of-the-holy-transfiguration-of-christ-holy-martyr-eusignius.mp3" length="13383052" type="audio/mpeg" />
-      <itunes:duration>00:05:35</itunes:duration>
-    </item>
-    <item>
-      <title>St. Nonna, Mother of St. Gregory the Theologian</title>
-      <guid isPermaLink="false">patristic-nectar:3725</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-05&amp;episode=st-nonna-mother-of-st-gregory-the-theologian</link>
-      <pubDate>Wed, 05 Aug 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Nonna, Mother of St. Gregory the Theologian</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Nonna, Mother of St. Gregory the Theologian</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-aug-st-nonna.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-nonna-mother-of-st-gregory-the-theologian.mp3" length="6440750" type="audio/mpeg" />
-      <itunes:duration>00:02:41</itunes:duration>
-    </item>
-    <item>
-      <title>Holy Martyr King Oswald of Northumbria</title>
-      <guid isPermaLink="false">patristic-nectar:3726</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-05&amp;episode=holy-martyr-king-oswald-of-northumbria</link>
-      <pubDate>Wed, 05 Aug 2026 06:03:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr King Oswald of Northumbria</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr King Oswald of Northumbria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-aug-holy-martyr-king-oswald-of-northumbria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-king-oswald-of-northumbria.mp3" length="11622399" type="audio/mpeg" />
-      <itunes:duration>00:04:51</itunes:duration>
-    </item>
-    <item>
-      <title>Righteous Father John of Chozeba</title>
-      <guid isPermaLink="false">patristic-nectar:3727</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-05&amp;episode=righteous-father-john-of-chozeba</link>
-      <pubDate>Wed, 05 Aug 2026 06:04:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Righteous Father John of Chozeba</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Righteous Father John of Chozeba</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-aug-righteous-father-john-of-chozeba.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-john-of-chozeba.mp3" length="17910595" type="audio/mpeg" />
-      <itunes:duration>00:07:28</itunes:duration>
+      <title>Holy Righteous Martyr Dometius of Persia and His Two Disciples</title>
+      <guid isPermaLink="false">patristic-nectar:5191</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-07&amp;episode=sy080701</link>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Righteous Martyr Dometius of Persia and His Two Disciples</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Righteous Martyr Dometius of Persia and His Two Disciples</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="26500701" type="audio/mpeg" />
+      <itunes:duration>00:11:03</itunes:duration>
     </item>
   </channel>
 </rss>
