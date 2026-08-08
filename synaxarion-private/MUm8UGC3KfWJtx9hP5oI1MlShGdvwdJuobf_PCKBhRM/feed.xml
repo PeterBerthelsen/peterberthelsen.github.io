@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:00:37 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,22 +17,22 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-aug-righteous-father-emilian-the-confessor.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/08-aug-righteous-father-emilian-the-confessor.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Righteous Martyr Dometius of Persia and His Two Disciples</title>
-      <guid isPermaLink="false">patristic-nectar:5191</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-07&amp;episode=sy080701</link>
-      <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Righteous Martyr Dometius of Persia and His Two Disciples</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Righteous Martyr Dometius of Persia and His Two Disciples</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="26500701" type="audio/mpeg" />
-      <itunes:duration>00:11:03</itunes:duration>
+      <title> Righteous Father Emilian the Confessor, Bishop of Cyzicus</title>
+      <guid isPermaLink="false">patristic-nectar:5192</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-08&amp;episode=sy080801</link>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&amp;nbsp;Righteous Father Emilian the Confessor, Bishop of Cyzicus</description>
+      <itunes:summary>&amp;nbsp;Righteous Father Emilian the Confessor, Bishop of Cyzicus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-aug-righteous-father-emilian-the-confessor.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="5273599" type="audio/mpeg" />
+      <itunes:duration>00:02:12</itunes:duration>
     </item>
   </channel>
 </rss>

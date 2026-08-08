@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-07",
-  "collection_name": "August 7th",
+  "date": "2026-08-08",
+  "collection_name": "August 8th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-08-07",
-      "collection_name": "August 7th",
-      "content_id": 5191,
-      "content_name": "Holy Righteous Martyr Dometius of Persia and His Two Disciples",
-      "content_slug": "sy080701",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Holy Righteous Martyr Dometius of Persia and His Two Disciples</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/07-aug-holy-righteous-martyr-dometius.jpg",
+      "date": "2026-08-08",
+      "collection_name": "August 8th",
+      "content_id": 5192,
+      "content_name": " Righteous Father Emilian the Confessor, Bishop of Cyzicus",
+      "content_slug": "sy080801",
+      "description_html": "<p>&nbsp;Righteous Father Emilian the Confessor, Bishop of Cyzicus</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/08-aug-righteous-father-emilian-the-confessor.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 26500701,
-      "duration_seconds": 663,
+      "audio_bytes": 5273599,
+      "duration_seconds": 132,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-07-holy-righteous-martyr-dometius-of-persia-and-his-two-disciples.mp3?token=OUM3BF9_U6AeYwjFMZdQ2PXrHlPpPHIqv5AGVf7-knE&expires=1786100429"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-08-our-righteous-father-emilian-the-confessor-bishop-of-cyzicus.mp3?token=4zC1r9Yp9ZxQ-MVvltlD0Wf31s5hDJWDd5blXj1tG-o&expires=1786186837"
     }
   ]
 }
