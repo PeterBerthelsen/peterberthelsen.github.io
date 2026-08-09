@@ -1,25 +1,43 @@
 {
-  "date": "2026-08-08",
-  "collection_name": "August 8th",
-  "entry_count": 1,
+  "date": "2026-08-09",
+  "collection_name": "August 9th",
+  "entry_count": 2,
   "entries": [
     {
-      "date": "2026-08-08",
-      "collection_name": "August 8th",
-      "content_id": 5192,
-      "content_name": " Righteous Father Emilian the Confessor, Bishop of Cyzicus",
-      "content_slug": "sy080801",
-      "description_html": "<p>&nbsp;Righteous Father Emilian the Confessor, Bishop of Cyzicus</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/08-aug-righteous-father-emilian-the-confessor.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
-      "audio_file_name": "today.mp3",
+      "date": "2026-08-09",
+      "collection_name": "August 9th",
+      "content_id": 3731,
+      "content_name": "Holy Apostle Matthias",
+      "content_slug": "holy-apostle-matthias",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Holy Apostle Matthias</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/09-aug-holy-apostle-mattias.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-matthias.mp3",
+      "audio_file_name": "holy-apostle-matthias.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 5273599,
-      "duration_seconds": 132,
+      "audio_bytes": 7170088,
+      "duration_seconds": 179,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-08-our-righteous-father-emilian-the-confessor-bishop-of-cyzicus.mp3?token=4zC1r9Yp9ZxQ-MVvltlD0Wf31s5hDJWDd5blXj1tG-o&expires=1786186837"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-09-holy-apostle-matthias.mp3?token=jhBcv8gzwnHvw4Zj9iiMz2rEezj6mDxkvbuSkO3DA2I&expires=1786273267"
+    },
+    {
+      "date": "2026-08-09",
+      "collection_name": "August 9th",
+      "content_id": 3732,
+      "content_name": "The Ten Holy Martyrs who suffered for the Icon of Christ in Constantinople",
+      "content_slug": "the-ten-holy-martyrs-who-suffered-for-the-icon-of-christ-in-constantinople",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">The Ten Holy Martyrs who suffered for the Icon of Christ in Constantinople</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/09-aug-ten-holy-martyrs.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-ten-holy-martyrs-who-suffered-for-the-icon-of-christ-in-constantinople.mp3",
+      "audio_file_name": "the-ten-holy-martyrs-who-suffered-for-the-icon-of-christ-in-constantinople.mp3",
+      "mime": "audio/mpeg",
+      "audio_bytes": 8599509,
+      "duration_seconds": 215,
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-09-the-ten-holy-martyrs-who-suffered-for-the-icon-of-christ-in-constantinople.mp3?token=ATX-iWgVSsUihmbyIvo_wlDSN70XoCj1KvXhviiwUsA&expires=1786273267"
     }
   ]
 }
