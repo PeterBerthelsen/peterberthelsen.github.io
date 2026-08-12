@@ -1,43 +1,25 @@
 {
-  "date": "2026-08-11",
-  "collection_name": "August 11th",
-  "entry_count": 2,
+  "date": "2026-08-12",
+  "collection_name": "August 12th",
+  "entry_count": 1,
   "entries": [
     {
-      "date": "2026-08-11",
-      "collection_name": "August 11th",
-      "content_id": 3735,
-      "content_name": "St. Niphon, Patriarch of Constantinople",
-      "content_slug": "st-niphon-patriarch-of-constantinople",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">St. Niphon, Patriarch of Constantinople</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/11-aug-saint-niphon-patriarch-of-constantinople.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-niphon-patriarch-of-constantinople.mp3",
-      "audio_file_name": "st-niphon-patriarch-of-constantinople.mp3",
+      "date": "2026-08-12",
+      "collection_name": "August 12th",
+      "content_id": 3737,
+      "content_name": "Holy Martyrs Photios and Anicetus",
+      "content_slug": "holy-martyrs-photios-and-anicetus",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Holy Martyrs Photios and Anicetus</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/12-aug-ss-photios-and-anicetus.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
+      "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 46028799,
-      "duration_seconds": 1151,
+      "audio_bytes": 26020048,
+      "duration_seconds": 0,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-11-st-niphon-patriarch-of-constantinople.mp3?token=PaijmaTIjpdMNdUb2dkcfZCDmlLRLP-PylLj8R1B3AY&expires=1786446048"
-    },
-    {
-      "date": "2026-08-11",
-      "collection_name": "August 11th",
-      "content_id": 3736,
-      "content_name": " Holy Martyr Euplus the Deacon",
-      "content_slug": "holy-martyr-euplus-the-deacon",
-      "description_html": "<p>&nbsp;Holy Martyr Euplus the Deacon</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/11-aug-holy-martyr-euplus.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-euplus-the-deacon.mp3",
-      "audio_file_name": "holy-martyr-euplus-the-deacon.mp3",
-      "mime": "audio/mpeg",
-      "audio_bytes": 17497860,
-      "duration_seconds": 437,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-11-holy-martyr-euplus-the-deacon.mp3?token=_I3pvHBMFOSo6Im88FV66oclK9qBZ2nZJX-SYnAr3Ws&expires=1786446049"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-12-holy-martyrs-photios-anicetus.mp3?token=3uzzY9ZDkp8xCrKbi8pb3jcCVLqrnbnSdYV2EOf3aOA&expires=1786532454"
     }
   ]
 }
