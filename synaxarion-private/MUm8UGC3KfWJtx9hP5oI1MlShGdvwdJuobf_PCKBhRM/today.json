@@ -1,25 +1,43 @@
 {
-  "date": "2026-08-12",
-  "collection_name": "August 12th",
-  "entry_count": 1,
+  "date": "2026-08-13",
+  "collection_name": "August 13th",
+  "entry_count": 2,
   "entries": [
     {
-      "date": "2026-08-12",
-      "collection_name": "August 12th",
-      "content_id": 3737,
-      "content_name": "Holy Martyrs Photios and Anicetus",
-      "content_slug": "holy-martyrs-photios-and-anicetus",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Holy Martyrs Photios and Anicetus</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/12-aug-ss-photios-and-anicetus.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
-      "audio_file_name": "today.mp3",
+      "date": "2026-08-13",
+      "collection_name": "August 13th",
+      "content_id": 3738,
+      "content_name": "St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh",
+      "content_slug": "st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-tikhon-of-zadonsk.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3",
+      "audio_file_name": "st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 26020048,
-      "duration_seconds": 0,
+      "audio_bytes": 34293550,
+      "duration_seconds": 857,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-12-holy-martyrs-photios-anicetus.mp3?token=3uzzY9ZDkp8xCrKbi8pb3jcCVLqrnbnSdYV2EOf3aOA&expires=1786532454"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-13-st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3?token=G61DnqlXQk9Akrtxt8WL_ujDbNspBQt_7FBSIb4tmXg&expires=1786618814"
+    },
+    {
+      "date": "2026-08-13",
+      "collection_name": "August 13th",
+      "content_id": 3739,
+      "content_name": "Venerable Dorotheos of Gaza",
+      "content_slug": "venerable-dorotheos-of-gaza",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Venerable Dorotheos of Gaza</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-dorotheos.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-dorotheos-of-gaza.mp3",
+      "audio_file_name": "venerable-dorotheos-of-gaza.mp3",
+      "mime": "audio/mpeg",
+      "audio_bytes": 24737958,
+      "duration_seconds": 618,
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-13-venerable-dorotheos-of-gaza.mp3?token=OecAsQerhHZbkFiCfM-EEZh67SRX3CHNnxOLiJzUXRY&expires=1786618814"
     }
   ]
 }

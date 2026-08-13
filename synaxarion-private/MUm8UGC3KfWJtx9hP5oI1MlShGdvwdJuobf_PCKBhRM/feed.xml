@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:00:15 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,22 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-aug-ss-photios-and-anicetus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-tikhon-of-zadonsk.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/12-aug-ss-photios-and-anicetus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-tikhon-of-zadonsk.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Photios and Anicetus</title>
-      <guid isPermaLink="false">patristic-nectar:3737</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-12&amp;episode=holy-martyrs-photios-and-anicetus</link>
-      <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Photios and Anicetus</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Photios and Anicetus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-aug-ss-photios-and-anicetus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="26020048" type="audio/mpeg" />
-      <itunes:duration>00:00:00</itunes:duration>
+      <title>St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh</title>
+      <guid isPermaLink="false">patristic-nectar:3738</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-13&amp;episode=st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh</link>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-tikhon-of-zadonsk.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3" length="34293550" type="audio/mpeg" />
+      <itunes:duration>00:14:17</itunes:duration>
+    </item>
+    <item>
+      <title>Venerable Dorotheos of Gaza</title>
+      <guid isPermaLink="false">patristic-nectar:3739</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-13&amp;episode=venerable-dorotheos-of-gaza</link>
+      <pubDate>Thu, 13 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Dorotheos of Gaza</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Dorotheos of Gaza</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-dorotheos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-dorotheos-of-gaza.mp3" length="24737958" type="audio/mpeg" />
+      <itunes:duration>00:10:18</itunes:duration>
     </item>
   </channel>
 </rss>
