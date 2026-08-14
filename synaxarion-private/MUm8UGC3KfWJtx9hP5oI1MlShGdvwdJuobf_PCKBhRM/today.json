@@ -1,43 +1,25 @@
 {
-  "date": "2026-08-13",
-  "collection_name": "August 13th",
-  "entry_count": 2,
+  "date": "2026-08-14",
+  "collection_name": "August 14th",
+  "entry_count": 1,
   "entries": [
     {
-      "date": "2026-08-13",
-      "collection_name": "August 13th",
-      "content_id": 3738,
-      "content_name": "St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh",
-      "content_slug": "st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">St. Tikhon of Zadonsk the Wonder-Worker, Bishop of Voronezh</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-tikhon-of-zadonsk.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3",
-      "audio_file_name": "st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3",
+      "date": "2026-08-14",
+      "collection_name": "August 14th",
+      "content_id": 5201,
+      "content_name": "Forefeast of the Dormition of the Theotokos; Holy Prophet Micah",
+      "content_slug": "sy081401",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Forefeast of the Dormition of the Theotokos; Holy Prophet Micah</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/14-aug-holy-prophet-micah.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
+      "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 34293550,
-      "duration_seconds": 857,
+      "audio_bytes": 20285648,
+      "duration_seconds": 507,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-13-st-tikhon-of-zadonsk-the-wonder-worker-bishop-of-voronezh.mp3?token=G61DnqlXQk9Akrtxt8WL_ujDbNspBQt_7FBSIb4tmXg&expires=1786618814"
-    },
-    {
-      "date": "2026-08-13",
-      "collection_name": "August 13th",
-      "content_id": 3739,
-      "content_name": "Venerable Dorotheos of Gaza",
-      "content_slug": "venerable-dorotheos-of-gaza",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Venerable Dorotheos of Gaza</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/13-aug-st-dorotheos.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-dorotheos-of-gaza.mp3",
-      "audio_file_name": "venerable-dorotheos-of-gaza.mp3",
-      "mime": "audio/mpeg",
-      "audio_bytes": 24737958,
-      "duration_seconds": 618,
-      "transcript_url": null,
-      "transcript_mime": null,
-      "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-13-venerable-dorotheos-of-gaza.mp3?token=OecAsQerhHZbkFiCfM-EEZh67SRX3CHNnxOLiJzUXRY&expires=1786618814"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-14-forefeast-of-the-dormition-of-the-theotokos-holy-prophet-micah.mp3?token=Ks__4qqzvNWhfpHCHyJSQ8xt0jniXtmt5FQ2Ls7x9H8&expires=1786705265"
     }
   ]
 }
