@@ -1,25 +1,43 @@
 {
-  "date": "2026-08-14",
-  "collection_name": "August 14th",
-  "entry_count": 1,
+  "date": "2026-08-15",
+  "collection_name": "August 15th",
+  "entry_count": 2,
   "entries": [
     {
-      "date": "2026-08-14",
-      "collection_name": "August 14th",
-      "content_id": 5201,
-      "content_name": "Forefeast of the Dormition of the Theotokos; Holy Prophet Micah",
-      "content_slug": "sy081401",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Forefeast of the Dormition of the Theotokos; Holy Prophet Micah</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/14-aug-holy-prophet-micah.jpg",
-      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
-      "audio_file_name": "today.mp3",
+      "date": "2026-08-15",
+      "collection_name": "August 15th",
+      "content_id": 3741,
+      "content_name": "The Dormition of the Most Holy Theotokos",
+      "content_slug": "the-dormition-of-the-most-holy-theotokos",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">The Dormition of the Most Holy Theotokos</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-dormition-of-the-theotokos.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-dormition-of-the-most-holy-theotokos.mp3",
+      "audio_file_name": "the-dormition-of-the-most-holy-theotokos.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 20285648,
-      "duration_seconds": 507,
+      "audio_bytes": 30325027,
+      "duration_seconds": 758,
       "transcript_url": null,
       "transcript_mime": null,
       "local_transcript_file_name": null,
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-14-forefeast-of-the-dormition-of-the-theotokos-holy-prophet-micah.mp3?token=Ks__4qqzvNWhfpHCHyJSQ8xt0jniXtmt5FQ2Ls7x9H8&expires=1786705265"
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-15-the-dormition-of-the-most-holy-theotokos.mp3?token=-CKlrVVt6wkpIxE-UsfOMtegOF15pkFy5MJkggOmbvk&expires=1786791621"
+    },
+    {
+      "date": "2026-08-15",
+      "collection_name": "August 15th",
+      "content_id": 3742,
+      "content_name": "The Memory of the Miraculous Intercession of Our Sovereign Lady in Repulsing the Impious Saracens who\r\nWere Besieging Constantinople",
+      "content_slug": "the-memory-of-the-miraculous-intercession-of-our-sovereign-lady-in-repulsing-the-impious-saracens-who-were-besieging-constantino",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">The Memory of the Miraculous Intercession of Our Sovereign Lady in Repulsing the Impious Saracens who</p>\r\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Were Besieging Constantinople</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-memory-of-the-miraculous-intercession.jpg",
+      "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-memory-of-the-miraculous-intercession-of-our-sovereign-lady-in-repulsing-the-impious-saracens-who-were-besieging-constantino.mp3",
+      "audio_file_name": "the-memory-of-the-miraculous-intercession-of-our-sovereign-lady-in-repulsing-the-impious-saracens-who-were-besieging-constantino.mp3",
+      "mime": "audio/mpeg",
+      "audio_bytes": 9480358,
+      "duration_seconds": 237,
+      "transcript_url": null,
+      "transcript_mime": null,
+      "local_transcript_file_name": null,
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/aug-15-the-memory-of-the-miraculous-intercession-of-our-soveriegn-lady-in-replulsing-the-impious-saracens-who-were-beseiging-constantinople.mp3?token=s-JweTEi6LfPHwgOa3FkPoAckqmYP0HAznFasK34Kh4&expires=1786791621"
     }
   ]
 }
