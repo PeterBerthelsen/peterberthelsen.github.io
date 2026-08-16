@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 09:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:01:02 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,36 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-dormition-of-the-theotokos.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-aug-image-of-christ-not-made-by-hands.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-dormition-of-the-theotokos.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/16-aug-image-of-christ-not-made-by-hands.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>The Dormition of the Most Holy Theotokos</title>
-      <guid isPermaLink="false">patristic-nectar:3741</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-15&amp;episode=the-dormition-of-the-most-holy-theotokos</link>
-      <pubDate>Sat, 15 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Dormition of the Most Holy Theotokos</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Dormition of the Most Holy Theotokos</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-dormition-of-the-theotokos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-dormition-of-the-most-holy-theotokos.mp3" length="30325027" type="audio/mpeg" />
-      <itunes:duration>00:12:38</itunes:duration>
+      <title> Commemoration of the Image of Christ Not Made By Hands</title>
+      <guid isPermaLink="false">patristic-nectar:3743</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-16&amp;episode=commemoration-of-the-image-of-christ-not-made-by-hands</link>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&amp;nbsp;Commemoration of the Image of Christ Not Made By Hands</description>
+      <itunes:summary>&amp;nbsp;Commemoration of the Image of Christ Not Made By Hands</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-aug-image-of-christ-not-made-by-hands.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/commemoration-of-the-image-of-christ-not-made-by-hands.mp3" length="18266905" type="audio/mpeg" />
+      <itunes:duration>00:07:37</itunes:duration>
     </item>
     <item>
-      <title>The Memory of the Miraculous Intercession of Our Sovereign Lady in Repulsing the Impious Saracens who
-Were Besieging Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3742</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-15&amp;episode=the-memory-of-the-miraculous-intercession-of-our-sovereign-lady-in-repulsing-the-impious-saracens-who-were-besieging-constantino</link>
-      <pubDate>Sat, 15 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Memory of the Miraculous Intercession of Our Sovereign Lady in Repulsing the Impious Saracens who
-&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Were Besieging Constantinople</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Memory of the Miraculous Intercession of Our Sovereign Lady in Repulsing the Impious Saracens who
-&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Were Besieging Constantinople</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-aug-memory-of-the-miraculous-intercession.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-memory-of-the-miraculous-intercession-of-our-sovereign-lady-in-repulsing-the-impious-saracens-who-were-besieging-constantino.mp3" length="9480358" type="audio/mpeg" />
-      <itunes:duration>00:03:57</itunes:duration>
+      <title>Holy Martyr Diomedes</title>
+      <guid isPermaLink="false">patristic-nectar:3744</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-16&amp;episode=holy-martyr-diomedes</link>
+      <pubDate>Sun, 16 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr Diomedes</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr Diomedes</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-aug-saint-diomedes.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-diomedes.mp3" length="10390464" type="audio/mpeg" />
+      <itunes:duration>00:04:20</itunes:duration>
+    </item>
+    <item>
+      <title>St. Joseph Hesychast</title>
+      <guid isPermaLink="false">patristic-nectar:3745</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-16&amp;episode=st-joseph-hesychast</link>
+      <pubDate>Sun, 16 Aug 2026 06:02:00 +0000</pubDate>
+      <description>St. Joseph Hesychast</description>
+      <itunes:summary>St. Joseph Hesychast</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/saint-joseph-hesychast.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-joseph-hesychast.mp3" length="44177240" type="audio/mpeg" />
+      <itunes:duration>00:18:24</itunes:duration>
     </item>
   </channel>
 </rss>
