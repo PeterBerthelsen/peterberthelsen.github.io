@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:01:15 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,33 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-aug-saint-alypius-the-iconographer.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-aug-saint-andrew-the-commander.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/17-aug-saint-alypius-the-iconographer.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/19-aug-saint-andrew-the-commander.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Venerable Alypius the Iconographer of the Kiev Caves Lavra</title>
-      <guid isPermaLink="false">patristic-nectar:3746</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-17&amp;episode=venerable-alypius-the-iconographer-of-the-kiev-caves-lavra</link>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Alypius the Iconographer of the Kiev Caves Lavra</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Alypius the Iconographer of the Kiev Caves Lavra</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-aug-saint-alypius-the-iconographer.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-alypius-the-iconographer-of-the-kiev-caves-lavra.mp3" length="21587591" type="audio/mpeg" />
-      <itunes:duration>00:09:00</itunes:duration>
-    </item>
-    <item>
-      <title>Holy Hieromartyr Myron</title>
-      <guid isPermaLink="false">patristic-nectar:3747</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-17&amp;episode=holy-hieromartyr-myron</link>
-      <pubDate>Mon, 17 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Hieromartyr Myron</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Hieromartyr Myron</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-aug-saint-myron.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-myron.mp3" length="13690252" type="audio/mpeg" />
-      <itunes:duration>00:05:42</itunes:duration>
+      <title>Holy Great Martyr Andrew the Commander and the 2,593 with Him</title>
+      <guid isPermaLink="false">patristic-nectar:3750</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-19&amp;episode=holy-great-martyr-andrew-the-commander-and-the-2593-with-him</link>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Great Martyr Andrew the Commander and the 2,593 with Him</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Great Martyr Andrew the Commander and the 2,593 with Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-aug-saint-andrew-the-commander.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="14097762" type="audio/mpeg" />
+      <itunes:duration>00:05:52</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-andrew-the-commander-and-the-2593-with-him.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
