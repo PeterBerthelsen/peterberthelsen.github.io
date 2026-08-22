@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:01:46 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,38 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-aug-saint-thaddaeus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/21-aug-saint-thaddaeus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle Thaddaeus</title>
-      <guid isPermaLink="false">patristic-nectar:3754</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-21&amp;episode=sy082102</link>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
-      <description></description>
-      <itunes:summary></itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-aug-saint-thaddaeus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy082102.mp3" length="6724962" type="audio/mpeg" />
-      <itunes:duration>00:02:48</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy082102.vtt" type="text/vtt" />
+      <title>The Holy Martyr Agathonicus</title>
+      <guid isPermaLink="false">patristic-nectar:3755</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-22&amp;episode=the-holy-martyr-agathonicus</link>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Agathonicus</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Agathonicus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-martyr-agathonicus.mp3" length="26854921" type="audio/mpeg" />
+      <itunes:duration>00:11:11</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-martyr-agathonicus.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyr Vassa and her three sons:
-Theognius, Agapius, and Pistus</title>
-      <guid isPermaLink="false">patristic-nectar:5211</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-21&amp;episode=sy082101</link>
-      <pubDate>Fri, 21 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Martyr Vassa and her three sons:
-&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Theognius, Agapius, and Pistus</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Martyr Vassa and her three sons:
-&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Theognius, Agapius, and Pistus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/21-aug-saint-vassa-and-her-three-sons.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy082101.mp3" length="27462007" type="audio/mpeg" />
-      <itunes:duration>00:11:27</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy082101.vtt" type="text/vtt" />
+      <title>The Holy Martyr Eulalia of Barcelona</title>
+      <guid isPermaLink="false">patristic-nectar:3756</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-22&amp;episode=the-holy-martyr-eulalia-of-barcelona</link>
+      <pubDate>Sat, 22 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Eulalia of Barcelona</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Eulalia of Barcelona</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-eulalia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-martyr-eulalia-of-barcelona.mp3" length="6801240" type="audio/mpeg" />
+      <itunes:duration>00:02:50</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-martyr-eulalia-of-barcelona.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
