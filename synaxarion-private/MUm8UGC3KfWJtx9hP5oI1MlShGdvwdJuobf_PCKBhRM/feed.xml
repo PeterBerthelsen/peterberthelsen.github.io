@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:01:27 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>The Holy Martyr Agathonicus</title>
-      <guid isPermaLink="false">patristic-nectar:3755</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-22&amp;episode=the-holy-martyr-agathonicus</link>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Agathonicus</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Agathonicus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-agathonicus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-martyr-agathonicus.mp3" length="26854921" type="audio/mpeg" />
-      <itunes:duration>00:11:11</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-martyr-agathonicus.vtt" type="text/vtt" />
+      <title> Holy Martyr Lupus</title>
+      <guid isPermaLink="false">patristic-nectar:3757</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-23&amp;episode=holy-martyr-lupus</link>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&amp;nbsp;Holy Martyr Lupus</description>
+      <itunes:summary>&amp;nbsp;Holy Martyr Lupus</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-lupus.mp3" length="5297631" type="audio/mpeg" />
+      <itunes:duration>00:02:12</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-lupus.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>The Holy Martyr Eulalia of Barcelona</title>
-      <guid isPermaLink="false">patristic-nectar:3756</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-22&amp;episode=the-holy-martyr-eulalia-of-barcelona</link>
-      <pubDate>Sat, 22 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Eulalia of Barcelona</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;The Holy Martyr Eulalia of Barcelona</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/22-aug-saint-eulalia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-martyr-eulalia-of-barcelona.mp3" length="6801240" type="audio/mpeg" />
-      <itunes:duration>00:02:50</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-martyr-eulalia-of-barcelona.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Irenaeus, Bishop of Lyons</title>
+      <guid isPermaLink="false">patristic-nectar:3758</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-23&amp;episode=holy-hieromartyr-irenaeus-bishop-of-lyons</link>
+      <pubDate>Sun, 23 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Irenaeus, Bishop of Lyons</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Irenaeus, Bishop of Lyons</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-irenaeus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-irenaeus-bishop-of-lyons.mp3" length="26607280" type="audio/mpeg" />
+      <itunes:duration>00:11:05</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-irenaeus-bishop-of-lyons.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
