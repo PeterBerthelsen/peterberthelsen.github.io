@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:02:16 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-aug-saint-eutychus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/24-aug-saint-eutychus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title> Holy Martyr Lupus</title>
-      <guid isPermaLink="false">patristic-nectar:3757</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-23&amp;episode=holy-martyr-lupus</link>
-      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&amp;nbsp;Holy Martyr Lupus</description>
-      <itunes:summary>&amp;nbsp;Holy Martyr Lupus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-lupus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-lupus.mp3" length="5297631" type="audio/mpeg" />
-      <itunes:duration>00:02:12</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-lupus.vtt" type="text/vtt" />
+      <title>Holy Martyr Eutychus, Disciple of St. John the Theologian</title>
+      <guid isPermaLink="false">patristic-nectar:3759</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-24&amp;episode=holy-martyr-eutychus-disciple-of-st-john-the-theologian</link>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Martyr Eutychus, Disciple of St. John the Theologian</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Martyr Eutychus, Disciple of St. John the Theologian</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-aug-saint-eutychus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-eutychus-disciple-of-st-john-the-theologian.mp3" length="4545305" type="audio/mpeg" />
+      <itunes:duration>00:01:54</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-eutychus-disciple-of-st-john-the-theologian.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Hieromartyr Irenaeus, Bishop of Lyons</title>
-      <guid isPermaLink="false">patristic-nectar:3758</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-23&amp;episode=holy-hieromartyr-irenaeus-bishop-of-lyons</link>
-      <pubDate>Sun, 23 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Irenaeus, Bishop of Lyons</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Irenaeus, Bishop of Lyons</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-aug-saint-irenaeus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-irenaeus-bishop-of-lyons.mp3" length="26607280" type="audio/mpeg" />
-      <itunes:duration>00:11:05</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-irenaeus-bishop-of-lyons.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Cosmas Aitolos, Equal to the Apostles and Evangelizer of Southern Albania</title>
+      <guid isPermaLink="false">patristic-nectar:3760</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-24&amp;episode=holy-hieromartyr-cosmas-aitolos-equal-to-the-apostles-and-evangelizer-of-southern-albania</link>
+      <pubDate>Mon, 24 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Cosmas Aitolos, Equal to the Apostles and Evangelizer of Southern Albania</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Holy Hieromartyr Cosmas Aitolos, Equal to the Apostles and Evangelizer of Southern Albania</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-aug-saint-cosmas-aitolos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-cosmas-aitolos-equal-to-the-apostles-and-evangelizer-of-southern-albania.mp3" length="29210121" type="audio/mpeg" />
+      <itunes:duration>00:12:10</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-cosmas-aitolos-equal-to-the-apostles-and-evangelizer-of-southern-albania.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
