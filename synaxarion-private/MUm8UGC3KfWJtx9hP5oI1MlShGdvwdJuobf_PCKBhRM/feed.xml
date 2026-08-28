@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:00:12 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,44 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-27-cesaire-darles-icon.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-aug-saint-moses-the-ethiopian.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-27-cesaire-darles-icon.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/28-aug-saint-moses-the-ethiopian.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Our Holy Father Caesarius, Archbishop of Arles</title>
-      <guid isPermaLink="false">patristic-nectar:3764</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-27&amp;episode=our-holy-father-caesarius-archbishop-of-arles</link>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Caesarius, Archbishop of Arles</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Caesarius, Archbishop of Arles</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/aug-27-cesaire-darles-icon.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-caesarius-archbishop-of-arles.mp3" length="37512880" type="audio/mpeg" />
-      <itunes:duration>00:15:38</itunes:duration>
+      <title>Our Righteous Father Moses the Ethiopian</title>
+      <guid isPermaLink="false">patristic-nectar:3767</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-28&amp;episode=our-righteous-father-moses-the-ethiopian</link>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Righteous Father Moses the Ethiopian</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Righteous Father Moses the Ethiopian</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-aug-saint-moses-the-ethiopian.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-righteous-father-moses-the-ethiopian.mp3" length="27793240" type="audio/mpeg" />
+      <itunes:duration>00:11:35</itunes:duration>
     </item>
     <item>
-      <title>The Holy Great Martyr Phanourios the Newly Revealedof Rhodes</title>
-      <guid isPermaLink="false">patristic-nectar:3765</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-27&amp;episode=the-holy-great-martyr-phanourios-the-newly-revealedof-rhodes</link>
-      <pubDate>Thu, 27 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Holy Great Martyr Phanourios the Newly Revealedof Rhodes</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;The Holy Great Martyr Phanourios the Newly Revealedof Rhodes</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-aug-saint-phanourios.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-great-martyr-phanourios-the-newly-revealedof-rhodes.mp3" length="6629876" type="audio/mpeg" />
-      <itunes:duration>00:02:46</itunes:duration>
+      <title>Holy Martyr Susanna of Georgia</title>
+      <guid isPermaLink="false">patristic-nectar:3768</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-28&amp;episode=holy-martyr-susanna-of-georgia</link>
+      <pubDate>Fri, 28 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr Susanna of Georgia</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyr Susanna of Georgia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-aug-saint-susanna-of-georgia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-susanna-of-georgia.mp3" length="25526856" type="audio/mpeg" />
+      <itunes:duration>00:10:38</itunes:duration>
     </item>
     <item>
-      <title>Our Venerable Father Pimen the Great and Osios</title>
-      <guid isPermaLink="false">patristic-nectar:3766</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-27&amp;episode=our-venerable-father-pimen-the-great-and-osios</link>
-      <pubDate>Thu, 27 Aug 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Our Venerable Father Pimen the Great and Osios</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Our Venerable Father Pimen the Great and Osios</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-aug-saint-pimen.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-father-pimen-the-great-and-osios.mp3" length="27917582" type="audio/mpeg" />
-      <itunes:duration>00:11:38</itunes:duration>
+      <title>The Righteous King Hezekiah of Judah</title>
+      <guid isPermaLink="false">patristic-nectar:3769</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-28&amp;episode=the-righteous-king-hezekiah-of-judah</link>
+      <pubDate>Fri, 28 Aug 2026 06:02:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri;"&gt;&lt;span style="font-size: 11.0pt;"&gt;The Righteous King Hezekiah of &lt;/span&gt;&lt;span style="font-size: 11.2pt;"&gt;Judah&lt;/span&gt;</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri;"&gt;&lt;span style="font-size: 11.0pt;"&gt;The Righteous King Hezekiah of &lt;/span&gt;&lt;span style="font-size: 11.2pt;"&gt;Judah&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/28-aug-righteous-king-hezekiah.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-righteous-king-hezekiah-of-judah.mp3" length="18318105" type="audio/mpeg" />
+      <itunes:duration>00:07:38</itunes:duration>
     </item>
   </channel>
 </rss>
