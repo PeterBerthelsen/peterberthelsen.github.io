@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:00:13 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,33 +17,33 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-aug-saints-alexander-john-and-paul.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/30-aug-saints-alexander-john-and-paul.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Fathers Alexander, John, and Paul the New, Patriarchs of Constantinople</title>
-      <guid isPermaLink="false">patristic-nectar:3771</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-30&amp;episode=holy-fathers-alexander-john-and-paul-the-new-patriarchs-of-constantinople</link>
-      <pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri;"&gt;&lt;span style="font-size: 11.2pt;"&gt;Holy&lt;/span&gt;&lt;span style="font-size: 11.0pt;"&gt; Fathers Alexander, John, and Paul the New, Patriarchs of &lt;/span&gt;&lt;span style="font-size: 11.2pt;"&gt;Constantinople&lt;/span&gt;</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri;"&gt;&lt;span style="font-size: 11.2pt;"&gt;Holy&lt;/span&gt;&lt;span style="font-size: 11.0pt;"&gt; Fathers Alexander, John, and Paul the New, Patriarchs of &lt;/span&gt;&lt;span style="font-size: 11.2pt;"&gt;Constantinople&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-aug-saints-alexander-john-and-paul.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-fathers-alexander-john-and-paul-the-new-patriarchs-of-constantinople.mp3" length="27720097" type="audio/mpeg" />
-      <itunes:duration>00:11:33</itunes:duration>
+      <title>Deposition of the Precious Sash of the Most Holy Theotokos</title>
+      <guid isPermaLink="false">patristic-nectar:3773</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-31&amp;episode=deposition-of-the-precious-sash-of-the-most-holy-theotokos</link>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Deposition of the Precious Sash of the Most Holy Theotokos</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Deposition of the Precious Sash of the Most Holy Theotokos</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/deposition-of-the-precious-sash-of-the-most-holy-theotokos.mp3" length="12202317" type="audio/mpeg" />
+      <itunes:duration>00:05:05</itunes:duration>
     </item>
     <item>
-      <title>Venerable Father Alexander of Svir</title>
-      <guid isPermaLink="false">patristic-nectar:3772</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-30&amp;episode=venerable-father-alexander-of-svir</link>
-      <pubDate>Sun, 30 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Father Alexander of Svir</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Venerable Father Alexander of Svir</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/30-aug-saint-alexander-of-svir.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-alexander-of-svir.mp3" length="40422921" type="audio/mpeg" />
-      <itunes:duration>00:16:51</itunes:duration>
+      <title>Holy Father Aidan, Founder and Bishop of Lindisfarne</title>
+      <guid isPermaLink="false">patristic-nectar:3774</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-31&amp;episode=holy-father-aidan-founder-and-bishop-of-lindisfarne</link>
+      <pubDate>Mon, 31 Aug 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Father Aidan, Founder and Bishop of Lindisfarne</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Father Aidan, Founder and Bishop of Lindisfarne</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-saint-aidan.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-aidan-founder-and-bishop-of-lindisfarne.mp3" length="14643199" type="audio/mpeg" />
+      <itunes:duration>00:06:06</itunes:duration>
     </item>
   </channel>
 </rss>
