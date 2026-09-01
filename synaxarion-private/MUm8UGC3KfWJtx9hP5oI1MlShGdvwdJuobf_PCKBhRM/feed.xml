@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:00:25 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,33 +17,44 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Deposition of the Precious Sash of the Most Holy Theotokos</title>
-      <guid isPermaLink="false">patristic-nectar:3773</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-31&amp;episode=deposition-of-the-precious-sash-of-the-most-holy-theotokos</link>
-      <pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Deposition of the Precious Sash of the Most Holy Theotokos</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.2pt;"&gt;Deposition of the Precious Sash of the Most Holy Theotokos</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-deposition-of-the-sash-of-the-theotokos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/deposition-of-the-precious-sash-of-the-most-holy-theotokos.mp3" length="12202317" type="audio/mpeg" />
-      <itunes:duration>00:05:05</itunes:duration>
+      <title>Indiction, or Beginning of the Ecclesiastical Year</title>
+      <guid isPermaLink="false">patristic-nectar:3775</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=indiction-or-beginning-of-the-ecclesiastical-year</link>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Indiction, or Beginning of the Ecclesiastical Year</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Indiction, or Beginning of the Ecclesiastical Year</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/indiction-or-beginning-of-the-ecclesiastical-year.mp3" length="8792815" type="audio/mpeg" />
+      <itunes:duration>00:03:40</itunes:duration>
     </item>
     <item>
-      <title>Holy Father Aidan, Founder and Bishop of Lindisfarne</title>
-      <guid isPermaLink="false">patristic-nectar:3774</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-08-31&amp;episode=holy-father-aidan-founder-and-bishop-of-lindisfarne</link>
-      <pubDate>Mon, 31 Aug 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Father Aidan, Founder and Bishop of Lindisfarne</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Father Aidan, Founder and Bishop of Lindisfarne</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/31-aug-saint-aidan.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-aidan-founder-and-bishop-of-lindisfarne.mp3" length="14643199" type="audio/mpeg" />
-      <itunes:duration>00:06:06</itunes:duration>
+      <title>Our Venerable and God-Bearing Father Symeon the Stylite</title>
+      <guid isPermaLink="false">patristic-nectar:3776</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=our-venerable-and-god-bearing-father-symeon-the-stylite</link>
+      <pubDate>Tue, 01 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Venerable and God-Bearing Father Symeon the Stylite</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Venerable and God-Bearing Father Symeon the Stylite</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-saint-symeon-the-stylite.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-and-god-bearing-father-symeon-the-stylite.mp3" length="23300178" type="audio/mpeg" />
+      <itunes:duration>00:09:43</itunes:duration>
+    </item>
+    <item>
+      <title>Righteous Joshua, Son of Nun</title>
+      <guid isPermaLink="false">patristic-nectar:3777</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=righteous-joshua-son-of-nun</link>
+      <pubDate>Tue, 01 Sep 2026 06:02:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Righteous Joshua, Son of Nun</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Righteous Joshua, Son of Nun</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-holy-righteous-joshua.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-joshua-son-of-nun.mp3" length="12248293" type="audio/mpeg" />
+      <itunes:duration>00:05:06</itunes:duration>
     </item>
   </channel>
 </rss>
