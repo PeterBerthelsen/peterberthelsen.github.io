@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:00:57 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,44 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-sept-saint-mamas.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/02-sept-saint-mamas.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Indiction, or Beginning of the Ecclesiastical Year</title>
-      <guid isPermaLink="false">patristic-nectar:3775</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=indiction-or-beginning-of-the-ecclesiastical-year</link>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Indiction, or Beginning of the Ecclesiastical Year</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Indiction, or Beginning of the Ecclesiastical Year</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-indiction-of-the-ecclesiastical-year.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/indiction-or-beginning-of-the-ecclesiastical-year.mp3" length="8792815" type="audio/mpeg" />
-      <itunes:duration>00:03:40</itunes:duration>
+      <title>Holy Martyr Mamas</title>
+      <guid isPermaLink="false">patristic-nectar:3778</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-02&amp;episode=holy-martyr-mamas</link>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Martyr Mamas</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Martyr Mamas</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-sept-saint-mamas.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-mamas.mp3" length="10934856" type="audio/mpeg" />
+      <itunes:duration>00:04:33</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-mamas.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Venerable and God-Bearing Father Symeon the Stylite</title>
-      <guid isPermaLink="false">patristic-nectar:3776</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=our-venerable-and-god-bearing-father-symeon-the-stylite</link>
-      <pubDate>Tue, 01 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Venerable and God-Bearing Father Symeon the Stylite</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Venerable and God-Bearing Father Symeon the Stylite</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-saint-symeon-the-stylite.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-and-god-bearing-father-symeon-the-stylite.mp3" length="23300178" type="audio/mpeg" />
-      <itunes:duration>00:09:43</itunes:duration>
-    </item>
-    <item>
-      <title>Righteous Joshua, Son of Nun</title>
-      <guid isPermaLink="false">patristic-nectar:3777</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-01&amp;episode=righteous-joshua-son-of-nun</link>
-      <pubDate>Tue, 01 Sep 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Righteous Joshua, Son of Nun</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Righteous Joshua, Son of Nun</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-sept-holy-righteous-joshua.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-joshua-son-of-nun.mp3" length="12248293" type="audio/mpeg" />
-      <itunes:duration>00:05:06</itunes:duration>
+      <title>Holy Father John the Faster, Patriarch of Constantinople</title>
+      <guid isPermaLink="false">patristic-nectar:3779</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-02&amp;episode=holy-father-john-the-faster-patriarch-of-constantinople</link>
+      <pubDate>Wed, 02 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Father John the Faster, Patriarch of Constantinople</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Father John the Faster, Patriarch of Constantinople</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-sept-saint-john-the-faster.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-john-the-faster-patriarch-of-constantinople.mp3" length="8912978" type="audio/mpeg" />
+      <itunes:duration>00:03:43</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-john-the-faster-patriarch-of-constantinople.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
