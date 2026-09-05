@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:01:57 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-sept-saint-anthimos.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/03-sept-saint-anthimos.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Anthimos of Nicomedia</title>
-      <guid isPermaLink="false">patristic-nectar:5233</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-03&amp;episode=sy090305</link>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Hieromartyr Anthimos of Nicomedia</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Holy Hieromartyr Anthimos of Nicomedia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-sept-saint-anthimos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy090305.mp3" length="5667525" type="audio/mpeg" />
-      <itunes:duration>00:02:22</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy090305.vtt" type="text/vtt" />
+      <title>Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</title>
+      <guid isPermaLink="false">patristic-nectar:3787</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-05&amp;episode=ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner</link>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner.mp3" length="12799999" type="audio/mpeg" />
+      <itunes:duration>00:05:20</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Venerable Father Theoctistus, Fellow Ascetic of Saint Euthymius the Great</title>
-      <guid isPermaLink="false">patristic-nectar:5232</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-03&amp;episode=sy090304</link>
-      <pubDate>Thu, 03 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Venerable Father Theoctistus, Fellow Ascetic of Saint Euthymius the Great</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Venerable Father Theoctistus, Fellow Ascetic of Saint Euthymius the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-sept-saint-theoctistus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy090304.mp3" length="10531525" type="audio/mpeg" />
-      <itunes:duration>00:04:23</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy090304.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Our Holy Father Joannicius, Archbishop and First Patriarch of Serbia</title>
-      <guid isPermaLink="false">patristic-nectar:5231</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-03&amp;episode=sy090303</link>
-      <pubDate>Thu, 03 Sep 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Holy Father Joannicius, Archbishop and First Patriarch of Serbia</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Our Holy Father Joannicius, Archbishop and First Patriarch of Serbia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-sept-saint-joannicus-of-serbia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy090303.mp3" length="9017468" type="audio/mpeg" />
-      <itunes:duration>00:03:45</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy090303.vtt" type="text/vtt" />
+      <title>The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</title>
+      <guid isPermaLink="false">patristic-nectar:3788</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-05&amp;episode=the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk</link>
+      <pubDate>Sat, 05 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-saint-athanasius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk.mp3" length="17059003" type="audio/mpeg" />
+      <itunes:duration>00:07:06</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
