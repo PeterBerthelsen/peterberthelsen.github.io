@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:01:13 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/06-sept-hieromartyr-maximus.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/06-sept-hieromartyr-maximus.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</title>
-      <guid isPermaLink="false">patristic-nectar:3787</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-05&amp;episode=ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner</link>
-      <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;Ss. Zacharias the Prophet and Elizabeth, the Parents of the Forerunner</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-ss-zacharias-and-elizabeth.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner.mp3" length="12799999" type="audio/mpeg" />
-      <itunes:duration>00:05:20</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/ss-zacharias-the-prophet-and-elizabeth-the-parents-of-the-forerunner.vtt" type="text/vtt" />
+      <title>Holy New Hieromartyr Maximus Sandovich of Poland</title>
+      <guid isPermaLink="false">patristic-nectar:3789</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-06&amp;episode=holy-new-hieromartyr-maximus-sandovich-of-poland</link>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy New Hieromartyr Maximus Sandovich of Poland</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy New Hieromartyr Maximus Sandovich of Poland</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/06-sept-hieromartyr-maximus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-hieromartyr-maximus-sandovich-of-poland.mp3" length="12956733" type="audio/mpeg" />
+      <itunes:duration>00:05:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-hieromartyr-maximus-sandovich-of-poland.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</title>
-      <guid isPermaLink="false">patristic-nectar:3788</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-05&amp;episode=the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk</link>
-      <pubDate>Sat, 05 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Baskerville; font-size: 14.0pt;"&gt;The Holy Hieromartyr Athanasius, Abbot of the Monastery of St. Symeon the Stylite at Brest-Litovsk</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-sept-saint-athanasius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk.mp3" length="17059003" type="audio/mpeg" />
-      <itunes:duration>00:07:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-hieromartyr-athanasius-abbot-of-the-monastery-of-st-symeon-the-stylite-at-brest-litovsk.vtt" type="text/vtt" />
+      <title>Commemoration of the Miracle of the Archangel Michael in Colossae</title>
+      <guid isPermaLink="false">patristic-nectar:3790</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-06&amp;episode=commemoration-of-the-miracle-of-the-archangel-michael-in-colossae</link>
+      <pubDate>Sun, 06 Sep 2026 06:01:00 +0000</pubDate>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/06-sept-miracle-of-the-archangel-michael-in-colossae.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/commemoration-of-the-miracle-of-the-archangel-michael-in-colossae.mp3" length="8733256" type="audio/mpeg" />
+      <itunes:duration>00:03:38</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/commemoration-of-the-miracle-of-the-archangel-michael-in-colossae.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
