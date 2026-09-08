@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-07",
-  "collection_name": "September 7th",
+  "date": "2026-09-08",
+  "collection_name": "September 8th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-09-07",
-      "collection_name": "September 7th",
-      "content_id": 5238,
-      "content_name": "Holy Martyr Sozon",
-      "content_slug": "sy090701",
-      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Holy Martyr Sozon</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/07-sept-saint-sozon.jpg",
+      "date": "2026-09-08",
+      "collection_name": "September 8th",
+      "content_id": 5239,
+      "content_name": "Nativity of the Theotokos",
+      "content_slug": "sy090801",
+      "description_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Nativity of the Theotokos</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/08-sept-nativity-of-the-theotokos.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 6797060,
-      "duration_seconds": 170,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy090701.vtt",
+      "audio_bytes": 21359803,
+      "duration_seconds": 534,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy090801.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "sy090701.vtt",
-      "transcript_text_file_name": "sy090701.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/sep-07-holy-martyr-sozon.mp3?token=8COV6J551zNMuGWIa9SbSLnLMn27ZVGMeQe_z9ieBkc&expires=1788778840"
+      "local_transcript_file_name": "sy090801.vtt",
+      "transcript_text_file_name": "sy090801.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/sep-08-nativity-of-the-theotokos.mp3?token=GIP3EJg1-C3HoSXq6TncLk3w7srseIzm-eOKX_zh2sQ&expires=1788865262"
     }
   ]
 }
