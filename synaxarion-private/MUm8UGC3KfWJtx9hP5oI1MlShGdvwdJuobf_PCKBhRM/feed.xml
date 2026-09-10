@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:01:37 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,59 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-saints-joachim-and-anna.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-saints-joachim-and-anna.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Synaxis of Righteous Joachim and Anna, Ancestors of the Lord</title>
-      <guid isPermaLink="false">patristic-nectar:3793</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-09&amp;episode=synaxis-of-righteous-joachim-and-anna-ancestors-of-the-lord</link>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Synaxis of Righteous Joachim and Anna, Ancestors of the Lord</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Synaxis of Righteous Joachim and Anna, Ancestors of the Lord</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-saints-joachim-and-anna.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/synaxis-of-righteous-joachim-and-anna-ancestors-of-the-lord.mp3" length="2552684" type="audio/mpeg" />
-      <itunes:duration>00:01:04</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/synaxis-of-righteous-joachim-and-anna-ancestors-of-the-lord.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Great Martyr Severian of Sebaste</title>
-      <guid isPermaLink="false">patristic-nectar:3794</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-09&amp;episode=holy-great-martyr-severian-of-sebaste</link>
-      <pubDate>Wed, 09 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Severian of Sebaste</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Severian of Sebaste</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-saint-severian.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-severian-of-sebaste.mp3" length="8198268" type="audio/mpeg" />
+      <title>Holy Martyrs Menodora, Metrodora and Nymphodora</title>
+      <guid isPermaLink="false">patristic-nectar:3797</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-10&amp;episode=holy-martyrs-menodora-metrodora-and-nymphodora</link>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Menodora, Metrodora and Nymphodora</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Menodora, Metrodora and Nymphodora</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-menodora-metrodora-and-nymphodora.mp3" length="8250513" type="audio/mpeg" />
       <itunes:duration>00:00:00</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-severian-of-sebaste.vtt" type="text/vtt" />
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-menodora-metrodora-and-nymphodora.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Memory of the 200 Holy and God-Bearing Fathers of the Third Ecumenical Council in Ephesus in 431</title>
-      <guid isPermaLink="false">patristic-nectar:3795</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-09&amp;episode=memory-of-the-200-holy-and-god-bearing-fathers-of-the-third-ecumenical-council-in-ephesus-in-431</link>
-      <pubDate>Wed, 09 Sep 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Memory of the 200 Holy and God-Bearing Fathers of the Third Ecumenical Council in Ephesus in 431</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Memory of the 200 Holy and God-Bearing Fathers of the Third Ecumenical Council in Ephesus in 431</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-fathers-of-the-3rd-ecumenical-council.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/memory-of-the-200-holy-and-god-bearing-fathers-of-the-third-ecumenical-council-in-ephesus-in-431.mp3" length="5107460" type="audio/mpeg" />
-      <itunes:duration>00:02:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/memory-of-the-200-holy-and-god-bearing-fathers-of-the-third-ecumenical-council-in-ephesus-in-431.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Our Holy Father Joseph of Volokolamsk</title>
-      <guid isPermaLink="false">patristic-nectar:3796</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-09&amp;episode=our-holy-father-joseph-of-volokolamsk</link>
-      <pubDate>Wed, 09 Sep 2026 06:03:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Joseph of Volokolamsk</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Joseph of Volokolamsk</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-sept-saint-joseph-of-volokolamsk.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-joseph-of-volokolamsk.mp3" length="15096684" type="audio/mpeg" />
-      <itunes:duration>00:00:00</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-joseph-of-volokolamsk.vtt" type="text/vtt" />
+      <title>Most Pious Empress Pulcheria</title>
+      <guid isPermaLink="false">patristic-nectar:3798</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-10&amp;episode=most-pious-empress-pulcheria</link>
+      <pubDate>Thu, 10 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Most Pious Empress Pulcheria</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Most Pious Empress Pulcheria</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-saint-pulcheria.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/most-pious-empress-pulcheria.mp3" length="5712456" type="audio/mpeg" />
+      <itunes:duration>00:02:23</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/most-pious-empress-pulcheria.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
