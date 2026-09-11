@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:02:42 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,59 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-theodora-of-alexandria.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-theodora-of-alexandria.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Menodora, Metrodora and Nymphodora</title>
-      <guid isPermaLink="false">patristic-nectar:3797</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-10&amp;episode=holy-martyrs-menodora-metrodora-and-nymphodora</link>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Menodora, Metrodora and Nymphodora</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Martyrs Menodora, Metrodora and Nymphodora</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-martyrs-menodora-metrodora-nymphodora.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-menodora-metrodora-and-nymphodora.mp3" length="8250513" type="audio/mpeg" />
-      <itunes:duration>00:00:00</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-menodora-metrodora-and-nymphodora.vtt" type="text/vtt" />
+      <title>Righteous Mother Theodora of Alexandria</title>
+      <guid isPermaLink="false">patristic-nectar:3799</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-11&amp;episode=righteous-mother-theodora-of-alexandria</link>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Righteous Mother Theodora of Alexandria</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Righteous Mother Theodora of Alexandria</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-theodora-of-alexandria.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-theodora-of-alexandria.mp3" length="11813615" type="audio/mpeg" />
+      <itunes:duration>00:04:55</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-theodora-of-alexandria.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Most Pious Empress Pulcheria</title>
-      <guid isPermaLink="false">patristic-nectar:3798</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-10&amp;episode=most-pious-empress-pulcheria</link>
-      <pubDate>Thu, 10 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Most Pious Empress Pulcheria</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Most Pious Empress Pulcheria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-sept-saint-pulcheria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/most-pious-empress-pulcheria.mp3" length="5712456" type="audio/mpeg" />
-      <itunes:duration>00:02:23</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/most-pious-empress-pulcheria.vtt" type="text/vtt" />
+      <title>Our Holy Father Euphrosynos the Cook</title>
+      <guid isPermaLink="false">patristic-nectar:3800</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-11&amp;episode=our-holy-father-euphrosynos-the-cook</link>
+      <pubDate>Fri, 11 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Euphrosynos the Cook</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Our Holy Father Euphrosynos the Cook</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-euphrosynos-the-cook.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-euphrosynos-the-cook.mp3" length="9119868" type="audio/mpeg" />
+      <itunes:duration>00:03:48</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-euphrosynos-the-cook.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Venerable Father Elias the Cave-Dweller</title>
+      <guid isPermaLink="false">patristic-nectar:3801</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-11&amp;episode=venerable-father-elias-the-cave-dweller</link>
+      <pubDate>Fri, 11 Sep 2026 06:02:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.980111);"&gt;Venerable Father Elias the Cave&lt;/span&gt;&lt;span style="left: 416.808px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 420.45px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.0132);"&gt;Dweller&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.980111);"&gt;Venerable Father Elias the Cave&lt;/span&gt;&lt;span style="left: 416.808px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 420.45px; top: 595.181px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.0132);"&gt;Dweller&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-elias-the-cavedweller.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-elias-the-cave-dweller.mp3" length="26379493" type="audio/mpeg" />
+      <itunes:duration>00:10:59</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-elias-the-cave-dweller.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>St. Deiniol of Wales</title>
+      <guid isPermaLink="false">patristic-nectar:3802</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-11&amp;episode=st-deiniol-of-wales</link>
+      <pubDate>Fri, 11 Sep 2026 06:03:00 +0000</pubDate>
+      <description>St. Deiniol of Wales</description>
+      <itunes:summary>St. Deiniol of Wales</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-sept-saint-deiniol-of-wales.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-deiniol-of-wales.mp3" length="3910007" type="audio/mpeg" />
+      <itunes:duration>00:01:38</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-deiniol-of-wales.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
