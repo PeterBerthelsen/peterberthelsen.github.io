@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:00:45 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-sept-pious-empress-placilla.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/14-sept-pious-empress-placilla.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Pious Empress Placilla, Wife of the Emperor of Theodosios the Great</title>
-      <guid isPermaLink="false">patristic-nectar:3807</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-14&amp;episode=pious-empress-placilla-wife-of-the-emperor-of-theodosios-the-great</link>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Pious Empress Placilla, Wife of the Emperor of Theodosios the Great</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Pious Empress Placilla, Wife of the Emperor of Theodosios the Great</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-sept-pious-empress-placilla.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/pious-empress-placilla-wife-of-the-emperor-of-theodosios-the-great.mp3" length="5708276" type="audio/mpeg" />
-      <itunes:duration>00:02:23</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/pious-empress-placilla-wife-of-the-emperor-of-theodosios-the-great.vtt" type="text/vtt" />
+      <title>St. Symeon, Archbishop of Thessalonica</title>
+      <guid isPermaLink="false">patristic-nectar:3810</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-15&amp;episode=st-symeon-archbishop-of-thessalonica</link>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Symeon, Archbishop of Thessalonica</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Symeon, Archbishop of Thessalonica</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-symeon-archbishop-of-thessalonica.mp3" length="10580635" type="audio/mpeg" />
+      <itunes:duration>00:04:25</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-symeon-archbishop-of-thessalonica.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>170 Holy Fathers of the Sixth Ecumenical Council in Constantinople in 680</title>
-      <guid isPermaLink="false">patristic-nectar:3808</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-14&amp;episode=170-holy-fathers-of-the-sixth-ecumenical-council-in-constantinople-in-680</link>
-      <pubDate>Mon, 14 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;170 Holy Fathers of the Sixth Ecumenical Council in Constantinople in 680</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;170 Holy Fathers of the Sixth Ecumenical Council in Constantinople in 680</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-sept-6th-ecumenical-council.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/170-holy-fathers-of-the-sixth-ecumenical-council-in-constantinople-in-680.mp3" length="7465795" type="audio/mpeg" />
+      <title>Holy Great Martyr Niketas the Goth</title>
+      <guid isPermaLink="false">patristic-nectar:3811</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-15&amp;episode=holy-great-martyr-niketas-the-goth</link>
+      <pubDate>Tue, 15 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Niketas the Goth</description>
+      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Niketas the Goth</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-niketas-the-goth.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-niketas-the-goth.mp3" length="7483558" type="audio/mpeg" />
       <itunes:duration>00:03:07</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/170-holy-fathers-of-the-sixth-ecumenical-council-in-constantinople-in-680.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Exaltation of the Precious and Life-Giving Cross</title>
-      <guid isPermaLink="false">patristic-nectar:3809</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-14&amp;episode=exaltation-of-the-precious-and-life-giving-cross</link>
-      <pubDate>Mon, 14 Sep 2026 06:02:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Exaltation of the Precious and Life-Giving Cross</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Exaltation of the Precious and Life-Giving Cross</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-sept-exaltation-of-the-cross.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/exaltation-of-the-precious-and-life-giving-cross.mp3" length="9468864" type="audio/mpeg" />
-      <itunes:duration>00:03:57</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/exaltation-of-the-precious-and-life-giving-cross.vtt" type="text/vtt" />
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-niketas-the-goth.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
