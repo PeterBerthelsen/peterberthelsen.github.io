@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:04:14 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,71 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-euphemia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-euphemia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>St. Symeon, Archbishop of Thessalonica</title>
-      <guid isPermaLink="false">patristic-nectar:3810</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-15&amp;episode=st-symeon-archbishop-of-thessalonica</link>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Symeon, Archbishop of Thessalonica</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;St. Symeon, Archbishop of Thessalonica</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-symeon-of-thessalonica.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-symeon-archbishop-of-thessalonica.mp3" length="10580635" type="audio/mpeg" />
-      <itunes:duration>00:04:25</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-symeon-archbishop-of-thessalonica.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Euphemia the All Famed</title>
+      <guid isPermaLink="false">patristic-nectar:5250</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-16&amp;episode=sy091601</link>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Euphemia the All Famed</description>
+      <itunes:summary>Holy Great Martyr Euphemia the All Famed</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-euphemia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy091601.mp3" length="11180407" type="audio/mpeg" />
+      <itunes:duration>00:04:40</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy091601.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Great Martyr Niketas the Goth</title>
-      <guid isPermaLink="false">patristic-nectar:3811</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-15&amp;episode=holy-great-martyr-niketas-the-goth</link>
-      <pubDate>Tue, 15 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Niketas the Goth</description>
-      <itunes:summary>&lt;p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"&gt;Holy Great Martyr Niketas the Goth</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-sept-saint-niketas-the-goth.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-niketas-the-goth.mp3" length="7483558" type="audio/mpeg" />
-      <itunes:duration>00:03:07</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-niketas-the-goth.vtt" type="text/vtt" />
+      <title>Holy Martyr Ludmilla, Princess of the Czechs</title>
+      <guid isPermaLink="false">patristic-nectar:3813</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-16&amp;episode=holy-martyr-ludmilla-princess-of-the-czechs</link>
+      <pubDate>Wed, 16 Sep 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Ludmilla, Princess of the Czechs</description>
+      <itunes:summary>Holy Martyr Ludmilla, Princess of the Czechs</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-ludmilla-princess-of-the-czechs.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-ludmilla-princess-of-the-czechs.mp3" length="5947558" type="audio/mpeg" />
+      <itunes:duration>00:02:29</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-ludmilla-princess-of-the-czechs.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Our Holy Father Cyprian, Metropolitan of Kiev and All Russia</title>
+      <guid isPermaLink="false">patristic-nectar:3814</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-16&amp;episode=our-holy-father-cyprian-metropolitan-of-kiev-and-all-russia</link>
+      <pubDate>Wed, 16 Sep 2026 06:02:00 +0000</pubDate>
+      <description>Our Holy Father Cyprian, Metropolitan of Kiev and All Russia</description>
+      <itunes:summary>Our Holy Father Cyprian, Metropolitan of Kiev and All Russia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/saintcypriansept16.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-cyprian-metropolitan-of-kiev-and-all-russia.mp3" length="30430562" type="audio/mpeg" />
+      <itunes:duration>00:12:41</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-cyprian-metropolitan-of-kiev-and-all-russia.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Father Ninian, Apostle to the Picts</title>
+      <guid isPermaLink="false">patristic-nectar:3815</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-16&amp;episode=holy-father-ninian-apostle-to-the-picts</link>
+      <pubDate>Wed, 16 Sep 2026 06:03:00 +0000</pubDate>
+      <description>Holy Father Ninian, Apostle to the Picts</description>
+      <itunes:summary>Holy Father Ninian, Apostle to the Picts</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-ninian.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-ninian-apostle-to-the-picts.mp3" length="5769925" type="audio/mpeg" />
+      <itunes:duration>00:02:24</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-ninian-apostle-to-the-picts.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Hieromartyr Cyprian of Carthage</title>
+      <guid isPermaLink="false">patristic-nectar:3816</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-16&amp;episode=holy-hieromartyr-cyprian-of-carthage</link>
+      <pubDate>Wed, 16 Sep 2026 06:04:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 201.579px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02509);"&gt;Holy Hieromartyr Cyprian of Carthage&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 201.579px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02509);"&gt;Holy Hieromartyr Cyprian of Carthage&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-sept-saint-cyprian-of-carthage.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-cyprian-of-carthage.mp3" length="19623182" type="audio/mpeg" />
+      <itunes:duration>00:08:11</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-cyprian-of-carthage.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
