@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:01:11 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-sept-saint-sophia-and-her-daughters.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/17-sept-saint-sophia-and-her-daughters.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Virgin Martyrs Faith, Hope, and Love, and Their Mother Sophia</title>
-      <guid isPermaLink="false">patristic-nectar:5255</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-17&amp;episode=sy091701</link>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 +0000</pubDate>
-      <description>Holy Virgin Martyrs Faith, Hope, and Love, and Their Mother Sophia</description>
-      <itunes:summary>Holy Virgin Martyrs Faith, Hope, and Love, and Their Mother Sophia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-sept-saint-sophia-and-her-daughters.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="9387362" type="audio/mpeg" />
-      <itunes:duration>00:03:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy091701.vtt" type="text/vtt" />
+      <title>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</title>
+      <guid isPermaLink="false">patristic-nectar:3818</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-18&amp;episode=righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna</link>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</description>
+      <itunes:summary>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="4774137" type="audio/mpeg" />
+      <itunes:duration>00:01:59</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
