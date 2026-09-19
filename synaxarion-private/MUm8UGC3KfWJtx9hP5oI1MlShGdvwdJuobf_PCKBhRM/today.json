@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-18",
-  "collection_name": "September 18th",
+  "date": "2026-09-19",
+  "collection_name": "September 19th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-09-18",
-      "collection_name": "September 18th",
-      "content_id": 3818,
-      "content_name": "Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna",
-      "content_slug": "righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna",
-      "description_html": "<p>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg",
+      "date": "2026-09-19",
+      "collection_name": "September 19th",
+      "content_id": 3819,
+      "content_name": "Holy Father Theodore of Tarsus, Archbishop of Canterbury",
+      "content_slug": "holy-father-theodore-of-tarsus-archbishop-of-canterbury",
+      "description_html": "<p>Holy Father Theodore of Tarsus, Archbishop of Canterbury</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/19-sept-saint-theodore-archbishop-of-canterbury.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 4774137,
-      "duration_seconds": 119,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.vtt",
+      "audio_bytes": 8796995,
+      "duration_seconds": 220,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-theodore-of-tarsus-archbishop-of-canterbury.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.vtt",
-      "transcript_text_file_name": "righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/sep-18-righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.mp3?token=J3b0huoepRDS8gyD0FLhuP8UoLozWaDHyfN8RgYxtSA&expires=1789729255"
+      "local_transcript_file_name": "holy-father-theodore-of-tarsus-archbishop-of-canterbury.vtt",
+      "transcript_text_file_name": "holy-father-theodore-of-tarsus-archbishop-of-canterbury.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/sep-19-our-holy-father-theodore-of-tarsus-archbishop-of-canterbury.mp3?token=N9Mk0Fb3l8TOp9dcMk-_a9ZVYSJ7B8UbJSV8lNjAqbQ&expires=1789815660"
     }
   ]
 }

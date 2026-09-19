@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:01:20 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-sept-saint-theodore-archbishop-of-canterbury.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/19-sept-saint-theodore-archbishop-of-canterbury.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</title>
-      <guid isPermaLink="false">patristic-nectar:3818</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-18&amp;episode=righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna</link>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
-      <description>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</description>
-      <itunes:summary>Righteous Father Eumenius the Wonder-Worker, Bishop of Gortyna</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-sept-saint-eumenius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="4774137" type="audio/mpeg" />
-      <itunes:duration>00:01:59</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-eumenius-the-wonder-worker-bishop-of-gortyna.vtt" type="text/vtt" />
+      <title>Holy Father Theodore of Tarsus, Archbishop of Canterbury</title>
+      <guid isPermaLink="false">patristic-nectar:3819</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-19&amp;episode=holy-father-theodore-of-tarsus-archbishop-of-canterbury</link>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Theodore of Tarsus, Archbishop of Canterbury</description>
+      <itunes:summary>Holy Father Theodore of Tarsus, Archbishop of Canterbury</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-sept-saint-theodore-archbishop-of-canterbury.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="8796995" type="audio/mpeg" />
+      <itunes:duration>00:03:40</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-theodore-of-tarsus-archbishop-of-canterbury.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
