@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:02:19 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-sept-holy-new-martyr-john-of-epirus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-sept-saint-thekla-equal-to-the-apostles.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/23-sept-holy-new-martyr-john-of-epirus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/24-sept-saint-thekla-equal-to-the-apostles.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy New Martyr John of Epirus</title>
-      <guid isPermaLink="false">patristic-nectar:3825</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-23&amp;episode=holy-new-martyr-john-of-epirus</link>
-      <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 344.954px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02647);"&gt;Holy New Martyr John of &lt;/span&gt;&lt;span style="left: 72.2604px; top: 442.283px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996647);"&gt;Epirus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 344.954px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02647);"&gt;Holy New Martyr John of &lt;/span&gt;&lt;span style="left: 72.2604px; top: 442.283px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996647);"&gt;Epirus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-sept-holy-new-martyr-john-of-epirus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-john-of-epirus.mp3" length="8635035" type="audio/mpeg" />
-      <itunes:duration>00:03:36</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-john-of-epirus.vtt" type="text/vtt" />
+      <title>Holy and Great Proto-martyr Thekla, Equal to the Apostles</title>
+      <guid isPermaLink="false">patristic-nectar:3828</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-24&amp;episode=holy-and-great-proto-martyr-thekla-equal-to-the-apostles</link>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.993503);"&gt;Holy and Great Proto&lt;/span&gt;&lt;span style="left: 274.126px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 278.523px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00196);"&gt;martyr Thekla, Equal to the Apostles&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.993503);"&gt;Holy and Great Proto&lt;/span&gt;&lt;span style="left: 274.126px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 278.523px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00196);"&gt;martyr Thekla, Equal to the Apostles&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-sept-saint-thekla-equal-to-the-apostles.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-and-great-proto-martyr-thekla-equal-to-the-apostles.mp3" length="21685811" type="audio/mpeg" />
+      <itunes:duration>00:09:02</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-great-proto-martyr-thekla-equal-to-the-apostles.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy New Martyr Nicolas the Grocer</title>
-      <guid isPermaLink="false">patristic-nectar:3826</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-23&amp;episode=holy-new-martyr-nicolas-the-grocer</link>
-      <pubDate>Wed, 23 Sep 2026 06:01:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 101.601px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01773);"&gt;Holy New Martyr Nicolas the Grocer&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 101.601px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01773);"&gt;Holy New Martyr Nicolas the Grocer&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-sept-holy-new-martyr-nicolas-the-grocer.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-nicolas-the-grocer.mp3" length="7243231" type="audio/mpeg" />
-      <itunes:duration>00:03:01</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-nicolas-the-grocer.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Conception of the Holy and Glorious Prophet, Forerunner and Baptist John</title>
-      <guid isPermaLink="false">patristic-nectar:3827</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-23&amp;episode=conception-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john</link>
-      <pubDate>Wed, 23 Sep 2026 06:02:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 405.293px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996868);"&gt;Conception of th&lt;/span&gt;&lt;span style="left: 197.443px; top: 405.293px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.99866);"&gt;e Holy and Glorious Prophet, Forerunner and Baptist &lt;/span&gt;&lt;span style="left: 72.2604px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.964721);"&gt;John&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 405.293px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996868);"&gt;Conception of th&lt;/span&gt;&lt;span style="left: 197.443px; top: 405.293px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.99866);"&gt;e Holy and Glorious Prophet, Forerunner and Baptist &lt;/span&gt;&lt;span style="left: 72.2604px; top: 423.723px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.964721);"&gt;John&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-sept-conception-of-saint-john.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/conception-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.mp3" length="6367607" type="audio/mpeg" />
-      <itunes:duration>00:02:39</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/conception-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john.vtt" type="text/vtt" />
+      <title>Righteous Father Silouan the Athonite</title>
+      <guid isPermaLink="false">patristic-nectar:3829</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-24&amp;episode=righteous-father-silouan-the-athonite</link>
+      <pubDate>Thu, 24 Sep 2026 06:01:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 278.523px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00196);"&gt;Righteous &lt;/span&gt;&lt;span style="left: 87.4864px; top: 580.274px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01478);"&gt;Father Silouan the Athonite&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 278.523px; top: 557.948px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00196);"&gt;Righteous &lt;/span&gt;&lt;span style="left: 87.4864px; top: 580.274px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01478);"&gt;Father Silouan the Athonite&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-sept-saint-silouan-the-athonite.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-silouan-the-athonite.mp3" length="26127672" type="audio/mpeg" />
+      <itunes:duration>00:10:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-silouan-the-athonite.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
