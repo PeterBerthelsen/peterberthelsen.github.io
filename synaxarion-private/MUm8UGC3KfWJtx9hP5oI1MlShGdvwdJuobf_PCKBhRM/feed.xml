@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:02:18 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-sept-great-earthquake-and-miracle-of-the-trisagion.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/25-sept-great-earthquake-and-miracle-of-the-trisagion.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Commemoration of the Great Earthquake at Constantinople in 447, and of the Miracle of the Trisagion</title>
-      <guid isPermaLink="false">patristic-nectar:3830</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-25&amp;episode=commemoration-of-the-great-earthquake-at-constantinople-in-447-and-of-the-miracle-of-the-trisagion</link>
-      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 113.45px; top: 602.745px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00022);"&gt;Commemoration of the Great Earthquake at Constantinople in 447, and &lt;/span&gt;&lt;span style="left: 87.4864px; top: 625.059px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02208);"&gt;of the Miracle of the Trisagion&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 113.45px; top: 602.745px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00022);"&gt;Commemoration of the Great Earthquake at Constantinople in 447, and &lt;/span&gt;&lt;span style="left: 87.4864px; top: 625.059px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02208);"&gt;of the Miracle of the Trisagion&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-sept-great-earthquake-and-miracle-of-the-trisagion.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/commemoration-of-the-great-earthquake-at-constantinople-in-447-and-of-the-miracle-of-the-trisagion.mp3" length="11002774" type="audio/mpeg" />
-      <itunes:duration>00:04:35</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/commemoration-of-the-great-earthquake-at-constantinople-in-447-and-of-the-miracle-of-the-trisagion.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Righteous Father Sergius of Radonezh</title>
-      <guid isPermaLink="false">patristic-nectar:3831</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-25&amp;episode=righteous-father-sergius-of-radonezh</link>
-      <pubDate>Fri, 25 Sep 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Father Sergius of Radonezh</description>
-      <itunes:summary>Righteous Father Sergius of Radonezh</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/25-sept-saint-sergius-of-radonezh.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-sergius-of-radonezh.mp3" length="62547591" type="audio/mpeg" />
-      <itunes:duration>00:26:04</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-sergius-of-radonezh.vtt" type="text/vtt" />
+      <title>Holy and Glorious Apostle and Evangelist John the Theologian</title>
+      <guid isPermaLink="false">patristic-nectar:3832</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-26&amp;episode=holy-and-glorious-apostle-and-evangelist-john-the-theologian</link>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 647.53px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00124);"&gt;Holy and Glorious Apostle and Evangelist John the Theologian&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 647.53px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00124);"&gt;Holy and Glorious Apostle and Evangelist John the Theologian&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48525060" type="audio/mpeg" />
+      <itunes:duration>00:20:13</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-glorious-apostle-and-evangelist-john-the-theologian.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
