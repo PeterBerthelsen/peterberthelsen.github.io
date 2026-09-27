@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 09:01:39 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-sept-saint-sabbatius-of-solovki.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/27-sept-saint-sabbatius-of-solovki.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy and Glorious Apostle and Evangelist John the Theologian</title>
-      <guid isPermaLink="false">patristic-nectar:3832</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-26&amp;episode=holy-and-glorious-apostle-and-evangelist-john-the-theologian</link>
-      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 647.53px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00124);"&gt;Holy and Glorious Apostle and Evangelist John the Theologian&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 647.53px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00124);"&gt;Holy and Glorious Apostle and Evangelist John the Theologian&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/26-sept-apostle-john-the-theologian.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="48525060" type="audio/mpeg" />
-      <itunes:duration>00:20:13</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-and-glorious-apostle-and-evangelist-john-the-theologian.vtt" type="text/vtt" />
+      <title>Venerable Father Sabbatius, Founder of the Monastery of Solovki</title>
+      <guid isPermaLink="false">patristic-nectar:3833</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-27&amp;episode=venerable-father-sabbatius-founder-of-the-monastery-of-solovki</link>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Venerable Father Sabbatius, Founder of the Monastery of Solovki</description>
+      <itunes:summary>Venerable Father Sabbatius, Founder of the Monastery of Solovki</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-sept-saint-sabbatius-of-solovki.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-sabbatius-founder-of-the-monastery-of-solovki.mp3" length="14582595" type="audio/mpeg" />
+      <itunes:duration>00:06:05</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-sabbatius-founder-of-the-monastery-of-solovki.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Martyr Callistratus and the Holy 49 Martyrs With Him</title>
+      <guid isPermaLink="false">patristic-nectar:5269</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-09-27&amp;episode=sy092702</link>
+      <pubDate>Sun, 27 Sep 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyr Callistratus and the Holy 49 Martyrs With Him</description>
+      <itunes:summary>Holy Martyr Callistratus and the Holy 49 Martyrs With Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/27-sept-saint-callistratus.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/sy092702.mp3" length="10679901" type="audio/mpeg" />
+      <itunes:duration>00:04:27</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/sy092702.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
