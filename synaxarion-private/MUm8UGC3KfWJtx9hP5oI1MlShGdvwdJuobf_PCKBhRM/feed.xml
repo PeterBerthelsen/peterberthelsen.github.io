@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 09:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:00:28 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,83 +17,23 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-ananias.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-ananias.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Apostle Ananias</title>
-      <guid isPermaLink="false">patristic-nectar:3839</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=holy-apostle-ananias</link>
-      <pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Apostle Ananias</description>
-      <itunes:summary>Holy Apostle Ananias</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-ananias.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-ananias.mp3" length="4732342" type="audio/mpeg" />
-      <itunes:duration>00:01:58</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-ananias.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Saint Romanos the Melodist</title>
-      <guid isPermaLink="false">patristic-nectar:3840</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=saint-romanos-the-melodist</link>
-      <pubDate>Thu, 01 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Saint Romanos the Melodist</description>
-      <itunes:summary>Saint Romanos the Melodist</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-romanos-the-melodist.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/saint-romanos-the-melodist.mp3" length="6078170" type="audio/mpeg" />
-      <itunes:duration>00:02:32</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/saint-romanos-the-melodist.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Venerable John Koukouzelis the Chanter</title>
-      <guid isPermaLink="false">patristic-nectar:3841</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=venerable-john-koukouzelis-the-chanter</link>
-      <pubDate>Thu, 01 Oct 2026 06:02:00 +0000</pubDate>
-      <description>Venerable John Koukouzelis the Chanter</description>
-      <itunes:summary>Venerable John Koukouzelis the Chanter</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-john-koukouzelis-the-chanter.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-john-koukouzelis-the-chanter.mp3" length="9747852" type="audio/mpeg" />
-      <itunes:duration>00:04:04</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-john-koukouzelis-the-chanter.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>St. Gregory the Choir Master of the Great Lavra</title>
-      <guid isPermaLink="false">patristic-nectar:3842</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=st-gregory-the-choir-master-of-the-great-lavra</link>
-      <pubDate>Thu, 01 Oct 2026 06:03:00 +0000</pubDate>
-      <description>St. Gregory the Choir Master of the Great Lavra</description>
-      <itunes:summary>St. Gregory the Choir Master of the Great Lavra</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/saintgregorychoir1.png" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-gregory-the-choir-master-of-the-great-lavra.mp3" length="3600717" type="audio/mpeg" />
-      <itunes:duration>00:01:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-gregory-the-choir-master-of-the-great-lavra.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>The Holy Protection of the Most Holy Theotokos</title>
-      <guid isPermaLink="false">patristic-nectar:3843</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=the-holy-protection-of-the-most-holy-theotokos</link>
-      <pubDate>Thu, 01 Oct 2026 06:04:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.04068);"&gt;The Holy &lt;/span&gt;&lt;span style="left: 134.709px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00848);"&gt;Protection of the Most Holy Theotokos&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.04068);"&gt;The Holy &lt;/span&gt;&lt;span style="left: 134.709px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00848);"&gt;Protection of the Most Holy Theotokos&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-protection-of-the-theotokos.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/the-holy-protection-of-the-most-holy-theotokos.mp3" length="6485680" type="audio/mpeg" />
-      <itunes:duration>00:02:42</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/the-holy-protection-of-the-most-holy-theotokos.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Our Holy Father Remigius, Bishop of Rheims and Apostle to the Franks</title>
-      <guid isPermaLink="false">patristic-nectar:3844</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-01&amp;episode=our-holy-father-remigius-bishop-of-rheims-and-apostle-to-the-franks</link>
-      <pubDate>Thu, 01 Oct 2026 06:05:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 374.67px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02231);"&gt;Our Holy Father &lt;/span&gt;&lt;span style="left: 72.2604px; top: 169.344px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.989684);"&gt;Remigius, Bishop of Rheims and Apostle to &lt;/span&gt;&lt;span style="left: 343.318px; top: 169.344px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.987585);"&gt;the Franks&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 374.67px; top: 150.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02231);"&gt;Our Holy Father &lt;/span&gt;&lt;span style="left: 72.2604px; top: 169.344px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.989684);"&gt;Remigius, Bishop of Rheims and Apostle to &lt;/span&gt;&lt;span style="left: 343.318px; top: 169.344px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.987585);"&gt;the Franks&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/01-oct-saint-remigius.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-remigius-bishop-of-rheims-and-apostle-to-the-franks.mp3" length="14803068" type="audio/mpeg" />
-      <itunes:duration>00:06:10</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-remigius-bishop-of-rheims-and-apostle-to-the-franks.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Cyprian and Justina the Virgin</title>
+      <guid isPermaLink="false">patristic-nectar:3845</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-02&amp;episode=holy-hieromartyr-cyprian-and-justina-the-virgin</link>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 187.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02781);"&gt;Holy Hieromartyr Cyprian and Justina the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 187.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02781);"&gt;Holy Hieromartyr Cyprian and Justina the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="8850284" type="audio/mpeg" />
+      <itunes:duration>00:03:41</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-cyprian-and-justina-the-virgin.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
