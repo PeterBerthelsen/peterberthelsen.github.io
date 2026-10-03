@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:01:59 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Cyprian and Justina the Virgin</title>
-      <guid isPermaLink="false">patristic-nectar:3845</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-02&amp;episode=holy-hieromartyr-cyprian-and-justina-the-virgin</link>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 187.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02781);"&gt;Holy Hieromartyr Cyprian and Justina the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 187.784px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02781);"&gt;Holy Hieromartyr Cyprian and Justina the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/02-oct-saints-cyrprian-and-justina.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="8850284" type="audio/mpeg" />
-      <itunes:duration>00:03:41</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-cyprian-and-justina-the-virgin.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Dionysius the Areopagite</title>
+      <guid isPermaLink="false">patristic-nectar:3846</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-03&amp;episode=holy-hieromartyr-dionysius-the-areopagite</link>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Dionysius the Areopagite</description>
+      <itunes:summary>Holy Hieromartyr Dionysius the Areopagite</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-dionysius-the-areopagite.mp3" length="20971101" type="audio/mpeg" />
+      <itunes:duration>00:08:44</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-dionysius-the-areopagite.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</title>
+      <guid isPermaLink="false">patristic-nectar:3847</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-03&amp;episode=holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples</link>
+      <pubDate>Sat, 03 Oct 2026 06:01:00 +0000</pubDate>
+      <description>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</description>
+      <itunes:summary>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionsyius-bishop-of-alexandria.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples.mp3" length="9749942" type="audio/mpeg" />
+      <itunes:duration>00:04:04</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
