@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 09:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:01:49 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Dionysius the Areopagite</title>
-      <guid isPermaLink="false">patristic-nectar:3846</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-03&amp;episode=holy-hieromartyr-dionysius-the-areopagite</link>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Dionysius the Areopagite</description>
-      <itunes:summary>Holy Hieromartyr Dionysius the Areopagite</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionyios-the-aeropagite.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-dionysius-the-areopagite.mp3" length="20971101" type="audio/mpeg" />
-      <itunes:duration>00:08:44</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-dionysius-the-areopagite.vtt" type="text/vtt" />
+      <title>Holy Father Hierotheos, Bishop of Athens</title>
+      <guid isPermaLink="false">patristic-nectar:3848</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=holy-father-hierotheos-bishop-of-athens</link>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Father Hierotheos, Bishop of Athens</description>
+      <itunes:summary>Holy Father Hierotheos, Bishop of Athens</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-hierotheos-bishop-of-athens.mp3" length="4708309" type="audio/mpeg" />
+      <itunes:duration>00:01:58</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-hierotheos-bishop-of-athens.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</title>
-      <guid isPermaLink="false">patristic-nectar:3847</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-03&amp;episode=holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples</link>
-      <pubDate>Sat, 03 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</description>
-      <itunes:summary>Holy Hieromartyr Dionysius, Bishop of Alexandria and His Disciples</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/03-oct-saint-dionsyius-bishop-of-alexandria.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples.mp3" length="9749942" type="audio/mpeg" />
-      <itunes:duration>00:04:04</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-dionysius-bishop-of-alexandria-and-his-disciples.vtt" type="text/vtt" />
+      <title>St. Ammon the Egyptian</title>
+      <guid isPermaLink="false">patristic-nectar:3849</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=st-ammon-the-egyptian</link>
+      <pubDate>Sun, 04 Oct 2026 06:01:00 +0000</pubDate>
+      <description>St. Ammon the Egyptian</description>
+      <itunes:summary>St. Ammon the Egyptian</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-ammon-the-egyptian.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-ammon-the-egyptian.mp3" length="12237844" type="audio/mpeg" />
+      <itunes:duration>00:05:06</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-ammon-the-egyptian.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Hieromartyr Peter of Capitolia</title>
+      <guid isPermaLink="false">patristic-nectar:3850</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=holy-hieromartyr-peter-of-capitolia</link>
+      <pubDate>Sun, 04 Oct 2026 06:02:00 +0000</pubDate>
+      <description>Holy Hieromartyr Peter of Capitolia</description>
+      <itunes:summary>Holy Hieromartyr Peter of Capitolia</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-peter-of-capitolia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-peter-of-capitolia.mp3" length="8280815" type="audio/mpeg" />
+      <itunes:duration>00:03:27</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-peter-of-capitolia.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
