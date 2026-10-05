@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 09:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:01:25 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,47 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-oct-saint-gregory-of-khandzta.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/05-oct-saint-gregory-of-khandzta.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Father Hierotheos, Bishop of Athens</title>
-      <guid isPermaLink="false">patristic-nectar:3848</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=holy-father-hierotheos-bishop-of-athens</link>
-      <pubDate>Sun, 04 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Father Hierotheos, Bishop of Athens</description>
-      <itunes:summary>Holy Father Hierotheos, Bishop of Athens</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-hierotheos-bishop-of-athens.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-father-hierotheos-bishop-of-athens.mp3" length="4708309" type="audio/mpeg" />
-      <itunes:duration>00:01:58</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-father-hierotheos-bishop-of-athens.vtt" type="text/vtt" />
+      <title>Venerable Father Gregory of Khandzta in Georgia</title>
+      <guid isPermaLink="false">patristic-nectar:3851</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-05&amp;episode=venerable-father-gregory-of-khandzta-in-georgia</link>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 292.132px; top: 280.356px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996416);"&gt;Venerable Father Gregory of Khandzta &lt;/span&gt;&lt;span style="left: 72.2604px; top: 298.916px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01307);"&gt;in Georgia&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 292.132px; top: 280.356px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(0.996416);"&gt;Venerable Father Gregory of Khandzta &lt;/span&gt;&lt;span style="left: 72.2604px; top: 298.916px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.01307);"&gt;in Georgia&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-oct-saint-gregory-of-khandzta.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-father-gregory-of-khandzta-in-georgia.mp3" length="19614823" type="audio/mpeg" />
+      <itunes:duration>00:08:10</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-father-gregory-of-khandzta-in-georgia.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Ammon the Egyptian</title>
-      <guid isPermaLink="false">patristic-nectar:3849</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=st-ammon-the-egyptian</link>
-      <pubDate>Sun, 04 Oct 2026 06:01:00 +0000</pubDate>
-      <description>St. Ammon the Egyptian</description>
-      <itunes:summary>St. Ammon the Egyptian</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-ammon-the-egyptian.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-ammon-the-egyptian.mp3" length="12237844" type="audio/mpeg" />
-      <itunes:duration>00:05:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-ammon-the-egyptian.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Hieromartyr Peter of Capitolia</title>
-      <guid isPermaLink="false">patristic-nectar:3850</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-04&amp;episode=holy-hieromartyr-peter-of-capitolia</link>
-      <pubDate>Sun, 04 Oct 2026 06:02:00 +0000</pubDate>
-      <description>Holy Hieromartyr Peter of Capitolia</description>
-      <itunes:summary>Holy Hieromartyr Peter of Capitolia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/04-oct-saint-peter-of-capitolia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-hieromartyr-peter-of-capitolia.mp3" length="8280815" type="audio/mpeg" />
+      <title>Holy Martyr Charitina of Amisus</title>
+      <guid isPermaLink="false">patristic-nectar:3852</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-05&amp;episode=holy-martyr-charitina-of-amisus</link>
+      <pubDate>Mon, 05 Oct 2026 06:01:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 280.356px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.03298);"&gt;Holy Martyr Charitina of Amisus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 280.356px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.03298);"&gt;Holy Martyr Charitina of Amisus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/05-oct-saint-charitina.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-charitina-of-amisus.mp3" length="8277680" type="audio/mpeg" />
       <itunes:duration>00:03:27</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-peter-of-capitolia.vtt" type="text/vtt" />
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-charitina-of-amisus.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
