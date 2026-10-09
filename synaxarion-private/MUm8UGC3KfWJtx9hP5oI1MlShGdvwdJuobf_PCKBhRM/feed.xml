@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:01:54 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,59 +17,47 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-pelagia-the-penitent.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-oct-saints-andronicus-and-athanasia.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-pelagia-the-penitent.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/09-oct-saints-andronicus-and-athanasia.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Righteous Mother Pelagia the Penitent</title>
-      <guid isPermaLink="false">patristic-nectar:3856</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-08&amp;episode=righteous-mother-pelagia-the-penitent</link>
-      <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.989956);"&gt;Righteous Mother Pelagia the Penitent&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.989956);"&gt;Righteous Mother Pelagia the Penitent&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-pelagia-the-penitent.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-mother-pelagia-the-penitent.mp3" length="13663084" type="audio/mpeg" />
-      <itunes:duration>00:05:42</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-mother-pelagia-the-penitent.vtt" type="text/vtt" />
+      <title>Ss. Andronicus and Athanasia, His Wife</title>
+      <guid isPermaLink="false">patristic-nectar:3861</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-09&amp;episode=ss-andronicus-and-athanasia-his-wife</link>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 426.76px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.12782);"&gt;Ss. Andronicus and &lt;/span&gt;&lt;span style="left: 72.2604px; top: 444.197px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15032);"&gt;Athanasia, His Wife&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 426.76px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.12782);"&gt;Ss. Andronicus and &lt;/span&gt;&lt;span style="left: 72.2604px; top: 444.197px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15032);"&gt;Athanasia, His Wife&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-oct-saints-andronicus-and-athanasia.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/ss-andronicus-and-athanasia-his-wife.mp3" length="18788309" type="audio/mpeg" />
+      <itunes:duration>00:07:50</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/ss-andronicus-and-athanasia-his-wife.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Pelagia the Virgin</title>
-      <guid isPermaLink="false">patristic-nectar:3857</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-08&amp;episode=st-pelagia-the-virgin</link>
-      <pubDate>Thu, 08 Oct 2026 06:01:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 394.706px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.979197);"&gt;St. Pelagia the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 394.706px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.979197);"&gt;St. Pelagia the Virgin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-pelagia-the-virgin.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-pelagia-the-virgin.mp3" length="5123133" type="audio/mpeg" />
-      <itunes:duration>00:02:08</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-pelagia-the-virgin.vtt" type="text/vtt" />
+      <title>Holy Apostle James, Son of Alphaeus</title>
+      <guid isPermaLink="false">patristic-nectar:3862</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-09&amp;episode=holy-apostle-james-son-of-alphaeus</link>
+      <pubDate>Fri, 09 Oct 2026 06:01:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 426.76px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.12782);"&gt;Holy Apostle James, Son of Alphaeus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 72.2604px; top: 426.76px; font-size: 14.0458px; font-family: sans-serif; padding: 0px; transform: scaleX(1.12782);"&gt;Holy Apostle James, Son of Alphaeus&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/09-oct-holy-apostle-james.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-james-son-of-alphaeus.mp3" length="4622627" type="audio/mpeg" />
+      <itunes:duration>00:01:56</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-james-son-of-alphaeus.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>St. Thaïs the Repentant Harlot</title>
-      <guid isPermaLink="false">patristic-nectar:3858</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-08&amp;episode=st-thaandiumls-the-repentant-harlot</link>
-      <pubDate>Thu, 08 Oct 2026 06:02:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 394.706px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.979197);"&gt;St. Tha&lt;/span&gt;&lt;span style="left: 622.335px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px;"&gt;&amp;iuml;&lt;/span&gt;&lt;span style="left: 627.351px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.836192);"&gt;s &lt;/span&gt;&lt;span style="left: 87.4864px; top: 473.99px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02747);"&gt;the Repentant Harlot&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 394.706px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.979197);"&gt;St. Tha&lt;/span&gt;&lt;span style="left: 622.335px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px;"&gt;&amp;iuml;&lt;/span&gt;&lt;span style="left: 627.351px; top: 451.483px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.836192);"&gt;s &lt;/span&gt;&lt;span style="left: 87.4864px; top: 473.99px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02747);"&gt;the Repentant Harlot&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-thais.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/st-thaandiumls-the-repentant-harlot.mp3" length="9696652" type="audio/mpeg" />
-      <itunes:duration>00:04:02</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/st-thaandiumls-the-repentant-harlot.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy New Martyr, Monk Ignatius</title>
-      <guid isPermaLink="false">patristic-nectar:3859</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-08&amp;episode=holy-new-martyr-monk-ignatius</link>
-      <pubDate>Thu, 08 Oct 2026 06:03:00 +0000</pubDate>
-      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 473.99px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02747);"&gt;Holy New Martyr, Monk Ignatius&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
-      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 87.4864px; top: 473.99px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02747);"&gt;Holy New Martyr, Monk Ignatius&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-saint-ignatius-the-new-martyr.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-new-martyr-monk-ignatius.mp3" length="8418742" type="audio/mpeg" />
-      <itunes:duration>00:03:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-new-martyr-monk-ignatius.vtt" type="text/vtt" />
+      <title>Righteous Forefather Abraham and His Nephew Lot</title>
+      <guid isPermaLink="false">patristic-nectar:3860</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-09&amp;episode=righteous-forefather-abraham-and-his-nephew-lot</link>
+      <pubDate>Fri, 09 Oct 2026 06:02:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 127.722px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.998774);"&gt;Righteous Forefather Abraham an&lt;/span&gt;&lt;span style="left: 384.843px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02076);"&gt;d His&lt;/span&gt;&lt;span style="left: 428.717px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00253);"&gt;Nephew Lot&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 127.722px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(0.998774);"&gt;Righteous Forefather Abraham an&lt;/span&gt;&lt;span style="left: 384.843px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.02076);"&gt;d His&lt;/span&gt;&lt;span style="left: 428.717px; top: 518.775px; font-size: 17.0053px; font-family: sans-serif; padding: 0px; transform: scaleX(1.00253);"&gt;Nephew Lot&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/08-oct-righteous-forefather-abraham-and-lot.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-forefather-abraham-and-his-nephew-lot.mp3" length="13841762" type="audio/mpeg" />
+      <itunes:duration>00:05:46</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-forefather-abraham-and-his-nephew-lot.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
