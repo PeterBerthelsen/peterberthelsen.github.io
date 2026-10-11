@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:02:13 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,35 +17,59 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-oct-holy-martyrs-eulampius-and-eulampia.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-7th-ecumenical-council.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/10-oct-holy-martyrs-eulampius-and-eulampia.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-7th-ecumenical-council.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Eulampius and Eulampia</title>
-      <guid isPermaLink="false">patristic-nectar:3863</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-10&amp;episode=holy-martyrs-eulampius-and-eulampia</link>
-      <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs Eulampius and Eulampia</description>
-      <itunes:summary>Holy Martyrs Eulampius and Eulampia</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-oct-holy-martyrs-eulampius-and-eulampia.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-eulampius-and-eulampia.mp3" length="6705109" type="audio/mpeg" />
-      <itunes:duration>00:02:48</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-eulampius-and-eulampia.vtt" type="text/vtt" />
+      <title>11-17: Sunday of the Holy Fathers of the 7th Ecumenical Council</title>
+      <guid isPermaLink="false">patristic-nectar:3865</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-11&amp;episode=11-17-sunday-of-the-holy-fathers-of-the-7th-ecumenical-council</link>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.13124);"&gt;11&lt;/span&gt;&lt;span style="left: 316.332px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 326.449px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.04828);"&gt;17: Sund&lt;/span&gt;&lt;span style="left: 418.03px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15356);"&gt;ay of the Holy Fathers of the 7&lt;/span&gt;&lt;span style="left: 755.219px; top: 853.019px; font-size: 14.0294px; font-family: sans-serif; padding: 0px; transform: scaleX(1.27104);"&gt;th&lt;/span&gt;&lt;span style="left: 112.274px; top: 879.597px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17175);"&gt;Ecumenical Council&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.13124);"&gt;11&lt;/span&gt;&lt;span style="left: 316.332px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px;"&gt;-&lt;/span&gt;&lt;span style="left: 326.449px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.04828);"&gt;17: Sund&lt;/span&gt;&lt;span style="left: 418.03px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15356);"&gt;ay of the Holy Fathers of the 7&lt;/span&gt;&lt;span style="left: 755.219px; top: 853.019px; font-size: 14.0294px; font-family: sans-serif; padding: 0px; transform: scaleX(1.27104);"&gt;th&lt;/span&gt;&lt;span style="left: 112.274px; top: 879.597px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17175);"&gt;Ecumenical Council&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-7th-ecumenical-council.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/11-17-sunday-of-the-holy-fathers-of-the-7th-ecumenical-council.mp3" length="18917876" type="audio/mpeg" />
+      <itunes:duration>00:07:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/11-17-sunday-of-the-holy-fathers-of-the-7th-ecumenical-council.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Our Venerable and God bearing Father Ambrose of Optina</title>
-      <guid isPermaLink="false">patristic-nectar:3864</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-10&amp;episode=our-venerable-and-god-bearing-father-ambrose-of-optina</link>
-      <pubDate>Sat, 10 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Our Venerable and God bearing Father Ambrose of Optina</description>
-      <itunes:summary>Our Venerable and God bearing Father Ambrose of Optina</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/10-oct-saint-ambrose-of-optina.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-venerable-and-god-bearing-father-ambrose-of-optina.mp3" length="33448227" type="audio/mpeg" />
-      <itunes:duration>00:13:56</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-venerable-and-god-bearing-father-ambrose-of-optina.vtt" type="text/vtt" />
+      <title>Our Holy Father Philotheos Kokkinos, Patriarch of Constantinople</title>
+      <guid isPermaLink="false">patristic-nectar:3866</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-11&amp;episode=our-holy-father-philotheos-kokkinos-patriarch-of-constantinople</link>
+      <pubDate>Sun, 11 Oct 2026 06:01:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 825.397px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17123);"&gt;Our Holy Father Philotheos Kokkinos, Patriarch of &lt;/span&gt;&lt;span style="left: 112.274px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.13124);"&gt;Constantinople&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 825.397px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17123);"&gt;Our Holy Father Philotheos Kokkinos, Patriarch of &lt;/span&gt;&lt;span style="left: 112.274px; top: 852.521px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.13124);"&gt;Constantinople&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-saint-philotheos-patriarch-of-constantinople.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-philotheos-kokkinos-patriarch-of-constantinople.mp3" length="12804178" type="audio/mpeg" />
+      <itunes:duration>00:05:20</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-philotheos-kokkinos-patriarch-of-constantinople.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Our Holy Father Theophanes the Branded</title>
+      <guid isPermaLink="false">patristic-nectar:3867</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-11&amp;episode=our-holy-father-theophanes-the-branded</link>
+      <pubDate>Sun, 11 Oct 2026 06:02:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 798.305px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15651);"&gt;Our Holy Father Theophanes &lt;/span&gt;&lt;span style="left: 112.274px; top: 825.397px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17123);"&gt;the Branded&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 798.305px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15651);"&gt;Our Holy Father Theophanes &lt;/span&gt;&lt;span style="left: 112.274px; top: 825.397px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.17123);"&gt;the Branded&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-saint-theophanes-the-branded.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-theophanes-the-branded.mp3" length="12837615" type="audio/mpeg" />
+      <itunes:duration>00:05:21</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-theophanes-the-branded.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Apostle Philip the Deacon</title>
+      <guid isPermaLink="false">patristic-nectar:3868</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-11&amp;episode=holy-apostle-philip-the-deacon</link>
+      <pubDate>Sun, 11 Oct 2026 06:03:00 +0000</pubDate>
+      <description>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 798.305px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15651);"&gt; Holy Apostle Philip the Deacon&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <itunes:summary>&lt;span class="hotkey-layer "&gt;&lt;span class="hotkey-layer preview-overlay is-preview-sidebar-visible"&gt;&lt;span style="left: 112.274px; top: 798.305px; font-size: 21.8235px; font-family: sans-serif; padding: 0px; transform: scaleX(1.15651);"&gt; Holy Apostle Philip the Deacon&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/11-oct-apostle-philip-the-deacon.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-apostle-philip-the-deacon.mp3" length="5589158" type="audio/mpeg" />
+      <itunes:duration>00:02:20</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-philip-the-deacon.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
