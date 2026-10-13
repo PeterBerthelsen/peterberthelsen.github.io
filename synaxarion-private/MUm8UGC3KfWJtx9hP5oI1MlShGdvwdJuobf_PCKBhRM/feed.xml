@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:01:21 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -17,23 +17,35 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
-    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-oct-holy-martyrs-probus-tarachus-andronicus.jpg" />
+    <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-oct-holy-martyr-jacob-of-hamatoura.jpg" />
     <image>
-      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/12-oct-holy-martyrs-probus-tarachus-andronicus.jpg</url>
+      <url>https://ott-patristic-production-assets.b-cdn.net/assets/public/13-oct-holy-martyr-jacob-of-hamatoura.jpg</url>
       <title>Patristic Nectar Synaxarion</title>
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Probus, Tarachus, and Andronicus</title>
-      <guid isPermaLink="false">patristic-nectar:3869</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-12&amp;episode=holy-martyrs-probus-tarachus-and-andronicus</link>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs Probus, Tarachus, and Andronicus</description>
-      <itunes:summary>Holy Martyrs Probus, Tarachus, and Andronicus</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/12-oct-holy-martyrs-probus-tarachus-andronicus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="11512684" type="audio/mpeg" />
-      <itunes:duration>00:04:48</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-probus-tarachus-and-andronicus.vtt" type="text/vtt" />
+      <title>Holy Martyr Jacob of Hamatoura</title>
+      <guid isPermaLink="false">patristic-nectar:3870</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-13&amp;episode=holy-martyr-jacob-of-hamatoura</link>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Jacob of Hamatoura</description>
+      <itunes:summary>Holy Martyr Jacob of Hamatoura</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-oct-holy-martyr-jacob-of-hamatoura.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-jacob-of-hamatoura.mp3" length="20502986" type="audio/mpeg" />
+      <itunes:duration>00:08:33</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-jacob-of-hamatoura.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Holy Martyrs Karpos, Papylos, Agathodoros, and Agathonika at Pergamos</title>
+      <guid isPermaLink="false">patristic-nectar:3871</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-13&amp;episode=holy-martyrs-karpos-papylos-agathodoros-and-agathonika-at-pergamos</link>
+      <pubDate>Tue, 13 Oct 2026 06:01:00 +0000</pubDate>
+      <description>Holy Martyrs Karpos, Papylos, Agathodoros, and Agathonika at Pergamos</description>
+      <itunes:summary>Holy Martyrs Karpos, Papylos, Agathodoros, and Agathonika at Pergamos</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/13-oct-holy-martyrs-karpos-papylos-agathodoros-agathonika.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-karpos-papylos-agathodoros-and-agathonika-at-pergamos.mp3" length="12217991" type="audio/mpeg" />
+      <itunes:duration>00:05:05</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-karpos-papylos-agathodoros-and-agathonika-at-pergamos.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
