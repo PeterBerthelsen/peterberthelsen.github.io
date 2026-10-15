@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:01:38 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -24,40 +24,16 @@
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Martyrs Nazarios, Gervasios, Protasios, and Kelsos</title>
-      <guid isPermaLink="false">patristic-nectar:3872</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-14&amp;episode=holy-martyrs-nazarios-gervasios-protasios-and-kelsos</link>
-      <pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Martyrs Nazarios, Gervasios, Protasios, and Kelsos</description>
-      <itunes:summary>Holy Martyrs Nazarios, Gervasios, Protasios, and Kelsos</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-oct-martyrs-nazarios-gervasios-protasios-kosmas.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyrs-nazarios-gervasios-protasios-and-kelsos.mp3" length="11730023" type="audio/mpeg" />
-      <itunes:duration>00:04:53</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyrs-nazarios-gervasios-protasios-and-kelsos.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Righteous Father Kosmas the Hymnographer, Bishop of Maiuma</title>
-      <guid isPermaLink="false">patristic-nectar:3873</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-14&amp;episode=righteous-father-kosmas-the-hymnographer-bishop-of-maiuma</link>
-      <pubDate>Wed, 14 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Righteous Father Kosmas the Hymnographer, Bishop of Maiuma</description>
-      <itunes:summary>Righteous Father Kosmas the Hymnographer, Bishop of Maiuma</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-oct-saint-kosmas-the-hymnographer.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-father-kosmas-the-hymnographer-bishop-of-maiuma.mp3" length="5935019" type="audio/mpeg" />
-      <itunes:duration>00:02:28</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-father-kosmas-the-hymnographer-bishop-of-maiuma.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Our Holy Mother Parasceva the Younger</title>
-      <guid isPermaLink="false">patristic-nectar:3874</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-14&amp;episode=our-holy-mother-parasceva-the-younger</link>
-      <pubDate>Wed, 14 Oct 2026 06:02:00 +0000</pubDate>
-      <description>Our Holy Mother Parasceva the Younger</description>
-      <itunes:summary>Our Holy Mother Parasceva the Younger</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/14-oct-saint-parasceva-the-younger1.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-mother-parasceva-the-younger.mp3" length="7437582" type="audio/mpeg" />
-      <itunes:duration>00:03:06</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-mother-parasceva-the-younger.vtt" type="text/vtt" />
+      <title>Holy Hieromartyr Lucian of Antioch</title>
+      <guid isPermaLink="false">patristic-nectar:3875</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-15&amp;episode=holy-hieromartyr-lucian-of-antioch</link>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Hieromartyr Lucian of Antioch</description>
+      <itunes:summary>Holy Hieromartyr Lucian of Antioch</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-oct-hieromartyr-lucian-of-antioch.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="13198105" type="audio/mpeg" />
+      <itunes:duration>00:05:30</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-lucian-of-antioch.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
