@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-15",
-  "collection_name": "October 15th",
+  "date": "2026-10-16",
+  "collection_name": "October 16th",
   "entry_count": 1,
   "entries": [
     {
-      "date": "2026-10-15",
-      "collection_name": "October 15th",
-      "content_id": 3875,
-      "content_name": "Holy Hieromartyr Lucian of Antioch",
-      "content_slug": "holy-hieromartyr-lucian-of-antioch",
-      "description_html": "<p>Holy Hieromartyr Lucian of Antioch</p>",
-      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/15-oct-hieromartyr-lucian-of-antioch.jpg",
+      "date": "2026-10-16",
+      "collection_name": "October 16th",
+      "content_id": 3876,
+      "content_name": "Holy Martyr Longinos the Centurion",
+      "content_slug": "holy-martyr-longinos-the-centurion",
+      "description_html": "<p>Holy Martyr Longinos the Centurion</p>",
+      "image_url": "https://ott-patristic-production-assets.b-cdn.net/assets/public/16-oct-martyr-longinos-the-centurian.jpg",
       "audio_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3",
       "audio_file_name": "today.mp3",
       "mime": "audio/mpeg",
-      "audio_bytes": 13198105,
-      "duration_seconds": 330,
-      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-lucian-of-antioch.vtt",
+      "audio_bytes": 15451950,
+      "duration_seconds": 386,
+      "transcript_url": "https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-longinos-the-centurion.vtt",
       "transcript_mime": "text/vtt",
-      "local_transcript_file_name": "holy-hieromartyr-lucian-of-antioch.vtt",
-      "transcript_text_file_name": "holy-hieromartyr-lucian-of-antioch.txt",
-      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/oct-15-holy-hieromartyr-lucian-of-antioch.mp3?token=fduAqwyGj8_JCh3Q7_VKTGWHMivMS8IvmMWJnfK_OIU&expires=1792062059"
+      "local_transcript_file_name": "holy-martyr-longinos-the-centurion.vtt",
+      "transcript_text_file_name": "holy-martyr-longinos-the-centurion.txt",
+      "source_audio_url": "https://ott-patristic-production-assets.b-cdn.net/assets/private/oct-16-holy-martyr-longinos-the-centurion.mp3?token=tbw8zF-W8Vj01WXTYf2hYJpWK4HSmzHPByHh8Yyw3WU&expires=1792148409"
     }
   ]
 }

@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:00:52 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -24,16 +24,16 @@
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr Lucian of Antioch</title>
-      <guid isPermaLink="false">patristic-nectar:3875</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-15&amp;episode=holy-hieromartyr-lucian-of-antioch</link>
-      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr Lucian of Antioch</description>
-      <itunes:summary>Holy Hieromartyr Lucian of Antioch</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/15-oct-hieromartyr-lucian-of-antioch.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="13198105" type="audio/mpeg" />
-      <itunes:duration>00:05:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-lucian-of-antioch.vtt" type="text/vtt" />
+      <title>Holy Martyr Longinos the Centurion</title>
+      <guid isPermaLink="false">patristic-nectar:3876</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-16&amp;episode=holy-martyr-longinos-the-centurion</link>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Martyr Longinos the Centurion</description>
+      <itunes:summary>Holy Martyr Longinos the Centurion</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/16-oct-martyr-longinos-the-centurian.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="15451950" type="audio/mpeg" />
+      <itunes:duration>00:06:26</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-longinos-the-centurion.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
