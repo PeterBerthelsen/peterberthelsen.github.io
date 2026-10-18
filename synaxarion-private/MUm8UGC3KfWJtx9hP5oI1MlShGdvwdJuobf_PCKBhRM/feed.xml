@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:01:08 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -24,28 +24,16 @@
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Prophet Hosea</title>
-      <guid isPermaLink="false">patristic-nectar:3877</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-17&amp;episode=holy-prophet-hosea</link>
-      <pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Prophet Hosea</description>
-      <itunes:summary>Holy Prophet Hosea</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/hosea.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-hosea.mp3" length="8335150" type="audio/mpeg" />
-      <itunes:duration>00:03:28</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-hosea.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Holy Righteous Martyr Andrew in The Judgment</title>
-      <guid isPermaLink="false">patristic-nectar:3878</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-17&amp;episode=holy-righteous-martyr-andrew-in-the-judgment</link>
-      <pubDate>Sat, 17 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Holy Righteous Martyr Andrew in The Judgment</description>
-      <itunes:summary>Holy Righteous Martyr Andrew in The Judgment</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/17-oct-saint-andrew-in-the-judgement.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-righteous-martyr-andrew-in-the-judgment.mp3" length="9080162" type="audio/mpeg" />
-      <itunes:duration>00:03:47</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-righteous-martyr-andrew-in-the-judgment.vtt" type="text/vtt" />
+      <title>Holy Apostle and Evangelist Luke</title>
+      <guid isPermaLink="false">patristic-nectar:3879</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-18&amp;episode=holy-apostle-and-evangelist-luke</link>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Apostle and Evangelist Luke</description>
+      <itunes:summary>Holy Apostle and Evangelist Luke</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/18-oct-saint-luke.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="20248031" type="audio/mpeg" />
+      <itunes:duration>00:08:26</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-apostle-and-evangelist-luke.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
