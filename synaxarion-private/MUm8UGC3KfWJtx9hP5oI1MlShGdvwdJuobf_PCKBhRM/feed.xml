@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:02:37 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -24,64 +24,40 @@
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Prophet Joel</title>
-      <guid isPermaLink="false">patristic-nectar:3880</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-19&amp;episode=holy-prophet-joel</link>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Prophet Joel</description>
-      <itunes:summary>Holy Prophet Joel</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-oct-holy-prophet-joel.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-prophet-joel.mp3" length="6193109" type="audio/mpeg" />
-      <itunes:duration>00:02:35</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-prophet-joel.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Artemios</title>
+      <guid isPermaLink="false">patristic-nectar:3885</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-20&amp;episode=holy-great-martyr-artemios</link>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Artemios</description>
+      <itunes:summary>Holy Great Martyr Artemios</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-oct-holy-martyr-artemios.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-great-martyr-artemios.mp3" length="26455770" type="audio/mpeg" />
+      <itunes:duration>00:11:01</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-artemios.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Righteous and God-bearing Father John of Kronstadt</title>
-      <guid isPermaLink="false">patristic-nectar:3881</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-19&amp;episode=righteous-and-god-bearing-father-john-of-kronstadt</link>
-      <pubDate>Mon, 19 Oct 2026 06:01:00 +0000</pubDate>
-      <description>Righteous and God-bearing Father John of Kronstadt</description>
-      <itunes:summary>Righteous and God-bearing Father John of Kronstadt</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-oct-saint-john-of-kronstadt.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-and-god-bearing-father-john-of-kronstadt.mp3" length="31017795" type="audio/mpeg" />
-      <itunes:duration>00:12:55</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-and-god-bearing-father-john-of-kronstadt.vtt" type="text/vtt" />
+      <title>Righteous and God-bearing Father Gerasimos the New Ascetic of Cephalonia</title>
+      <guid isPermaLink="false">patristic-nectar:3886</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-20&amp;episode=righteous-and-god-bearing-father-gerasimos-the-new-ascetic-of-cephalonia</link>
+      <pubDate>Tue, 20 Oct 2026 06:01:00 +0000</pubDate>
+      <description></description>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-oct-saint-gerasimos.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/righteous-and-god-bearing-father-gerasimos-the-new-ascetic-of-cephalonia.mp3" length="16513566" type="audio/mpeg" />
+      <itunes:duration>00:06:53</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/righteous-and-god-bearing-father-gerasimos-the-new-ascetic-of-cephalonia.vtt" type="text/vtt" />
     </item>
     <item>
-      <title>Holy Martyr Varus and His Companions</title>
-      <guid isPermaLink="false">patristic-nectar:3882</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-19&amp;episode=holy-martyr-varus-and-his-companions</link>
-      <pubDate>Mon, 19 Oct 2026 06:02:00 +0000</pubDate>
-      <description>Holy Martyr Varus and His Companions</description>
-      <itunes:summary>Holy Martyr Varus and His Companions</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-oct-holy-martyr-varus.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/holy-martyr-varus-and-his-companions.mp3" length="15808260" type="audio/mpeg" />
-      <itunes:duration>00:06:35</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-martyr-varus-and-his-companions.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Our Holy Father John of Rila the Wonder-Worker, Founder of the Monastery of Rila in Bulgaria</title>
-      <guid isPermaLink="false">patristic-nectar:3883</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-19&amp;episode=our-holy-father-john-of-rila-the-wonder-worker-founder-of-the-monastery-of-rila-in-bulgaria</link>
-      <pubDate>Mon, 19 Oct 2026 06:03:00 +0000</pubDate>
-      <description>Our Holy Father John of Rila the Wonder-Worker, Founder of the Monastery of Rila in Bulgaria</description>
-      <itunes:summary>Our Holy Father John of Rila the Wonder-Worker, Founder of the Monastery of Rila in Bulgaria</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-oct-saint-john-of-rila.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-john-of-rila-the-wonder-worker-founder-of-the-monastery-of-rila-in-bulgaria.mp3" length="12695509" type="audio/mpeg" />
-      <itunes:duration>00:05:17</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-john-of-rila-the-wonder-worker-founder-of-the-monastery-of-rila-in-bulgaria.vtt" type="text/vtt" />
-    </item>
-    <item>
-      <title>Venerable Frideswide of Oxford</title>
-      <guid isPermaLink="false">patristic-nectar:3884</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-19&amp;episode=venerable-frideswide-of-oxford</link>
-      <pubDate>Mon, 19 Oct 2026 06:04:00 +0000</pubDate>
-      <description>Venerable Frideswide of Oxford</description>
-      <itunes:summary>Venerable Frideswide of Oxford</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/19-oct-saint-frideswide-of-oxford.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/venerable-frideswide-of-oxford.mp3" length="5999803" type="audio/mpeg" />
-      <itunes:duration>00:02:30</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/venerable-frideswide-of-oxford.vtt" type="text/vtt" />
+      <title>Our Holy Father Jonah, Bishop of Manchuria</title>
+      <guid isPermaLink="false">patristic-nectar:3887</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-20&amp;episode=our-holy-father-jonah-bishop-of-manchuria</link>
+      <pubDate>Tue, 20 Oct 2026 06:02:00 +0000</pubDate>
+      <description>Our Holy Father Jonah, Bishop of Manchuria</description>
+      <itunes:summary>Our Holy Father Jonah, Bishop of Manchuria</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/20-oct-saint-jonah.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/our-holy-father-jonah-bishop-of-manchuria.mp3" length="18644113" type="audio/mpeg" />
+      <itunes:duration>00:07:46</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/our-holy-father-jonah-bishop-of-manchuria.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
