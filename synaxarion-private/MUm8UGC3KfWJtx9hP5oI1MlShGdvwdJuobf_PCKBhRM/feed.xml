@@ -8,7 +8,7 @@
     <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     <description>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:01:31 +0000</lastBuildDate>
     <atom:link href="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Patristic Nectar Publications</itunes:author>
     <itunes:summary>Daily Synaxarion audio from Patristic Nectar, reformatted into a private podcast feed.</itunes:summary>
@@ -24,16 +24,16 @@
       <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM</link>
     </image>
     <item>
-      <title>Holy Hieromartyr and Apostle James the Brother of God</title>
-      <guid isPermaLink="false">patristic-nectar:3891</guid>
-      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-23&amp;episode=holy-hieromartyr-and-apostle-james-the-brother-of-god</link>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Holy Hieromartyr and Apostle James the Brother of God</description>
-      <itunes:summary>Holy Hieromartyr and Apostle James the Brother of God</itunes:summary>
-      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/23-oct-apostle-james-brother-of-god.jpg" />
-      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="19271052" type="audio/mpeg" />
-      <itunes:duration>00:08:02</itunes:duration>
-      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-hieromartyr-and-apostle-james-the-brother-of-god.vtt" type="text/vtt" />
+      <title>Holy Great Martyr Arethas and Those with Him</title>
+      <guid isPermaLink="false">patristic-nectar:3892</guid>
+      <link>https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM?date=2026-10-24&amp;episode=holy-great-martyr-arethas-and-those-with-him</link>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Holy Great Martyr Arethas and Those with Him</description>
+      <itunes:summary>Holy Great Martyr Arethas and Those with Him</itunes:summary>
+      <itunes:image href="https://ott-patristic-production-assets.b-cdn.net/assets/public/24-saint-arethas-and-those-with-him.jpg" />
+      <enclosure url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/audio/today.mp3" length="24025337" type="audio/mpeg" />
+      <itunes:duration>00:10:01</itunes:duration>
+      <podcast:transcript url="https://peterberthelsen.github.io/synaxarion-private/MUm8UGC3KfWJtx9hP5oI1MlShGdvwdJuobf_PCKBhRM/transcripts/holy-great-martyr-arethas-and-those-with-him.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
